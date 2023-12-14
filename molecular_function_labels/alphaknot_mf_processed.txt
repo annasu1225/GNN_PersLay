@@ -1,0 +1,196 @@
+#Knot_type	Uniprot_ID	Molecular_Function
+5_2	Q54T48	Hydrolase, Protease, Thiol protease
+5_2	K7K4Y1	Hydrolase, Protease, Thiol protease
+5_2	Q8GWE1	Hydrolase, Protease, Thiol protease
+5_2	Q965V9	Hydrolase, Protease, Thiol protease
+5_2	Q8IKM8	Hydrolase, Protease, Thiol protease
+5_2	Q54N38	Hydrolase, Protease, Thiol protease
+5_2	Q9UUB6	Hydrolase, Protease, Thiol protease
+5_2	Q9WUP7	Hydrolase, Protease, Thiol protease
+5_2	Q9VYQ3	Chromatin regulator, Hydrolase, Protease, Thiol protease
+5_2	Q9Y5K5	Hydrolase, Protease, Thiol protease
+5_2	I1NIJ5	Hydrolase, Protease, Thiol protease
+5_2	I1LBV4	Hydrolase, Protease, Thiol protease
+5_2	A0A1D8PNY8	Hydrolase, Protease, Thiol protease
+5_2	O04482	Hydrolase, Protease, Thiol protease
+5_2	P35127	Hydrolase, Protease, Thiol protease
+5_2	Q6ETK2	Hydrolase, Protease, Thiol protease
+5_2	Q9XZ61	Chromatin regulator, Hydrolase, Protease, Thiol protease
+5_2	I1MV53	Hydrolase, Protease, Thiol protease
+5_2	Q6K6Z5	Hydrolase, Protease, Thiol protease
+5_2	Q4D1R0	Hydrolase, Protease, Thiol protease
+5_2	E9AH53	Hydrolase, Protease, Thiol protease
+5_2	Q9FFF2	Hydrolase, Protease, Thiol protease
+5_2	O23482	Developmental protein
+5_2	Q09444	Hydrolase, Protease, Thiol protease
+5_2	D3ZHS6	Chromatin regulator, Hydrolase, Protease, Thiol protease
+5_2	Q7K5N4	Chromatin regulator, Hydrolase, Protease, Thiol protease
+5_2	Q99PU7	Chromatin regulator, Hydrolase, Protease, Thiol protease
+5_2	Q92560	Chromatin regulator, Hydrolase, Protease, Thiol protease
+5_2	A0A0R0K2F0	Hydrolase, Protease, Thiol protease
+5_2	A1L2G3	Chromatin regulator, Hydrolase, Protease, Thiol protease
+5_2	A0A1D6KM35	Hydrolase, Protease, Thiol protease
+5_2	A0A1D6HPV4	Hydrolase, Protease, Thiol protease
+4_1	Q5VPB9	Isomerase, Oxidoreductase
+4_1	Q65XK0	Oxidoreductase
+4_1	A0A1D6FKV6	Isomerase, Oxidoreductase
+4_1	B4FFZ2	Isomerase, Oxidoreductase
+4_1	I1M3M4	Oxidoreductase
+4_1	Q05758	Oxidoreductase
+4_1	I1LSB5	Oxidoreductase
+4_1	I1LUL9	Oxidoreductase
+4_1	P05793	Oxidoreductase
+4_1	K7KXV3	Oxidoreductase
+4_1	I1L257	Photoreceptor protein, Receptor
+4_1	I1MGE5	Photoreceptor protein, Receptor
+4_1	P14713	DNA-binding, Photoreceptor protein, Receptor, Repressor
+4_1	P14714	Photoreceptor protein, Receptor
+4_1	Q6XFQ2	Photoreceptor protein, Receptor
+4_1	Q10CQ8	Photoreceptor protein, Receptor
+4_1	Q6XFQ3	Photoreceptor protein, Receptor
+4_1	Q10MG9	Photoreceptor protein, Receptor
+4_1	B4YB07	Photoreceptor protein, Receptor
+4_1	P14712	Kinase, Photoreceptor protein, Receptor, Transferase
+4_1	P42497	Photoreceptor protein, Receptor
+4_1	Q6XFQ1	Photoreceptor protein, Receptor
+4_1	B4YB10	Photoreceptor protein, Receptor
+4_1	Q10DU0	Photoreceptor protein, Receptor
+4_1	P19862	Photoreceptor protein, Receptor
+4_1	C1PHB8	Photoreceptor protein, Receptor
+4_1	P42498	Photoreceptor protein, Receptor
+4_1	Q6XFQ4	Photoreceptor protein, Receptor
+4_1	A0A1D6GGX9	Isomerase, Photoreceptor protein, Receptor
+4_1	A0A0R0HSY5	Photoreceptor protein, Receptor
+4_1	P42499	Photoreceptor protein, Receptor
+4_1	Q8IAU3	Kinase, Multifunctional enzyme, Transferase
+4_1	P42500	Photoreceptor protein, Receptor
+3_1	P07451	Lyase
+3_1	P16015	Lyase
+3_1	Q3THS6	Transferase
+3_1	F1QYU7	Transferase
+3_1	Q7ZW04	Transferase
+3_1	P9WIK7	Acyltransferase, Transferase
+3_1	P13444	Transferase
+3_1	P43166	Lyase
+3_1	P14141	Lyase
+3_1	I1LB04	Transferase
+3_1	P23686	Transferase
+3_1	Q92051	Lyase
+3_1	Q1RLT0	Transferase
+3_1	Q9SJL8	Transferase
+3_1	I1LZ62	Transferase
+3_1	I1MRW7	Transferase
+3_1	P10659	Transferase
+3_1	Q9LUT2	Transferase
+3_1	P18298	Transferase
+3_1	P40320	Transferase
+3_1	O43570	Lyase
+3_1	P00918	Lyase
+3_1	Q9ERQ8	Lyase
+3_1	P00920	Lyase
+3_1	Q58EF9	Transferase
+3_1	I1MRW8	Transferase
+3_1	I1L8X2	Transferase
+3_1	Q91X83	Transferase
+3_1	I1LVJ0	Transferase
+3_1	I1MHR0	Transferase
+3_1	P9WFY7	Methyltransferase, Transferase
+3_1	I1JPQ2	Transferase
+3_1	Q0DKY4	Transferase
+3_1	Q16790	Lyase
+3_1	B5DFG6	Lyase
+3_1	B2RZ61	Lyase
+3_1	Q9D6N1	Lyase
+3_1	O60198	Transferase
+3_1	Q9LGU6	Transferase
+3_1	Q8N1Q1	Lyase
+3_1	B4FIE9	Transferase
+3_1	P93438	Transferase
+3_1	Q9ULX7	Lyase
+3_1	I1JQV8	Transferase
+3_1	I1NBG9	Transferase
+3_1	P27139	Lyase
+3_1	P0A8I8	Methyltransferase, Transferase
+3_1	A0A1D8PF68	Transferase
+3_1	P31153	Transferase
+3_1	P19358	Transferase
+3_1	Q2FZ43	Methyltransferase, Transferase
+3_1	P0A873	Methyltransferase, Transferase
+3_1	A0A1D6FHW2	Transferase
+3_1	Q54F07	Transferase
+3_1	B8A068	Transferase
+3_1	O50394	Methyltransferase, Transferase
+3_1	P50306	Transferase
+3_1	Q46803	Transferase
+3_1	F7FL00	Lyase
+3_1	Q2G252	Methyltransferase, Transferase
+3_1	Q59034	Methyltransferase, Transferase
+3_1	Q8VHB5	Lyase
+3_1	Q27522	Transferase
+3_1	P50305	Transferase
+3_1	P17562	Transferase
+3_1	Q9V9Y8	Lyase
+3_1	A0A1D6HJ15	Methyltransferase, Transferase
+3_1	I1L041	Methyltransferase, Transferase
+3_1	Q66HG6	Lyase
+3_1	A2IBE2	Lyase
+3_1	Q9Y2D0	Lyase
+3_1	Q4CSC4	Transferase
+3_1	Q9LXB4	Methyltransferase, Transferase
+3_1	Q9WVT6	Lyase
+3_1	E7FBE2	Methyltransferase, Transferase
+3_1	Q4KLI2	Methyltransferase, Transferase
+3_1	P22748	Lyase
+3_1	Q00266	Transferase
+3_1	E9AHK3	Transferase
+3_1	Q57977	Methyltransferase, RNA-binding, rRNA-binding, Transferase
+3_1	P0AGJ7	Methyltransferase, Transferase
+3_1	I1MFS5	Methyltransferase, Transferase
+3_1	O14214	Methyltransferase, Transferase
+3_1	Q64444	Lyase
+3_1	Q27504	Lyase
+3_1	Q9V9Y6	Lyase
+3_1	P23589	Lyase
+3_1	Q9FGI9	Methyltransferase, Transferase
+3_1	R4GDY8	Lyase
+3_1	Q9QZA0	Lyase
+3_1	A8KB74	Lyase
+3_1	A0A1D6FUX8	Transferase
+3_1	Q59Q39	Methyltransferase, Transferase
+3_1	Q8CI85	Lyase
+3_1	Q8TBZ6	Methyltransferase, Transferase
+3_1	P35218	Lyase
+3_1	Q92979	Methyltransferase, RNA-binding, rRNA-binding, Transferase
+3_1	P23280	Lyase
+3_1	Q5T280	Methyltransferase, RNA-binding, Transferase
+3_1	Q9NP92	Ribonucleoprotein, Ribosomal protein
+3_1	O95831	DNA-binding, Oxidoreductase
+3_1	Q7L0Y3	Methyltransferase, Transferase
+3_1	Q8NBA8	Transferase
+3_1	Q8NDH3	Aminopeptidase, Hydrolase, Protease
+3_1	Q7RTV0	Activator, DNA-binding, RNA-binding
+3_1	Q14CN2	Hydrolase, Metalloprotease, Protease
+3_1	O95905	Activator
+3_1	Q9BZE1	Ribonucleoprotein, Ribosomal protein
+3_1	A8K7I4	Hydrolase, Metalloprotease, Protease
+3_1	Q9UJK0	Transferase
+3_1	Q6PF06	Methyltransferase, Transferase
+3_1	Q13395	Methyltransferase, RNA-binding, Transferase
+3_1	Q9UQC9	Hydrolase, Metalloprotease, Protease
+3_1	Q7RTX0	G-protein coupled receptor, Receptor, Transducer
+3_1	Q6IN84	Methyltransferase, Transferase
+3_1	Q8TE23	G-protein coupled receptor, Receptor, Transducer
+3_1	Q6UXX5	Protease inhibitor, Serine protease inhibitor
+3_1	Q96RN1	Developmental protein
+3_1	Q9NYU1	Glycosyltransferase, Transferase
+3_1	Q9NYU2	Glycosyltransferase, Transferase
+3_1	Q9NQV8	DNA-binding, Methyltransferase, Transferase
+3_1	Q13075	Protease inhibitor, Thiol protease inhibitor
+3_1	Q9UPR5	Calmodulin-binding
+3_1	P57103	Calmodulin-binding
+3_1	Q12791	Ion channel, Potassium channel, Voltage-gated channel
+3_1	P32418	Calmodulin-binding
+3_1	A8MYU2	Ion channel, Potassium channel, Voltage-gated channel
+3_1	Q8N5C7	Transferase
+3_1	Q9NVC6	Activator
+3_1	Q9HC36	Methyltransferase, Transferase

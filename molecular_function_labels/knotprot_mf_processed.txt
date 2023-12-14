@@ -1,0 +1,649 @@
+PDB_code	Chain	Main_knot_type	Molecular_function
+1uak	A	31.0	Methyltransferase, Transferase
+1by7	A	31.0	Protease inhibitor, Serine protease inhibitor
+1cmx	A	31.0	Hydrolase, Protease, Thiol protease
+1f48	A	31.0	Translocase
+1fug	A	31.0	Transferase
+1gz0	A	31.0	Methyltransferase, Transferase
+1js1	X	31.0	Transferase
+1mxa	A	31.0	Transferase
+1mxb	A	31.0	Transferase
+1mxc	A	31.0	Transferase
+1mxi	A	31.0	Methyltransferase, Transferase
+1ns5	A	31.0	Methyltransferase, Transferase
+1nxz	A	31.0	Methyltransferase, Transferase
+1o6d	A	31.0	Methyltransferase, Transferase
+1o90	A	31.0	Transferase
+1o92	A	31.0	Transferase
+1o93	A	31.0	Transferase
+1o9t	A	31.0	Transferase
+1p7l	A	31.0	Transferase
+1p9p	A	31.0	Methyltransferase, Transferase
+1qm4	A	31.0	Transferase
+1rg9	A	31.0	Transferase
+1to0	A	31.0	Methyltransferase, Transferase
+1uaj	A	31.0	Methyltransferase, Transferase
+1ual	A	31.0	Methyltransferase, Transferase
+1uam	A	31.0	Methyltransferase, Transferase
+1v2x	A	31.0	Methyltransferase, RNA-binding, Transferase, tRNA-binding
+1v6z	A	31.0	Methyltransferase, Transferase
+1vh0	A	31.0	Methyltransferase, Transferase
+1vhk	A	31.0	Methyltransferase, Transferase
+1vhy	A	31.0	Methyltransferase, Transferase
+1x7o	A	31.0	Methyltransferase, Transferase
+1x7p	A	31.0	Methyltransferase, Transferase
+1xd3	A	31.0	Hydrolase, Protease, Thiol protease
+1xd3	A	52.0	Hydrolase, Protease, Thiol protease
+1xra	A	31.0	Transferase
+1xrb	A	31.0	Transferase
+1xrc	A	31.0	Transferase
+1yrl	A	31.0	Oxidoreductase
+1yrl	A	41.0	Oxidoreductase
+1zjr	A	31.0	Methyltransferase, RNA-binding, Transferase, tRNA-binding
+1znc	A	31.0	Lyase
+1ztu	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+2cx8	A	31.0	Methyltransferase, Transferase
+2egv	A	31.0	Methyltransferase, Transferase
+2egw	A	31.0	Methyltransferase, Transferase
+2etl	A	31.0	Hydrolase, Protease, Thiol protease
+2etl	A	52.0	Hydrolase, Protease, Thiol protease
+2fg6	C	31.0	Transferase
+2g7m	C	31.0	Transferase
+2ha8	A	31.0	Methyltransferase, RNA-binding, Transferase
+2i6d	A	31.0	Methyltransferase, Transferase
+2o3a	A	31.0	Methyltransferase, Transferase
+2o9b	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+2o9c	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+2obv	A	31.0	Transferase
+2ool	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+2p02	A	31.0	Transferase
+2qmm	A	31.0	Methyltransferase, Transferase
+2qwv	A	31.0	Methyltransferase, Transferase
+2v3j	A	31.0	Methyltransferase, Ribonucleoprotein, RNA-binding, rRNA-binding, Transferase
+2v3k	A	31.0	Methyltransferase, Ribonucleoprotein, RNA-binding, rRNA-binding, Transferase
+2vea	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+2wdt	A	31.0	Hydrolase, Protease, Thiol protease
+2wdt	A	52.0	Hydrolase, Protease, Thiol protease
+2we6	A	31.0	Hydrolase, Protease, Thiol protease
+2we6	A	52.0	Hydrolase, Protease, Thiol protease
+2yy8	A	31.0	Methyltransferase, Transferase
+2z0y	A	31.0	Methyltransferase, Transferase
+2znc	A	31.0	Lyase
+3a7s	A	31.0	Hydrolase, Protease, Thiol protease
+3a7s	A	52.0	Hydrolase, Protease, Thiol protease
+3ai9	X	31.0	Methyltransferase, Transferase
+3aia	A	31.0	Methyltransferase, Transferase
+3b1b	A	31.0	Lyase
+3bbd	A	31.0	Methyltransferase, RNA-binding, rRNA-binding, Transferase
+3bbe	A	31.0	Methyltransferase, RNA-binding, rRNA-binding, Transferase
+3bbh	A	31.0	Methyltransferase, RNA-binding, rRNA-binding, Transferase
+3c2w	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+3e5y	A	31.0	Methyltransferase, Transferase
+3ed7	A	31.0	Methyltransferase, Transferase
+3f7b	A	31.0	Lyase
+3fw3	A	31.0	Lyase
+3g6o	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+3gyq	A	31.0	Methyltransferase, Transferase
+3ibr	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+3ic6	A	31.0	Methyltransferase, Transferase
+3ief	A	31.0	Methyltransferase, Transferase
+3ifw	A	31.0	Hydrolase, Protease, Thiol protease
+3ifw	A	52.0	Hydrolase, Protease, Thiol protease
+3ilk	A	31.0	Methyltransferase, Transferase
+3iml	A	31.0	Transferase
+3irt	A	31.0	Hydrolase, Protease, Thiol protease
+3irt	A	52.0	Hydrolase, Protease, Thiol protease
+3jxf	A	31.0	Hydrolase, Protein phosphatase
+3jxg	A	31.0	Hydrolase, Protein phosphatase
+3jxh	C	31.0	Hydrolase, Protein phosphatase
+3knu	A	31.0	Methyltransferase, Transferase
+3kty	A	31.0	Methyltransferase, Transferase
+3kvf	A	31.0	Hydrolase, Protease, Thiol protease
+3kvf	A	52.0	Hydrolase, Protease, Thiol protease
+3kw2	A	31.0	Methyltransferase, Transferase
+3kw5	A	31.0	Hydrolase, Protease, Thiol protease
+3kw5	A	52.0	Hydrolase, Protease, Thiol protease
+3ky7	A	31.0	Methyltransferase, Transferase
+3kzc	A	31.0	Transferase
+3kzk	A	31.0	Transferase
+3kzn	A	31.0	Transferase
+3kzo	A	31.0	Transferase
+3l02	A	31.0	Transferase
+3l04	A	31.0	Transferase
+3l05	A	31.0	Transferase
+3l06	A	31.0	Transferase
+3l8u	A	31.0	Methyltransferase, Transferase
+3m4j	A	31.0	Transferase
+3m4n	A	31.0	Transferase
+3m5c	A	31.0	Transferase
+3m5d	A	31.0	Transferase
+3mt5	A	31.0	Ion channel, Potassium channel, Voltage-gated channel
+3n4j	A	31.0	Methyltransferase, Transferase
+3n4k	A	31.0	Methyltransferase, Transferase
+3nhq	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+3nk6	A	31.0	Methyltransferase, Transferase
+3nk7	A	31.0	Methyltransferase, Transferase
+3o7b	A	31.0	Methyltransferase, RNA-binding, rRNA-binding, Transferase
+3oii	A	31.0	Methyltransferase, Ribonucleoprotein, RNA-binding, rRNA-binding, Transferase
+3oij	A	31.0	Methyltransferase, Ribonucleoprotein, RNA-binding, rRNA-binding, Transferase
+3oin	A	31.0	Methyltransferase, Ribonucleoprotein, RNA-binding, rRNA-binding, Transferase
+3onp	A	31.0	Methyltransferase, Transferase
+3q98	A	31.0	Transferase
+3quv	A	31.0	Methyltransferase, Transferase
+3rii	A	31.0	Hydrolase, Protease, Thiol protease
+3rii	A	52.0	Hydrolase, Protease, Thiol protease
+3ris	A	31.0	Hydrolase, Protease, Thiol protease
+3ris	A	52.0	Hydrolase, Protease, Thiol protease
+3rv2	A	31.0	Transferase
+3s7q	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+3s82	A	31.0	Transferase
+3tde	A	31.0	Transferase
+3ulk	A	31.0	Oxidoreductase
+3ulk	A	41.0	Oxidoreductase
+3znc	A	31.0	Lyase
+4dm9	A	31.0	Hydrolase, Protease, Thiol protease
+4dm9	A	52.0	Hydrolase, Protease, Thiol protease
+4e04	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+4e8b	A	31.0	Methyltransferase, Transferase
+4fak	A	31.0	Methyltransferase, Transferase
+4fmw	A	31.0	Methyltransferase, Transferase
+4gw9	A	41.0	Photoreceptor protein, Receptor
+4h3z	A	31.0	Methyltransferase, Transferase
+4h6v	A	31.0	Hydrolase, Protease, Serine protease
+4ijg	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+4jak	A	31.0	Methyltransferase, Transferase
+4jwf	A	31.0	Methyltransferase, Transferase
+4jwh	A	31.0	Methyltransferase, Transferase
+4jwj	A	31.0	Methyltransferase, Transferase
+4kdz	A	31.0	Methyltransferase, Transferase
+4kgn	A	31.0	Methyltransferase, Transferase
+4l69	A	31.0	Methyltransferase, Transferase
+4l7i	A	31.0	Transferase
+4mcd	A	31.0	Methyltransferase, Transferase
+4o6d	A	31.0	Helicase, Hydrolase, Methyltransferase, Nucleotidyltransferase, Protease, RNA-binding, RNA-directed RNA polymerase, Serine protease, Suppressor of RNA silencing, Transferase
+4o6d	B	31.0	Helicase, Hydrolase, Methyltransferase, Nucleotidyltransferase, Protease, RNA-binding, RNA-directed RNA polymerase, Serine protease, Suppressor of RNA silencing, Transferase
+3zq5	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+4l4q	A	31.0	Transferase
+4n2x	A	61.0	Hydrolase
+4n2x	A	31.0	Hydrolase
+4n2x	A	41.0	Hydrolase
+1uch	A	31.0	Hydrolase, Protease, Thiol protease
+1uch	A	52.0	Hydrolase, Protease, Thiol protease
+3wj8	A	61.0	Hydrolase
+3wj8	A	31.0	Hydrolase
+3wj8	A	41.0	Hydrolase
+3s7o	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+3nou	C	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+3not	C	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+3nop	C	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+3s7p	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+3s7n	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+4q0i	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+4q0h	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+4cqh	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+4jal	A	31.0	Methyltransferase, Transferase
+4jkj	A	31.0	Hydrolase, Protease, Thiol protease
+4jkj	A	52.0	Hydrolase, Protease, Thiol protease
+2len	A	31.0	Hydrolase, Protease, Thiol protease
+2len	A	52.0	Hydrolase, Protease, Thiol protease
+4jkj	B	31.0	Hydrolase, Protease, Thiol protease
+4jkj	B	52.0	Hydrolase, Protease, Thiol protease
+4mcc	A	31.0	Methyltransferase, Transferase
+4mcb	A	31.0	Methyltransferase, Transferase
+4l2z	A	31.0	Transferase
+4k0b	A	31.0	Transferase
+3axz	A	31.0	Methyltransferase, Transferase
+4ig6	A	31.0	Methyltransferase, Transferase
+4hpv	A	31.0	Transferase
+4h3y	A	31.0	Methyltransferase, Transferase
+3kzm	A	31.0	Transferase
+4jwg	A	31.0	Methyltransferase, Transferase
+4pzk	B	31.0	Methyltransferase, Transferase
+4pzk	A	31.0	Methyltransferase, Transferase
+4ndn	A	31.0	Transferase
+4ndn	B	31.0	Transferase
+4ndn	C	31.0	Transferase
+4ndn	D	31.0	Transferase
+3so4	A	31.0	Transferase
+4ktv	D	31.0	Transferase
+4ktv	C	31.0	Transferase
+4ktv	B	31.0	Transferase
+4ktv	A	31.0	Transferase
+4ktt	D	31.0	Transferase
+4ktt	C	31.0	Transferase
+4ktt	B	31.0	Transferase
+4ktt	A	31.0	Transferase
+4o01	D	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+4o01	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+4o0p	B	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+4o0p	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+4o01	B	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+4o01	C	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+4cng	A	31.0	Methyltransferase, Transferase
+4cnf	A	31.0	Methyltransferase, Transferase
+4cne	A	31.0	Methyltransferase, Transferase
+4cnd	A	31.0	Methyltransferase, Transferase
+4j3c	A	31.0	Methyltransferase, Transferase
+3cwo	X	31.0	Lyase
+3ihr	A	31.0	Hydrolase, Protease, Thiol protease
+3ihr	A	52.0	Hydrolase, Protease, Thiol protease
+4q0j	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+3s97	A	31.0	Hydrolase, Protein phosphatase
+3kld	B	31.0	Hydrolase, Protein phosphatase
+4o8g	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+3j7y	5	31.0	Ribonucleoprotein, Ribosomal protein
+3j7y	s	31.0	Ribonucleoprotein, Ribosomal protein
+4rg1	A	31.0	Methyltransferase, RNA-binding, Transferase
+4x3m	A	31.0	Methyltransferase, Transferase
+4yqd	A	31.0	Methyltransferase, Transferase
+4y5f	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+4y3i	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+4uf6	A	31.0	Hydrolase, Protease, Thiol protease
+4uf6	A	52.0	Hydrolase, Protease, Thiol protease
+4r6l	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+4ws9	A	31.0	Transferase
+4wlr	A	31.0	Hydrolase, Protease, Thiol protease
+4wlr	A	52.0	Hydrolase, Protease, Thiol protease
+4wlq	A	31.0	Hydrolase, Protease, Thiol protease
+4wlq	A	52.0	Hydrolase, Protease, Thiol protease
+4wlp	A	31.0	Hydrolase, Protease, Thiol protease
+4wlp	A	52.0	Hydrolase, Protease, Thiol protease
+4uf5	A	31.0	Hydrolase, Protease, Thiol protease
+4uf5	A	52.0	Hydrolase, Protease, Thiol protease
+4uem	A	31.0	Hydrolase, Protease, Thiol protease
+4uem	A	52.0	Hydrolase, Protease, Thiol protease
+4uel	A	31.0	Hydrolase, Protease, Thiol protease
+4uel	A	52.0	Hydrolase, Protease, Thiol protease
+4xbo	A	31.0	Methyltransferase, Transferase
+5e4r	A	31.0	Oxidoreductase
+5e4r	A	41.0	Oxidoreductase
+4yvk	A	31.0	Methyltransferase, Transferase
+4yvj	A	31.0	Methyltransferase, Transferase
+4yvi	A	31.0	Methyltransferase, Transferase
+4yvh	A	31.0	Methyltransferase, Transferase
+4yvg	A	31.0	Methyltransferase, Transferase
+5a7y	A	31.0	Methyltransferase, Transferase
+5fai	A	31.0	Methyltransferase, RNA-binding, rRNA-binding, Transferase
+5c77	A	31.0	Methyltransferase, Transferase
+4z1w	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+4zrr	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+4x3l	A	31.0	Methyltransferase, Transferase
+5c74	A	31.0	Methyltransferase, Transferase
+5a7z	A	31.0	Methyltransferase, Transferase
+5a7t	A	31.0	Methyltransferase, Transferase
+5a1i	A	31.0	Transferase
+5co4	A	31.0	Methyltransferase, Transferase
+5apg	A	31.0	Transferase
+5ap8	A	31.0	Transferase
+4yqt	A	31.0	Methyltransferase, Transferase
+4yqs	A	31.0	Methyltransferase, Transferase
+4yqr	A	31.0	Methyltransferase, Transferase
+4ypx	A	31.0	Methyltransferase, Transferase
+5jpq	e	31.0	Methyltransferase, Ribonucleoprotein, RNA-binding, rRNA-binding, Transferase
+5i5l	A	41.0	Photoreceptor protein, Receptor
+5hsq	A	41.0	Photoreceptor protein, Receptor
+5e5r	A	31.0	Hydrolase, Protein phosphatase
+5syb	A	31.0	Activator, DNA-binding, RNA-binding
+5t8s	A	31.0	Transferase
+5t8t	A	31.0	Transferase
+5gm8	A	31.0	Methyltransferase, Transferase
+5gmc	A	31.0	Methyltransferase, Transferase
+5gmb	A	31.0	Methyltransferase, Transferase
+5ife	D	31.0	Activator, DNA-binding, RNA-binding
+5k5b	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+5l8m	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+5lbr	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+5h9u	A	31.0	Transferase
+5h5f	A	31.0	Methyltransferase, Transferase
+5h5e	A	31.0	Methyltransferase, Transferase
+5ipz	A	31.0	Lyase
+5twk	A	31.0	Methyltransferase, Transferase
+5twj	A	31.0	Methyltransferase, Transferase
+5vik	A	41.0	Photoreceptor protein, Receptor
+5gra	A	31.0	Methyltransferase, Transferase
+5oom	s	31.0	Ribonucleoprotein, Ribosomal protein
+5oql	e	31.0	RNA-binding, rRNA-binding
+5o95	A	31.0	Methyltransferase, Transferase
+5o96	A	31.0	Methyltransferase, Transferase
+5wyr	A	31.0	Methyltransferase, Transferase
+5wyq	A	31.0	Methyltransferase, Transferase
+5nfx	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+5nm3	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+5nwn	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+5l0z	A	31.0	Methyltransferase, Transferase
+5kzk	A	31.0	Methyltransferase, Transferase
+5ku6	A	31.0	Lyase
+6fht	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+1j85	A	31.0	Methyltransferase, Transferase
+5a19	A	31.0	Transferase
+5vm8	A	31.0	Methyltransferase, Transferase
+5ugh	A	31.0	Transferase
+1cng	A	31.0	Lyase
+4rq9	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+5dog	A	31.0	Lyase
+5doh	A	31.0	Lyase
+5lle	A	31.0	Lyase
+5llg	A	31.0	Lyase
+3mhl	A	31.0	Lyase
+3m5e	A	31.0	Lyase
+3m40	A	31.0	Lyase
+3m3x	A	31.0	Lyase
+3m67	A	31.0	Lyase
+3m98	A	31.0	Lyase
+3m2n	A	31.0	Lyase
+3mhm	A	31.0	Lyase
+3m96	A	31.0	Lyase
+5drs	A	31.0	Lyase
+5l6k	A	31.0	Lyase
+5llo	A	31.0	Lyase
+5lln	A	31.0	Lyase
+5llp	A	31.0	Lyase
+5msb	A	31.0	Lyase
+3po6	A	31.0	Lyase
+5thj	A	31.0	Lyase
+5jn8	A	31.0	Lyase
+5jna	A	31.0	Lyase
+5jnc	A	31.0	Lyase
+5t75	A	31.0	Lyase
+5m78	A	31.0	Lyase
+5y2r	A	31.0	Lyase
+5y2s	A	31.0	Lyase
+5dsr	A	31.0	Lyase
+1hva	A	31.0	Lyase
+3bet	A	31.0	Lyase
+3caj	A	31.0	Lyase
+3ibu	A	31.0	Lyase
+3ibn	A	31.0	Lyase
+3ibl	A	31.0	Lyase
+5dsq	A	31.0	Lyase
+5dso	A	31.0	Lyase
+5g03	A	31.0	Lyase
+5sz0	A	31.0	Lyase
+5sz1	A	31.0	Lyase
+5sz2	A	31.0	Lyase
+5sz3	A	31.0	Lyase
+5sz4	A	31.0	Lyase
+5sz7	A	31.0	Lyase
+5jn3	A	31.0	Lyase
+5nxg	A	31.0	Lyase
+5nxi	A	31.0	Lyase
+5nxo	A	31.0	Lyase
+5nxp	A	31.0	Lyase
+5nxv	A	31.0	Lyase
+5nxw	A	31.0	Lyase
+5ny1	A	31.0	Lyase
+5ny3	A	31.0	Lyase
+5ny6	A	31.0	Lyase
+5nya	A	31.0	Lyase
+1fsn	A	31.0	Lyase
+2cbe	A	31.0	Lyase
+3rz5	A	31.0	Lyase
+3rz7	A	31.0	Lyase
+3s76	A	31.0	Lyase
+1zsa	A	31.0	Lyase
+6emu	A	31.0	Methyltransferase, Transferase
+5viq	A	41.0	Photoreceptor protein, Receptor
+5viv	A	41.0	Photoreceptor protein, Receptor
+1cnh	A	31.0	Lyase
+5c5k	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+4xtq	A	41.0	Photoreceptor protein, Receptor
+4twm	A	31.0	Antioxidant, Lyase, Oxidoreductase, Storage protein
+4twl	A	31.0	Antioxidant, Lyase, Oxidoreductase, Storage protein
+5mg0	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+5wyk	E1	31.0	Methyltransferase, Ribonucleoprotein, RNA-binding, rRNA-binding, Transferase
+5a1g	A	31.0	Transferase
+4cnd	B	31.0	Methyltransferase, Transferase
+5nrl	S	31.0	Ribonucleoprotein
+5o9z	y	31.0	Activator, DNA-binding, RNA-binding
+5gmn	A	31.0	Lyase
+2ax2	A	31.0	Lyase
+2fos	A	31.0	Lyase
+1fqm	A	31.0	Lyase
+1xev	A	31.0	Lyase
+2nxt	A	31.0	Lyase
+5l70	A	31.0	Lyase
+3czv	A	31.0	Lyase
+3okv	A	31.0	Lyase
+3sbi	A	31.0	Lyase
+3bl0	A	31.0	Lyase
+3rz0	B	31.0	Lyase
+3t85	A	31.0	Lyase
+5yuj	A	31.0	Lyase
+2osf	A	31.0	Lyase
+4kap	A	31.0	Lyase
+1g0e	A	31.0	Lyase
+2ez7	A	31.0	Lyase
+1if9	A	31.0	Lyase
+1if7	A	31.0	Lyase
+2cbc	A	31.0	Lyase
+4lu3	A	31.0	Lyase
+1thk	A	31.0	Lyase
+3s73	B	31.0	Lyase
+6got	A	31.0	Lyase
+2wej	A	31.0	Lyase
+3k34	A	31.0	Lyase
+3fr7	A	31.0	Oxidoreductase
+3fr7	A	41.0	Oxidoreductase
+4mlt	A	31.0	Lyase
+5eij	A	31.0	Lyase
+4r59	A	31.0	Lyase
+4mdg	A	31.0	Lyase
+3mnu	A	31.0	Lyase
+2nno	A	31.0	Lyase
+1cao	A	31.0	Lyase
+3v2j	A	31.0	Lyase
+3kon	A	31.0	Lyase
+4m2r	A	31.0	Lyase
+2nwo	A	31.0	Lyase
+5msa	A	31.0	Lyase
+5fl5	A	31.0	Lyase
+1yve	I	31.0	Oxidoreductase
+1yve	I	41.0	Oxidoreductase
+1cak	A	31.0	Lyase
+5flp	A	31.0	Lyase
+5flr	A	31.0	Lyase
+4xz5	A	31.0	Lyase
+3ml5	A	31.0	Lyase
+4qsb	A	31.0	Lyase
+5ty1	A	31.0	Lyase
+1cnj	A	31.0	Lyase
+3mhc	A	31.0	Lyase
+5fls	A	31.0	Lyase
+5umc	A	31.0	Lyase
+5g01	A	31.0	Lyase
+4ywp	A	31.0	Lyase
+4mdl	A	31.0	Lyase
+4fpt	A	31.0	Lyase
+3s72	B	31.0	Lyase
+3daz	A	31.0	Lyase
+2vvb	X	31.0	Lyase
+4z1e	A	31.0	Lyase
+3kkx	A	31.0	Lyase
+4kp5	A	31.0	Lyase
+4l5v	A	31.0	Lyase
+3u3a	X	31.0	Lyase
+3hkn	A	31.0	Lyase
+5tfx	A	31.0	Lyase
+5zya	D	31.0	Activator, DNA-binding, RNA-binding
+2fnn	A	31.0	Lyase
+1ugd	A	31.0	Lyase
+3p3j	A	31.0	Lyase
+5jes	B	31.0	Lyase
+3gz0	A	31.0	Lyase
+4qk1	A	31.0	Lyase
+5flo	A	31.0	Lyase
+5th4	A	31.0	Lyase
+5cjf	A	31.0	Lyase
+1z97	A	31.0	Lyase
+5sz5	A	31.0	Lyase
+1fsq	A	31.0	Lyase
+3ryj	B	31.0	Lyase
+1ze8	A	31.0	Lyase
+4ygn	A	31.0	Lyase
+5lmd	A	31.0	Lyase
+5jgs	B	31.0	Lyase
+4kp8	A	31.0	Lyase
+4z1k	A	31.0	Lyase
+4qrv	A	31.0	Hydrolase, Protease, Thiol protease
+2pou	A	31.0	Lyase
+6b00	A	31.0	Lyase
+5u0e	A	31.0	Lyase
+5g0b	A	31.0	Lyase
+5ll9	A	31.0	Lyase
+4m2u	A	31.0	Lyase
+4r5a	A	31.0	Lyase
+2fnk	A	31.0	Lyase
+5fnm	A	31.0	Lyase
+4iwz	A	31.0	Lyase
+4ht2	A	31.0	Lyase
+3s74	B	31.0	Lyase
+3v7x	A	31.0	Lyase
+3dv7	A	31.0	Lyase
+4qjm	A	31.0	Lyase
+6bbs	A	31.0	Lyase
+4mdm	A	31.0	Lyase
+3n0n	A	31.0	Lyase
+4q8z	A	31.0	Lyase
+4fl7	A	31.0	Lyase
+5fdc	A	31.0	Lyase
+5vgy	A	31.0	Lyase
+2wd3	A	31.0	Lyase
+4e5q	A	31.0	Lyase
+4wl4	A	31.0	Lyase
+5u0f	A	31.0	Lyase
+4kuy	A	31.0	Lyase
+3v2m	A	31.0	Lyase
+1g0f	A	31.0	Lyase
+5tya	A	31.0	Lyase
+4pyx	A	31.0	Lyase
+6fe1	A	31.0	Lyase
+3ryx	B	31.0	Lyase
+1raz	A	31.0	Lyase
+4e4a	A	31.0	Lyase
+2fnm	A	31.0	Lyase
+3r16	A	31.0	Lyase
+5wlr	A	31.0	Lyase
+6d1l	A	31.0	Lyase
+3vbd	A	31.0	Lyase
+5jeh	B	31.0	Lyase
+4q90	A	31.0	Lyase
+2nns	A	31.0	Lyase
+3myq	A	31.0	Lyase
+3m1q	A	31.0	Lyase
+2eu2	A	31.0	Lyase
+4e3f	A	31.0	Lyase
+4e3g	A	31.0	Lyase
+2x7t	A	31.0	Lyase
+2ili	A	31.0	Lyase
+4fik	A	31.0	Lyase
+3p55	A	31.0	Lyase
+2nwz	A	31.0	Lyase
+3uyn	A	31.0	Lyase
+5t71	A	31.0	Lyase
+3ml2	A	31.0	Lyase
+4k1q	A	31.0	Lyase
+5ty8	A	31.0	Lyase
+5g0c	A	31.0	Lyase
+1fsr	A	31.0	Lyase
+6g98	A	31.0	Lyase
+5dvx	A	31.0	Lyase
+5amd	A	31.0	Lyase
+4qef	A	31.0	Lyase
+4hew	A	31.0	Lyase
+3oku	A	31.0	Lyase
+1z93	A	31.0	Lyase
+5brw	A	31.0	Lyase
+5wex	A	31.0	Lyase
+4q06	A	31.0	Lyase
+3p5a	A	31.0	Lyase
+5je7	B	31.0	Lyase
+5ekm	A	31.0	Lyase
+4z1j	A	31.0	Lyase
+3oys	A	31.0	Lyase
+4itp	A	31.0	Lyase
+3dvb	A	31.0	Lyase
+2pow	A	31.0	Lyase
+4knn	A	31.0	Lyase
+3sax	A	31.0	Lyase
+4qsa	A	31.0	Lyase
+3s8x	A	31.0	Lyase
+6eda	A	31.0	Lyase
+6eea	A	31.0	Lyase
+6i0j	A	31.0	Lyase
+6i0w	A	31.0	Lyase
+6hr3	A	31.0	Lyase
+6nj4	A	31.0	Lyase
+6nj5	A	31.0	Lyase
+6nj2	A	31.0	Lyase
+6ql3	A	31.0	Lyase
+6hzx	A	31.0	Lyase
+6rqn	A	31.0	Lyase
+6rqq	A	31.0	Lyase
+6hc7	A	41.0	Aminopeptidase, Hydrolase, Metalloprotease, Protease
+6qqm	A	31.0	Lyase
+6ptx	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+6pu2	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+6ptq	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+6qrd	A	31.0	Methyltransferase, Transferase
+6qrf	A	31.0	Methyltransferase, Transferase
+6qrc	A	31.0	Methyltransferase, Transferase
+6qqq	A	31.0	Methyltransferase, Transferase
+6qra	A	31.0	Methyltransferase, Transferase
+6qqr	A	31.0	Methyltransferase, Transferase
+6qre	A	31.0	Methyltransferase, Transferase
+6qrg	A	31.0	Methyltransferase, Transferase
+6qr0	A	31.0	Methyltransferase, Transferase
+6qr1	A	31.0	Methyltransferase, Transferase
+6qqt	A	31.0	Methyltransferase, Transferase
+6qr3	A	31.0	Methyltransferase, Transferase
+6qqv	A	31.0	Methyltransferase, Transferase
+6qr2	A	31.0	Methyltransferase, Transferase
+6qqw	A	31.0	Methyltransferase, Transferase
+6qqz	A	31.0	Methyltransferase, Transferase
+6ac6	A	31.0	DNA-binding, Helicase, Hydrolase
+6rxz	CN	31.0	RNA-binding, rRNA-binding
+6rxy	CN	31.0	RNA-binding, rRNA-binding
+6rxx	CN	31.0	RNA-binding, rRNA-binding
+6rxv	CN	31.0	RNA-binding, rRNA-binding
+6rxt	CN	31.0	RNA-binding, rRNA-binding
+6afk	A	31.0	Methyltransferase, Transferase
+6nd4	N	31.0	Ribonucleoprotein
+6qx9	BP	31.0	Activator, DNA-binding, RNA-binding
+1urt	A	31.0	Lyase
+6bay	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+6bap	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+6bao	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+6bak	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+6baf	A	41.0	Kinase, Photoreceptor protein, Receptor, Transferase
+5z57	6	31.0	Activator, DNA-binding, RNA-binding
+5z56	6	31.0	Activator, DNA-binding, RNA-binding
+4cne	B	31.0	Methyltransferase, Transferase
+4cnf	B	31.0	Methyltransferase, Transferase
+4cng	B	31.0	Methyltransferase, Transferase
+6emt	A	31.0	Methyltransferase, Transferase
+6emv	A	31.0	Methyltransferase, Transferase
+6ems	A	31.0	Methyltransferase, Transferase
+6gaw	Ba	31.0	Ribonucleoprotein, Ribosomal protein
+2ofz	A	31.0	Ribonucleoprotein, RNA-binding, Viral nucleoprotein
+6h36	A	31.0	Lyase
+6qn5	A	31.0	Lyase
+6qng	A	31.0	Lyase
+6qnl	A	31.0	Lyase
+6ugn	A	31.0	Lyase
+6vj3	A	31.0	Lyase
+6r6y	A	31.0	Lyase
+6ux1	A	31.0	Lyase
+6otm	A	31.0	Lyase
+6oti	A	31.0	Lyase
+6oue	A	31.0	Lyase
+6rg4	A	31.0	Lyase
+6rhj	A	31.0	Lyase
+6rof	A	31.0	Lyase
+6wq7	A	31.0	Lyase
+6km1	A	31.0	Lyase
+6km2	A	31.0	Lyase
+6km3	A	31.0	Lyase
+6km5	A	31.0	Lyase
+6y74	A	31.0	Lyase
+6yma	A	31.0	Lyase
+2fg7	C	31.0	Transferase
