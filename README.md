@@ -1,4 +1,4 @@
-# README
+# GNN_PersLay
 
 ## Contributors
 
