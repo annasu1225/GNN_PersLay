@@ -5,8 +5,15 @@ Contributors:
 
 Project Workflow:
 
-1. Construct a data_files directory with structure
+1. Construct a data_files directory with PDB files from PDBs directory by running run_scripts.sh. 
+This bash script implements the Python scripts in calculate_features and generates the following five files for each subdirectory:
+(1) a reconstructed PDB file (id_rec.pdb)
+(2) a backbone structure file (id_rec_bb.txt)
+(3) a bond angle file (id_ba.txt) 
+(4) a bond length file (id_bl.txt)
+(5) a dihedral angle file (id_da.txt)
 
+Structure of the directory:
 data_files
     - 1by7
         - 1by7_ba.txt
@@ -15,7 +22,9 @@ data_files
         - 1by7_rec.txt
     ... etc
 
-2. Run geo_prep.py to create the index for your data, and place it in datasets_for_geo
+2. Construct a ph_files directory with id_rec_bb.txt files from Step 1 by running run_ph.sh which implements
+
+Run geo_prep.py to create the index for your data, and place it in datasets_for_geo
 
 3. Ensure all dependencies in requirements.txt are installed
 
