@@ -1,0 +1,8 @@
+numpy
+pandas
+networkx
+paddlepaddle>=2.0.0
+pgl>=2.1.5
+rdkit-pypi
+scikit-learn
+paddlepaddle-gpu>=2.0.0

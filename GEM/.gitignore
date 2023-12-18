@@ -1,0 +1,7 @@
+__pycache__/
+cached_data/
+chemrl_downstream_datasets/
+finetune_models/
+env/
+log/
+walk
