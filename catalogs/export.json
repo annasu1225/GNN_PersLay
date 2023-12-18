@@ -1,0 +1,5573 @@
+[
+	{
+		"id": "Q8GWE1",
+		"data": {
+			"knotCoreLength": [
+				159,
+				220
+			],
+			"alphaknot": {
+				"version": [
+					1,
+					1
+				],
+				"knotCoreRange": [
+					"14-173",
+					"10-230"
+				],
+				"InterPro": [
+					"IPR038765,IPR001578,IPR036959",
+					"IPR038765,IPR001578,IPR036959"
+				],
+				"knotCoreLength": [
+					159,
+					220
+				],
+				"organism": [
+					"Arath",
+					"Arath"
+				],
+				"knotProbability": [
+					0.71,
+					0.71
+				],
+				"pLDDT_knotCore": [
+					94.6,
+					94.6
+				],
+				"kingdom": [
+					"Eukaryota",
+					"Eukaryota"
+				],
+				"uniprotId": [
+					"Q8GWE1",
+					"Q8GWE1"
+				],
+				"knotType": [
+					"5_2",
+					"5_2"
+				],
+				"proteinName": [
+					"Ubiquitin carboxyl-terminal hydrolase 3",
+					"Ubiquitin carboxyl-terminal hydrolase 3"
+				],
+				"geneName": [
+					null,
+					null
+				],
+				"PDB": [
+					null,
+					null
+				],
+				"pLDDT_chain": [
+					94.08,
+					94.08
+				],
+				"fingerprint": [
+					"K 5_2, 3_1, 3_1",
+					"K 5_2, 3_1, 3_1"
+				],
+				"EC": [
+					null,
+					null
+				],
+				"#FILTER: Uniprot=Q8GWE1;": [
+					null,
+					null
+				],
+				"PFAM": [
+					"PF01088",
+					"PF01088"
+				],
+				"category": [
+					"AF1-Knot",
+					"AF1-Knot"
+				],
+				"chainLength": [
+					234,
+					234
+				],
+				"family": [
+					"Brassicaceae",
+					"Brassicaceae"
+				]
+			},
+			"knotType": [
+				"5_2",
+				"5_2"
+			],
+			"molecular_functions": [
+				"Hydrolase",
+				"Protease",
+				"Thiol protease"
+			],
+			"uniprot": {
+				"gene": "UCH3",
+				"molecular_functions": [
+					"Hydrolase",
+					"Protease",
+					"Thiol protease"
+				],
+				"organism": "Arabidopsis thaliana",
+				"id": "Q8GWE1",
+				"length": 234,
+				"sequence": "MATASESSSSKRWLPLESNPDVMNQYLWGLGLAPDEAECNDVYGLDDELLEMVPKPVLAVLFLYPITKKSEEERIEQDKEIKEKVHSDKVYFMKQTVGNACGTIGLLHAIGNITSEIKLSDGSFLDRFFKSTANMTPMERAKFLENDSQIEDAHSVAVIAGDTPASEDADTHFICLACVEGELYELDGRKAGPISHGASSPATLLKDATKVIKKMIEKNPGSLNFNLIAISKRT",
+				"diseases": [
+
+				],
+				"protein": "Ubiquitin carboxyl-terminal hydrolase 3"
+			},
+			"source": "AlphaKnot",
+			"diseases": [
+
+			]
+		}
+	},
+	{
+		"id": "Q6K6Z5",
+		"data": {
+			"source": "AlphaKnot",
+			"alphaknot": {
+				"pLDDT_knotCore": [
+					89.4
+				],
+				"proteinName": [
+					"Ubiquitin carboxyl-terminal hydrolase"
+				],
+				"PDB": [
+					null
+				],
+				"kingdom": [
+					"Eukaryota"
+				],
+				"PFAM": [
+					"PF01088,PF18031"
+				],
+				"organism": [
+					"Orysj"
+				],
+				"geneName": [
+					null
+				],
+				"knotType": [
+					"5_2"
+				],
+				"pLDDT_chain": [
+					89.97
+				],
+				"knotCoreRange": [
+					"5-223"
+				],
+				"family": [
+					"Poaceae"
+				],
+				"uniprotId": [
+					"Q6K6Z5"
+				],
+				"#FILTER: Uniprot=Q6K6Z5;": [
+					null
+				],
+				"knotProbability": [
+					0.67
+				],
+				"chainLength": [
+					331
+				],
+				"fingerprint": [
+					"K 5_2"
+				],
+				"category": [
+					"AF1-Knot"
+				],
+				"EC": [
+					null
+				],
+				"knotCoreLength": [
+					218
+				],
+				"version": [
+					1
+				],
+				"InterPro": [
+					"IPR038765,IPR001578,IPR036959,IPR017390,IPR041507"
+				]
+			},
+			"uniprot": {
+				"id": "Q6K6Z5",
+				"gene": null,
+				"molecular_functions": [
+					"Hydrolase",
+					"Protease",
+					"Thiol protease"
+				],
+				"diseases": [
+
+				],
+				"protein": "Ubiquitin carboxyl-terminal hydrolase",
+				"length": 331,
+				"sequence": "MSWCTIESDPGVFTELIQEMQVKGVQVEELYSLDVDSISELRPVYGLIFLFKWMAGEKDERPVVKDPNPNLFFASQVIPNACATQAILSILMNRPEIDIGPELSNLKEFTGAFAPDMKGLAINNSDSIRTAHNSFARPEPFVSDEQRAAGKDDEVYHFISYLPFEGVLYELDGLKEGPISLGQCSGGPDDLDWLRMVQPVIQKRIERYSQSEIRFNLMAIIKNRKDVYTAELKELEKRRDQLLQEMNESSAAESLNSELAEVTSAIETVSEKIIMEEEKFKKWRTENIRRKHNYIPFLFNFLKMLAEKKQLKPLVEKAKQQKASSTSTSAR",
+				"organism": "Oryza sativa subsp. japonica"
+			},
+			"knotCoreLength": [
+				218
+			],
+			"molecular_functions": [
+				"Hydrolase",
+				"Protease",
+				"Thiol protease"
+			],
+			"diseases": [
+
+			],
+			"knotType": [
+				"5_2"
+			]
+		}
+	},
+	{
+		"id": "Q6ETK2",
+		"data": {
+			"diseases": [
+
+			],
+			"molecular_functions": [
+				"Hydrolase",
+				"Protease",
+				"Thiol protease"
+			],
+			"knotCoreLength": [
+				149,
+				212
+			],
+			"knotType": [
+				"5_2",
+				"5_2"
+			],
+			"uniprot": {
+				"id": "Q6ETK2",
+				"diseases": [
+
+				],
+				"length": 329,
+				"gene": null,
+				"sequence": "MSWAAIENDPGIFTELLQQMQLKGLQVDELYSLDLDALNDLQPVYGLIVLYKWQPPEKDERPIKDPIPNLFFAKQIINNACATQAIVSVLLNSPGITLSEELKKLKEFAKDLPPDLKGLAIVNSESIRLASNSFARPEVPEEQKSSVKDDDVYHFISYVPVDGVLYELDGLKEGPISLGKCPGGVGDIGWLRMVQPVIQERIDRFSQNEIRFSVMAILKNRREKFTLELKELQRKRENLLAQMGDPSANRHAPSVEHSLAEVAAHIEAVTEKIIMEEEKWKKWKTENIRRKHNYVPFLFNFLKILEERQQLKPLIEKAKQKSHSSANPR",
+				"molecular_functions": [
+					"Hydrolase",
+					"Protease",
+					"Thiol protease"
+				],
+				"protein": "Ubiquitin carboxyl-terminal hydrolase",
+				"organism": "Oryza sativa subsp. japonica"
+			},
+			"alphaknot": {
+				"version": [
+					1,
+					1
+				],
+				"#FILTER: Uniprot=Q6ETK2;": [
+					null,
+					null
+				],
+				"fingerprint": [
+					"K 5_2, 3_1",
+					"K 5_2, 3_1"
+				],
+				"geneName": [
+					null,
+					null
+				],
+				"PFAM": [
+					"PF01088,PF18031",
+					"PF01088,PF18031"
+				],
+				"kingdom": [
+					"Eukaryota",
+					"Eukaryota"
+				],
+				"proteinName": [
+					"Ubiquitin carboxyl-terminal hydrolase",
+					"Ubiquitin carboxyl-terminal hydrolase"
+				],
+				"pLDDT_chain": [
+					89.73,
+					89.73
+				],
+				"chainLength": [
+					329,
+					329
+				],
+				"PDB": [
+					null,
+					null
+				],
+				"organism": [
+					"Orysj",
+					"Orysj"
+				],
+				"knotType": [
+					"5_2",
+					"5_2"
+				],
+				"pLDDT_knotCore": [
+					89.9,
+					89.9
+				],
+				"knotCoreRange": [
+					"6-155",
+					"6-218"
+				],
+				"EC": [
+					null,
+					null
+				],
+				"InterPro": [
+					"IPR038765,IPR001578,IPR036959,IPR017390,IPR041507",
+					"IPR038765,IPR001578,IPR036959,IPR017390,IPR041507"
+				],
+				"category": [
+					"AF1-Knot",
+					"AF1-Knot"
+				],
+				"knotCoreLength": [
+					149,
+					212
+				],
+				"uniprotId": [
+					"Q6ETK2",
+					"Q6ETK2"
+				],
+				"family": [
+					"Poaceae",
+					"Poaceae"
+				],
+				"knotProbability": [
+					0.68,
+					0.68
+				]
+			},
+			"source": "AlphaKnot"
+		}
+	},
+	{
+		"id": "Q54T48",
+		"data": {
+			"knotCoreLength": [
+				166,
+				220
+			],
+			"diseases": [
+
+			],
+			"knotType": [
+				"5_2",
+				"5_2"
+			],
+			"source": "AlphaKnot",
+			"uniprot": {
+				"molecular_functions": [
+					"Hydrolase",
+					"Protease",
+					"Thiol protease"
+				],
+				"protein": "Probable ubiquitin carboxyl-terminal hydrolase",
+				"gene": "uch1",
+				"length": 255,
+				"sequence": "MSVDQELIETQKNWIPLEANPEVLTTFMQSLGVSKDWEFCDIYGIDEGLLEMVPSPCVAVILLFPITNEYEDKRYKLEKEIEEKGQVLSDKVYFMKQYIGNACGTIGVIHSVLNNANVIEFNENGFFKQFLDKTTSLSTEERAISLLKNSEIEKSHEISALQGQSNVPQEDEPVVLHFVSFVHVDGHLYELDGRKPFAINHGESSAETLLKDTANVLQKMIDEDPKEIRFNLMGLVKKPNEESEEEEEKEKEETK",
+				"organism": "Dictyostelium discoideum",
+				"id": "Q54T48",
+				"diseases": [
+
+				]
+			},
+			"alphaknot": {
+				"category": [
+					"AF1-Knot",
+					"AF1-Knot"
+				],
+				"kingdom": [
+					"Eukaryota",
+					"Eukaryota"
+				],
+				"knotProbability": [
+					0.75,
+					0.75
+				],
+				"EC": [
+					null,
+					null
+				],
+				"family": [
+					"Dictyosteliaceae",
+					"Dictyosteliaceae"
+				],
+				"organism": [
+					"Dicdi",
+					"Dicdi"
+				],
+				"pLDDT_knotCore": [
+					95,
+					95
+				],
+				"knotCoreRange": [
+					"14-180",
+					"16-236"
+				],
+				"InterPro": [
+					"IPR038765,IPR001578,IPR036959",
+					"IPR038765,IPR001578,IPR036959"
+				],
+				"version": [
+					1,
+					1
+				],
+				"chainLength": [
+					255,
+					255
+				],
+				"knotCoreLength": [
+					166,
+					220
+				],
+				"fingerprint": [
+					"K 5_2, 3_1, 3_1",
+					"K 5_2, 3_1, 3_1"
+				],
+				"proteinName": [
+					"Probable ubiquitin carboxyl-terminal hydrolase",
+					"Probable ubiquitin carboxyl-terminal hydrolase"
+				],
+				"geneName": [
+					null,
+					null
+				],
+				"PFAM": [
+					"PF01088",
+					"PF01088"
+				],
+				"PDB": [
+					null,
+					null
+				],
+				"pLDDT_chain": [
+					92.23,
+					92.23
+				],
+				"knotType": [
+					"5_2",
+					"5_2"
+				],
+				"uniprotId": [
+					"Q54T48",
+					"Q54T48"
+				],
+				"#FILTER: Uniprot=Q54T48;": [
+					null,
+					null
+				]
+			},
+			"molecular_functions": [
+				"Hydrolase",
+				"Protease",
+				"Thiol protease"
+			]
+		}
+	},
+	{
+		"id": "Q54N38",
+		"data": {
+			"alphaknot": {
+				"version": [
+					1,
+					1
+				],
+				"chainLength": [
+					343,
+					343
+				],
+				"PDB": [
+					null,
+					null
+				],
+				"PFAM": [
+					"PF01088,PF18031",
+					"PF01088,PF18031"
+				],
+				"organism": [
+					"Dicdi",
+					"Dicdi"
+				],
+				"uniprotId": [
+					"Q54N38",
+					"Q54N38"
+				],
+				"knotProbability": [
+					0.8,
+					0.8
+				],
+				"category": [
+					"AF1-Knot",
+					"AF1-Knot"
+				],
+				"geneName": [
+					null,
+					null
+				],
+				"family": [
+					"Dictyosteliaceae",
+					"Dictyosteliaceae"
+				],
+				"InterPro": [
+					"IPR038765,IPR001578,IPR036959,IPR017390,IPR041507",
+					"IPR038765,IPR001578,IPR036959,IPR017390,IPR041507"
+				],
+				"knotCoreLength": [
+					169,
+					206
+				],
+				"fingerprint": [
+					"K 5_2, 3_1, 3_1",
+					"K 5_2, 3_1, 3_1"
+				],
+				"#FILTER: Uniprot=Q54N38;": [
+					null,
+					null
+				],
+				"kingdom": [
+					"Eukaryota",
+					"Eukaryota"
+				],
+				"pLDDT_knotCore": [
+					91.8,
+					91.8
+				],
+				"knotType": [
+					"5_2",
+					"5_2"
+				],
+				"pLDDT_chain": [
+					89.65,
+					89.65
+				],
+				"knotCoreRange": [
+					"9-178",
+					"10-216"
+				],
+				"EC": [
+					null,
+					null
+				],
+				"proteinName": [
+					"Ubiquitin carboxyl-terminal hydrolase isozyme L5",
+					"Ubiquitin carboxyl-terminal hydrolase isozyme L5"
+				]
+			},
+			"source": "AlphaKnot",
+			"molecular_functions": [
+				"Hydrolase",
+				"Protease",
+				"Thiol protease"
+			],
+			"diseases": [
+
+			],
+			"knotCoreLength": [
+				169,
+				206
+			],
+			"knotType": [
+				"5_2",
+				"5_2"
+			],
+			"uniprot": {
+				"diseases": [
+
+				],
+				"gene": "uch2",
+				"id": "Q54N38",
+				"sequence": "MSENEGWCTIESDPGVFTELITKIGVKDIQVEELYTLDSSEYDRLKPVLGLIFLFKWEKEEENRTISDNENIFFANQVIQNACATQAILSVLLNSEGIELGEELSNFKSFVGDFPPMMKGEAIGNSELIKETHNSFTVQDPFIFSKKKNRKPSDAFHFISFIPFQGKVYELDGLKKGPYCLGDCTPDNWLEIATPFIQKRMEKYSQGEIRFNLMAVIKNRQTTLQEKILTLEKKKNDLEIKLSELNSGSGGDNKEESGGATPTTKEDLNFMINVVNNDIEEANNEILMEQEKFRNWKDENIRRKHNFTPLILNLIKGLAEKDNLQPLIQKAKDQISQKQQQHK",
+				"organism": "Dictyostelium discoideum",
+				"protein": "Ubiquitin carboxyl-terminal hydrolase isozyme L5",
+				"length": 343,
+				"molecular_functions": [
+					"Hydrolase",
+					"Protease",
+					"Thiol protease"
+				]
+			}
+		}
+	},
+	{
+		"id": "Q4D1R0",
+		"data": {
+			"knotType": [
+				"5_2"
+			],
+			"source": "AlphaKnot",
+			"knotCoreLength": [
+				218
+			],
+			"alphaknot": {
+				"family": [
+					"Trypanosomatidae"
+				],
+				"version": [
+					1
+				],
+				"PFAM": [
+					"PF01088,PF18031"
+				],
+				"chainLength": [
+					310
+				],
+				"PDB": [
+					null
+				],
+				"geneName": [
+					null
+				],
+				"knotCoreLength": [
+					218
+				],
+				"kingdom": [
+					"Eukaryota"
+				],
+				"EC": [
+					null
+				],
+				"uniprotId": [
+					"Q4D1R0"
+				],
+				"knotCoreRange": [
+					"6-224"
+				],
+				"pLDDT_chain": [
+					90.24
+				],
+				"proteinName": [
+					"Ubiquitin carboxyl-terminal hydrolase"
+				],
+				"pLDDT_knotCore": [
+					89.4
+				],
+				"organism": [
+					"Trycc"
+				],
+				"#FILTER: Uniprot=Q4D1R0;": [
+					null
+				],
+				"InterPro": [
+					"IPR038765,IPR001578,IPR036959,IPR017390,IPR041507"
+				],
+				"knotProbability": [
+					0.74
+				],
+				"knotType": [
+					"5_2"
+				],
+				"fingerprint": [
+					"K 5_2"
+				],
+				"category": [
+					"AF1-Knot"
+				]
+			},
+			"molecular_functions": [
+				"Hydrolase",
+				"Protease",
+				"Thiol protease"
+			],
+			"uniprot": {
+				"sequence": "MPSWCLIESDPAVFTELIERFGARGVAVEEILGLEPEFLRQYTNVYGLILLFKWKSGKTPTSDGVVVPDAPVYFARQTVNNACATLAMVNTLLNYSESIQLGDELSNLLEFTREMNAYLRGTQVAESDVLREAHNSFAPTEFFVLHDETPDASDVYHFVSFVYKNGAVWELDGLQKGPILAADATDGNYKEKLVEVVQKRVIDKSAADNTGTGQGISFSLMAVVDDRLLQLEKEIEEAKAREEPTAYLAEQLEELRLQREKGRAENQRRRHNYVPMNVELLKALAEKGKLEGIVEEALAKKAASASSDRK",
+				"molecular_functions": [
+					"Hydrolase",
+					"Protease",
+					"Thiol protease"
+				],
+				"protein": "Ubiquitin carboxyl-terminal hydrolase",
+				"gene": null,
+				"length": 310,
+				"organism": "Trypanosoma cruzi (strain CL Brener)",
+				"id": "Q4D1R0",
+				"diseases": [
+
+				]
+			},
+			"diseases": [
+
+			]
+		}
+	},
+	{
+		"id": "Q09444",
+		"data": {
+			"diseases": [
+
+			],
+			"uniprot": {
+				"sequence": "MTDAGSWCLIESDPGVFTEMLRGFGVDGLQVEELYSLDDDKAMTRPTYGLIFLFKWRQGDETTGIPSDKQNIFFAHQTIQNACATQALINLLMNVEDTDVKLGNILNQYKEFAIDLDPNTRGHCLSNSEEIRTVHNSFSRQTLFELDIKGGESEDNYHFVTYVPIGNKVYELDGLRELPLEVAEFQKEQDWIEAIKPVIQQRMQKYSEGEITFNLMALVPNRKQKLQEMMENLIQANENNELEEQIADLNKAIADEDYKMEMYRKENNRRRHNYTPFVIELMKILAKEGKLVGLVDNAYQAAKEKSKLNTDITKLELKRKQ",
+				"gene": "ubh-4",
+				"organism": "Caenorhabditis elegans",
+				"molecular_functions": [
+					"Hydrolase",
+					"Protease",
+					"Thiol protease"
+				],
+				"diseases": [
+
+				],
+				"protein": "Ubiquitin carboxyl-terminal hydrolase ubh-4",
+				"id": "Q09444",
+				"length": 321
+			},
+			"knotCoreLength": [
+				152,
+				210
+			],
+			"molecular_functions": [
+				"Hydrolase",
+				"Protease",
+				"Thiol protease"
+			],
+			"source": "AlphaKnot",
+			"alphaknot": {
+				"proteinName": [
+					"Ubiquitin carboxyl-terminal hydrolase ubh-4",
+					"Ubiquitin carboxyl-terminal hydrolase ubh-4"
+				],
+				"version": [
+					1,
+					1
+				],
+				"chainLength": [
+					321,
+					321
+				],
+				"geneName": [
+					null,
+					null
+				],
+				"knotCoreLength": [
+					152,
+					210
+				],
+				"knotCoreRange": [
+					"8-160",
+					"9-219"
+				],
+				"PDB": [
+					null,
+					null
+				],
+				"pLDDT_knotCore": [
+					88.2,
+					88.2
+				],
+				"EC": [
+					null,
+					null
+				],
+				"fingerprint": [
+					"K 5_2, 3_1, 3_1",
+					"K 5_2, 3_1, 3_1"
+				],
+				"knotProbability": [
+					0.74,
+					0.74
+				],
+				"PFAM": [
+					"PF01088,PF18031",
+					"PF01088,PF18031"
+				],
+				"#FILTER: Uniprot=Q09444;": [
+					null,
+					null
+				],
+				"pLDDT_chain": [
+					87.03,
+					87.03
+				],
+				"InterPro": [
+					"IPR038765,IPR001578,IPR036959,IPR017390,IPR041507",
+					"IPR038765,IPR001578,IPR036959,IPR017390,IPR041507"
+				],
+				"family": [
+					"Rhabditidae",
+					"Rhabditidae"
+				],
+				"uniprotId": [
+					"Q09444",
+					"Q09444"
+				],
+				"kingdom": [
+					"Eukaryota",
+					"Eukaryota"
+				],
+				"category": [
+					"AF1-Knot",
+					"AF1-Knot"
+				],
+				"organism": [
+					"Caeel",
+					"Caeel"
+				],
+				"knotType": [
+					"5_2",
+					"5_2"
+				]
+			},
+			"knotType": [
+				"5_2",
+				"5_2"
+			]
+		}
+	},
+	{
+		"id": "P35127",
+		"data": {
+			"uniprot": {
+				"length": 236,
+				"gene": "YUH1",
+				"id": "P35127",
+				"organism": "Saccharomyces cerevisiae (strain ATCC 204508 / S288c)",
+				"protein": "Ubiquitin carboxyl-terminal hydrolase YUH1",
+				"sequence": "MSGENRAVVPIESNPEVFTNFAHKLGLKNEWAYFDIYSLTEPELLAFLPRPVKAIVLLFPINEDRKSSTSQQITSSYDVIWFKQSVKNACGLYAILHSLSNNQSLLEPGSDLDNFLKSQSDTSSSKNRFDDVTTDQFVLNVIKENVQTFSTGQSEAPEATADTNLHYITYVEENGGIFELDGRNLSGPLYLGKSDPTATDLIEQELVRVRVASYMENANEEDVLNFAMLGLGPNWE",
+				"diseases": [
+
+				],
+				"molecular_functions": [
+					"Hydrolase",
+					"Protease",
+					"Thiol protease"
+				]
+			},
+			"source": "AlphaKnot",
+			"alphaknot": {
+				"knotCoreRange": [
+					"8-168",
+					"7-232"
+				],
+				"#FILTER: Uniprot=P35127;": [
+					null,
+					null
+				],
+				"proteinName": [
+					"Ubiquitin carboxyl-terminal hydrolase YUH1",
+					"Ubiquitin carboxyl-terminal hydrolase YUH1"
+				],
+				"category": [
+					"AF1-Knot",
+					"AF1-Knot"
+				],
+				"knotType": [
+					"5_2",
+					"5_2"
+				],
+				"EC": [
+					null,
+					null
+				],
+				"InterPro": [
+					"IPR038765,IPR001578,IPR036959",
+					"IPR038765,IPR001578,IPR036959"
+				],
+				"knotCoreLength": [
+					160,
+					225
+				],
+				"pLDDT_chain": [
+					89.66,
+					89.66
+				],
+				"fingerprint": [
+					"K 5_2, 3_1, 3_1",
+					"K 5_2, 3_1, 3_1"
+				],
+				"geneName": [
+					null,
+					null
+				],
+				"knotProbability": [
+					0.56,
+					0.56
+				],
+				"organism": [
+					"Yeast",
+					"Yeast"
+				],
+				"family": [
+					"Saccharomycetaceae",
+					"Saccharomycetaceae"
+				],
+				"PFAM": [
+					"PF01088",
+					"PF01088"
+				],
+				"chainLength": [
+					236,
+					236
+				],
+				"pLDDT_knotCore": [
+					90.4,
+					90.4
+				],
+				"version": [
+					1,
+					1
+				],
+				"uniprotId": [
+					"P35127",
+					"P35127"
+				],
+				"PDB": [
+					"1CMX_A,7EN4_A",
+					"1CMX_A,7EN4_A"
+				],
+				"kingdom": [
+					"Eukaryota",
+					"Eukaryota"
+				]
+			},
+			"knotType": [
+				"5_2",
+				"5_2"
+			],
+			"diseases": [
+
+			],
+			"molecular_functions": [
+				"Hydrolase",
+				"Protease",
+				"Thiol protease"
+			],
+			"knotCoreLength": [
+				160,
+				225
+			]
+		}
+	},
+	{
+		"id": "O04482",
+		"data": {
+			"source": "AlphaKnot",
+			"diseases": [
+
+			],
+			"alphaknot": {
+				"InterPro": [
+					"IPR038765,IPR001578,IPR036959,IPR017390,IPR041507"
+				],
+				"knotCoreRange": [
+					"5-224"
+				],
+				"kingdom": [
+					"Eukaryota"
+				],
+				"chainLength": [
+					330
+				],
+				"knotType": [
+					"5_2"
+				],
+				"knotCoreLength": [
+					219
+				],
+				"pLDDT_knotCore": [
+					90.5
+				],
+				"pLDDT_chain": [
+					91.13
+				],
+				"fingerprint": [
+					"K 5_2"
+				],
+				"#FILTER: Uniprot=O04482;": [
+					null
+				],
+				"PDB": [
+					null
+				],
+				"version": [
+					1
+				],
+				"family": [
+					"Brassicaceae"
+				],
+				"PFAM": [
+					"PF01088,PF18031"
+				],
+				"category": [
+					"AF1-Knot"
+				],
+				"organism": [
+					"Arath"
+				],
+				"geneName": [
+					null
+				],
+				"EC": [
+					null
+				],
+				"proteinName": [
+					"Ubiquitin carboxyl-terminal hydrolase 2"
+				],
+				"uniprotId": [
+					"O04482"
+				],
+				"knotProbability": [
+					0.59
+				]
+			},
+			"knotCoreLength": [
+				219
+			],
+			"knotType": [
+				"5_2"
+			],
+			"molecular_functions": [
+				"Hydrolase",
+				"Protease",
+				"Thiol protease"
+			],
+			"uniprot": {
+				"sequence": "MSWCTIESDPGVFTELIQQMQVKGVQVEELYSLDSDSLNNLRPVYGLIFLFKWQAGEKDERPTIQDQVSNLFFANQVINNACATQAILAILLNSPEVDIGPELSALKEFTKNFPSDLKGLAINNSDSIRAAHNSFARPEPFVPEEQKAATKDDDVYHFISYIPVDGVLYELDGLKEGPISLGPCPGDQTGIEWLQMVQPVIQERIERYSQSEIRFNLLAVIKNRKDIYTAELKELQRQREQLLQQANTCVDKSEAEAVNALIAEVGSGIEAASDKIVMEEEKFMKWRTENIRRKHNYIPFLFNFLKLLAEKKQLKPLIEKAKKQKTESST",
+				"length": 330,
+				"gene": "UCH2",
+				"protein": "Ubiquitin carboxyl-terminal hydrolase 2",
+				"molecular_functions": [
+					"Hydrolase",
+					"Protease",
+					"Thiol protease"
+				],
+				"organism": "Arabidopsis thaliana",
+				"id": "O04482",
+				"diseases": [
+
+				]
+			}
+		}
+	},
+	{
+		"id": "K7K4Y1",
+		"data": {
+			"alphaknot": {
+				"proteinName": [
+					"Ubiquitin carboxyl-terminal hydrolase",
+					"Ubiquitin carboxyl-terminal hydrolase"
+				],
+				"knotType": [
+					"5_2",
+					"5_2"
+				],
+				"PDB": [
+					null,
+					null
+				],
+				"organism": [
+					"Soybn",
+					"Soybn"
+				],
+				"geneName": [
+					null,
+					null
+				],
+				"InterPro": [
+					"IPR038765,IPR001578,IPR036959",
+					"IPR038765,IPR001578,IPR036959"
+				],
+				"uniprotId": [
+					"K7K4Y1",
+					"K7K4Y1"
+				],
+				"fingerprint": [
+					"K 5_2, 3_1",
+					"K 5_2, 3_1"
+				],
+				"knotCoreRange": [
+					"41-197",
+					"38-253"
+				],
+				"pLDDT_knotCore": [
+					95,
+					95
+				],
+				"category": [
+					"AF1-Knot",
+					"AF1-Knot"
+				],
+				"pLDDT_chain": [
+					87.34,
+					87.34
+				],
+				"family": [
+					"Fabaceae",
+					"Fabaceae"
+				],
+				"knotCoreLength": [
+					156,
+					215
+				],
+				"EC": [
+					null,
+					null
+				],
+				"chainLength": [
+					260,
+					260
+				],
+				"kingdom": [
+					"Eukaryota",
+					"Eukaryota"
+				],
+				"knotProbability": [
+					0.84,
+					0.84
+				],
+				"PFAM": [
+					"PF01088",
+					"PF01088"
+				],
+				"version": [
+					1,
+					1
+				],
+				"#FILTER: Uniprot=K7K4Y1;": [
+					null,
+					null
+				]
+			},
+			"molecular_functions": [
+				"Hydrolase",
+				"Protease",
+				"Thiol protease"
+			],
+			"diseases": [
+
+			],
+			"source": "AlphaKnot",
+			"uniprot": {
+				"length": 260,
+				"organism": "Glycine max",
+				"id": "K7K4Y1",
+				"protein": "Ubiquitin carboxyl-terminal hydrolase",
+				"molecular_functions": [
+					"Hydrolase",
+					"Protease",
+					"Thiol protease"
+				],
+				"diseases": [
+
+				],
+				"gene": null,
+				"sequence": "MAYKPGQWAHKGPRQEYKMRAVTSAKVLWKNKAMASAKRWLPLEANPDVMNQFLWGLGLREDEAECCDVYGLDEELLEMVPKPVLAVLFLYPITTQSEEERLQQENEKKEYNSRVYFMKQTVGNACGTIGLLHALGNLTSEVKLVEGSFFDNFFKSTASLDPLQRATFLENDKEMEVAHLVAATAGDTEASDNATAHFICFACVDDELYELDGRKSVPISHGPSSPSTLLRDAAKAIQSMIQKNPDSFNFNVIALCKKSG"
+			},
+			"knotType": [
+				"5_2",
+				"5_2"
+			],
+			"knotCoreLength": [
+				156,
+				215
+			]
+		}
+	},
+	{
+		"id": "I1NIJ5",
+		"data": {
+			"diseases": [
+
+			],
+			"source": "AlphaKnot",
+			"alphaknot": {
+				"knotCoreLength": [
+					219
+				],
+				"geneName": [
+					null
+				],
+				"kingdom": [
+					"Eukaryota"
+				],
+				"InterPro": [
+					"IPR038765,IPR001578,IPR036959,IPR017390,IPR041507"
+				],
+				"pLDDT_chain": [
+					90.78
+				],
+				"chainLength": [
+					334
+				],
+				"category": [
+					"AF1-Knot"
+				],
+				"knotProbability": [
+					0.64
+				],
+				"family": [
+					"Fabaceae"
+				],
+				"fingerprint": [
+					"K 5_2"
+				],
+				"uniprotId": [
+					"I1NIJ5"
+				],
+				"EC": [
+					null
+				],
+				"knotType": [
+					"5_2"
+				],
+				"version": [
+					1
+				],
+				"knotCoreRange": [
+					"5-224"
+				],
+				"pLDDT_knotCore": [
+					90.8
+				],
+				"organism": [
+					"Soybn"
+				],
+				"PDB": [
+					null
+				],
+				"PFAM": [
+					"PF01088,PF18031"
+				],
+				"proteinName": [
+					"Ubiquitin carboxyl-terminal hydrolase"
+				],
+				"#FILTER: Uniprot=I1NIJ5;": [
+					null
+				]
+			},
+			"knotCoreLength": [
+				219
+			],
+			"molecular_functions": [
+				"Hydrolase",
+				"Protease",
+				"Thiol protease"
+			],
+			"uniprot": {
+				"length": 334,
+				"organism": "Glycine max",
+				"diseases": [
+
+				],
+				"protein": "Ubiquitin carboxyl-terminal hydrolase",
+				"id": "I1NIJ5",
+				"sequence": "MSWCTIESDPGVFTELIQQMQVKGVQVEELYSLDLDSLNSLRPVYGLIFLFKWRPGEKDDRVVIKDPNPNLFFASQVINNACATQAILSILMNSPDIDIGPELTKLKEFTKNFPPELKGLAINNSEAIRTAHNSFARPEPFVPEEQKVASKDDDVYHFISYLPVDGVLYELDGLKEGPISLGQCSGGQGDMEWLKMVQPVIQERIERYSQSEIRFNLLAVIKNRKEMYTAELKELQKRRERILQQLAASKSDRLVDNSSFEALNNSLSEVNAGIEAATEKILMEEEKFKKWRTENIRRKHNYIPFLFNFLKILAEKKQLKPLIEKAKQKTSSPR",
+				"molecular_functions": [
+					"Hydrolase",
+					"Protease",
+					"Thiol protease"
+				],
+				"gene": "100792356"
+			},
+			"knotType": [
+				"5_2"
+			]
+		}
+	},
+	{
+		"id": "I1MV53",
+		"data": {
+			"uniprot": {
+				"organism": "Glycine max",
+				"id": "I1MV53",
+				"molecular_functions": [
+					"Hydrolase",
+					"Protease",
+					"Thiol protease"
+				],
+				"length": 254,
+				"diseases": [
+
+				],
+				"gene": null,
+				"sequence": "MATLDERPSAKRWLPLEANPDVMNQFLWGLGLPVDEAECGDVFGLDEELLEMVPKPVLAVLFLYPITAKSEEERLQQENVKKDYSSKVYFMKQTVGNACGTIGLLHALGNITSEVKLVEGSFFDKFFKSTASMDPLQRAVFLENDREMEVAHSVAATAGDTVITDVVMKGLVWLSYLENLASDNVDTHFICFACVDGELYELDGRKSGPISHGPSSPSTLLRDAAKVIQSMIQKNPGSLNFNVIAISKKSKDGH",
+				"protein": "Ubiquitin carboxyl-terminal hydrolase"
+			},
+			"molecular_functions": [
+				"Hydrolase",
+				"Protease",
+				"Thiol protease"
+			],
+			"source": "AlphaKnot",
+			"diseases": [
+
+			],
+			"alphaknot": {
+				"geneName": [
+					null,
+					null
+				],
+				"knotCoreLength": [
+					176,
+					230
+				],
+				"fingerprint": [
+					"K 5_2, 3_1, 3_1",
+					"K 5_2, 3_1, 3_1"
+				],
+				"kingdom": [
+					"Eukaryota",
+					"Eukaryota"
+				],
+				"InterPro": [
+					"IPR038765,IPR001578,IPR036959",
+					"IPR038765,IPR001578,IPR036959"
+				],
+				"organism": [
+					"Soybn",
+					"Soybn"
+				],
+				"pLDDT_knotCore": [
+					89.8,
+					89.8
+				],
+				"version": [
+					1,
+					1
+				],
+				"family": [
+					"Fabaceae",
+					"Fabaceae"
+				],
+				"pLDDT_chain": [
+					88.09,
+					88.09
+				],
+				"proteinName": [
+					"Ubiquitin carboxyl-terminal hydrolase",
+					"Ubiquitin carboxyl-terminal hydrolase"
+				],
+				"knotProbability": [
+					0.64,
+					0.64
+				],
+				"uniprotId": [
+					"I1MV53",
+					"I1MV53"
+				],
+				"#FILTER: Uniprot=I1MV53;": [
+					null,
+					null
+				],
+				"PFAM": [
+					"PF01088",
+					"PF01088"
+				],
+				"chainLength": [
+					254,
+					254
+				],
+				"knotType": [
+					"5_2",
+					"5_2"
+				],
+				"PDB": [
+					null,
+					null
+				],
+				"category": [
+					"AF1-Knot",
+					"AF1-Knot"
+				],
+				"EC": [
+					null,
+					null
+				],
+				"knotCoreRange": [
+					"14-190",
+					"14-244"
+				]
+			},
+			"knotType": [
+				"5_2",
+				"5_2"
+			],
+			"knotCoreLength": [
+				176,
+				230
+			]
+		}
+	},
+	{
+		"id": "I1LBV4",
+		"data": {
+			"knotType": [
+				"5_2"
+			],
+			"uniprot": {
+				"protein": "Ubiquitin carboxyl-terminal hydrolase",
+				"diseases": [
+
+				],
+				"sequence": "MSWCTIESDPGVFTELIQQMQVKGVQVEELYSLDLDSLNSLRPVYGLIFLFKWRPGEKDDRVVIKDPNPNLFFASQVINNACATQAILSILMNSPDIDIGPELTKLKEFTKNFPPELKGLAINNSEAIRTAHNSFARPEPFVPEEQKVATRDDDVYHFISYLPVDGVLYELDGLKEGPISLGQCSGGQGDIEWLKIVQPVIQERIERYSQSEIRFNLLAVIKNRKELYTAELKELQKRRERILQQLAASKSDRLVDNSSFEALNNSLSEVNAGIEAATEKILMEEEKFKKWKTENIRRKHNYIPFLFNFLKILAEKKQLKPLIEKAKQKTSSPR",
+				"gene": "100802014",
+				"organism": "Glycine max",
+				"length": 334,
+				"id": "I1LBV4",
+				"molecular_functions": [
+					"Hydrolase",
+					"Protease",
+					"Thiol protease"
+				]
+			},
+			"molecular_functions": [
+				"Hydrolase",
+				"Protease",
+				"Thiol protease"
+			],
+			"source": "AlphaKnot",
+			"alphaknot": {
+				"chainLength": [
+					334
+				],
+				"PDB": [
+					null
+				],
+				"geneName": [
+					null
+				],
+				"knotCoreLength": [
+					219
+				],
+				"EC": [
+					null
+				],
+				"category": [
+					"AF1-Knot"
+				],
+				"knotCoreRange": [
+					"5-224"
+				],
+				"pLDDT_knotCore": [
+					90.8
+				],
+				"uniprotId": [
+					"I1LBV4"
+				],
+				"#FILTER: Uniprot=I1LBV4;": [
+					null
+				],
+				"family": [
+					"Fabaceae"
+				],
+				"knotType": [
+					"5_2"
+				],
+				"PFAM": [
+					"PF01088,PF18031"
+				],
+				"kingdom": [
+					"Eukaryota"
+				],
+				"version": [
+					1
+				],
+				"knotProbability": [
+					0.66
+				],
+				"proteinName": [
+					"Ubiquitin carboxyl-terminal hydrolase"
+				],
+				"fingerprint": [
+					"K 5_2"
+				],
+				"InterPro": [
+					"IPR038765,IPR001578,IPR036959,IPR017390,IPR041507"
+				],
+				"organism": [
+					"Soybn"
+				],
+				"pLDDT_chain": [
+					90.7
+				]
+			},
+			"diseases": [
+
+			],
+			"knotCoreLength": [
+				219
+			]
+		}
+	},
+	{
+		"id": "E9AH53",
+		"data": {
+			"diseases": [
+
+			],
+			"knotType": [
+				"5_2",
+				"5_2"
+			],
+			"source": "AlphaKnot",
+			"knotCoreLength": [
+				154,
+				217
+			],
+			"uniprot": {
+				"diseases": [
+
+				],
+				"organism": "Leishmania infantum",
+				"gene": null,
+				"sequence": "MPSDESRWCLIESDPAVFREIIQTVGVKGVSVEDLIMLDSSMLEQYEHVYGLVLLFKWQSSEQASPLGTVVKDAPVFFAKQVIHNACATLAIINTLCNYPDQVELGPKVQRYLSFCQELDPEMRGSLLDSFDELREAHNSFAPHSAFTKDGPSPKDADVYHFASFVYRHGHIWELDGLQEGPLQCREATEANYREALVEVVQRRIDDIAAKDTTGAGQGISFSLMTIVDDPVTVLEKKIAALRAEEKPTTALDEELAEMLSLRKKDKEANVRRRHDYNAMIVALLKSLAERGKLEKIVAEVQAKASK",
+				"id": "E9AH53",
+				"protein": "Ubiquitin carboxyl-terminal hydrolase",
+				"length": 307,
+				"molecular_functions": [
+					"Hydrolase",
+					"Protease",
+					"Thiol protease"
+				]
+			},
+			"molecular_functions": [
+				"Hydrolase",
+				"Protease",
+				"Thiol protease"
+			],
+			"alphaknot": {
+				"knotCoreRange": [
+					"9-163",
+					"10-227"
+				],
+				"knotType": [
+					"5_2",
+					"5_2"
+				],
+				"version": [
+					1,
+					1
+				],
+				"knotCoreLength": [
+					154,
+					217
+				],
+				"pLDDT_chain": [
+					90.02,
+					90.02
+				],
+				"EC": [
+					null,
+					null
+				],
+				"PFAM": [
+					"PF01088,PF18031",
+					"PF01088,PF18031"
+				],
+				"InterPro": [
+					"IPR038765,IPR001578,IPR036959,IPR017390,IPR041507",
+					"IPR038765,IPR001578,IPR036959,IPR017390,IPR041507"
+				],
+				"family": [
+					"Trypanosomatidae",
+					"Trypanosomatidae"
+				],
+				"knotProbability": [
+					0.69,
+					0.69
+				],
+				"geneName": [
+					null,
+					null
+				],
+				"kingdom": [
+					"Eukaryota",
+					"Eukaryota"
+				],
+				"category": [
+					"AF1-Knot",
+					"AF1-Knot"
+				],
+				"proteinName": [
+					"Ubiquitin carboxyl-terminal hydrolase",
+					"Ubiquitin carboxyl-terminal hydrolase"
+				],
+				"pLDDT_knotCore": [
+					88.8,
+					88.8
+				],
+				"fingerprint": [
+					"K 5_2, 3_1, 3_1",
+					"K 5_2, 3_1, 3_1"
+				],
+				"organism": [
+					"Leiin",
+					"Leiin"
+				],
+				"PDB": [
+					null,
+					null
+				],
+				"#FILTER: Uniprot=E9AH53;": [
+					null,
+					null
+				],
+				"chainLength": [
+					307,
+					307
+				],
+				"uniprotId": [
+					"E9AH53",
+					"E9AH53"
+				]
+			}
+		}
+	},
+	{
+		"id": "A0A1D8PNY8",
+		"data": {
+			"knotType": [
+				"5_2",
+				"5_2"
+			],
+			"knotCoreLength": [
+				168,
+				225
+			],
+			"molecular_functions": [
+				"Hydrolase",
+				"Protease",
+				"Thiol protease"
+			],
+			"source": "AlphaKnot",
+			"alphaknot": {
+				"EC": [
+					null,
+					null
+				],
+				"PFAM": [
+					"PF01088,PF18031",
+					"PF01088,PF18031"
+				],
+				"#FILTER: Uniprot=A0A1D8PNY8;": [
+					null,
+					null
+				],
+				"version": [
+					1,
+					1
+				],
+				"knotCoreLength": [
+					168,
+					225
+				],
+				"PDB": [
+					null,
+					null
+				],
+				"knotType": [
+					"5_2",
+					"5_2"
+				],
+				"InterPro": [
+					"IPR038765,IPR001578,IPR036959,IPR017390,IPR041507",
+					"IPR038765,IPR001578,IPR036959,IPR017390,IPR041507"
+				],
+				"pLDDT_chain": [
+					90.01,
+					90.01
+				],
+				"fingerprint": [
+					"K 5_2, 3_1, 3_1",
+					"K 5_2, 3_1, 3_1"
+				],
+				"chainLength": [
+					313,
+					313
+				],
+				"pLDDT_knotCore": [
+					90.6,
+					90.6
+				],
+				"organism": [
+					"Canal",
+					"Canal"
+				],
+				"category": [
+					"AF1-Knot",
+					"AF1-Knot"
+				],
+				"geneName": [
+					null,
+					null
+				],
+				"uniprotId": [
+					"A0A1D8PNY8",
+					"A0A1D8PNY8"
+				],
+				"kingdom": [
+					"Eukaryota",
+					"Eukaryota"
+				],
+				"family": [
+					"Debaryomycetaceae",
+					"Debaryomycetaceae"
+				],
+				"knotCoreRange": [
+					"8-176",
+					"9-234"
+				],
+				"proteinName": [
+					"Ubiquitin carboxyl-terminal hydrolase",
+					"Ubiquitin carboxyl-terminal hydrolase"
+				],
+				"knotProbability": [
+					0.71,
+					0.71
+				]
+			},
+			"uniprot": {
+				"protein": "Ubiquitin carboxyl-terminal hydrolase",
+				"sequence": "MSQSGWNTIDSDAGVFTELVEKLGVENIEINDLYSIDSDTLRALQPIHGLIFLFKYSKLDREFATSNQPITGEYEGNYLDKGIFFAHQTIQNACATQAVLNILFNLQDVSLGEELNNFKSFVTGFDSEMIGETISNSDLIRSIHNSFSAPHSFVDEDKPPPPPDRDDKDDGLFHFVGYIFKQGKIYELDGLKQYPISHGECSGQDEFIQKLPTIVQERISKYGNELRFSLLAVTNNKLEQAQAMGDQEEIASQLHKRELWKKENELRKHDYTGLIVQLLKNISKEKSDKEWEDFLQKGRNKTQQLIAQSIKKT",
+				"molecular_functions": [
+					"Hydrolase",
+					"Protease",
+					"Thiol protease"
+				],
+				"id": "A0A1D8PNY8",
+				"length": 313,
+				"organism": "Candida albicans (strain SC5314 / ATCC MYA-2876)",
+				"gene": "YUH2",
+				"diseases": [
+
+				]
+			},
+			"diseases": [
+
+			]
+		}
+	},
+	{
+		"id": "A0A1D6KM35",
+		"data": {
+			"diseases": [
+
+			],
+			"knotCoreLength": [
+				241
+			],
+			"source": "AlphaKnot",
+			"uniprot": {
+				"diseases": [
+
+				],
+				"id": "A0A1D6KM35",
+				"length": 355,
+				"gene": null,
+				"organism": "Zea mays",
+				"sequence": "MSWAAIENDPGVFTELLQQMQLKGLQVSNQLSSLYESMFLLKVDDILCYLFHYQVDELYSLDLDALNDLQPIYGLILLYKWRPPEKDEGPVIKDAIPNLFFANQIINKACATQAIVSVLLNSPGITLSDELKKLKEFAKDLPPELKGLAIVNCASIRMLNNSFARSEASEEQKPPSGDDDVYHFINYVPVDGVLYELDGLKEGPISLGKCPGGVGDAGWWLRLAQPVIKEHIDLFSQNEIRFSVMAILKNRKEMFTVEIKELQRKREGLLQQMGDPNASRHVEQSLAEVAAQIESVTEKIIMEEEKVKKWKAENLRRKHNYVPFLFNFLKILEEKQQLKPLIEKAKAKQKSHGPS",
+				"molecular_functions": [
+					"Hydrolase",
+					"Protease",
+					"Thiol protease"
+				],
+				"protein": "Ubiquitin carboxyl-terminal hydrolase"
+			},
+			"molecular_functions": [
+				"Hydrolase",
+				"Protease",
+				"Thiol protease"
+			],
+			"knotType": [
+				"5_2"
+			],
+			"alphaknot": {
+				"knotProbability": [
+					0.64
+				],
+				"version": [
+					1
+				],
+				"pLDDT_chain": [
+					85.38
+				],
+				"knotCoreRange": [
+					"6-247"
+				],
+				"knotType": [
+					"5_2"
+				],
+				"knotCoreLength": [
+					241
+				],
+				"InterPro": [
+					"IPR038765,IPR001578,IPR036959,IPR017390,IPR041507"
+				],
+				"kingdom": [
+					"Eukaryota"
+				],
+				"family": [
+					"Poaceae"
+				],
+				"category": [
+					"AF1-Knot"
+				],
+				"pLDDT_knotCore": [
+					83.4
+				],
+				"chainLength": [
+					355
+				],
+				"organism": [
+					"Maize"
+				],
+				"proteinName": [
+					"Ubiquitin carboxyl-terminal hydrolase"
+				],
+				"#FILTER: Uniprot=A0A1D6KM35;": [
+					null
+				],
+				"PDB": [
+					null
+				],
+				"uniprotId": [
+					"A0A1D6KM35"
+				],
+				"PFAM": [
+					"PF01088,PF18031"
+				],
+				"geneName": [
+					null
+				],
+				"EC": [
+					null
+				],
+				"fingerprint": [
+					"K 5_2"
+				]
+			}
+		}
+	},
+	{
+		"id": "A0A1D6HPV4",
+		"data": {
+			"molecular_functions": [
+				"Hydrolase",
+				"Protease",
+				"Thiol protease"
+			],
+			"uniprot": {
+				"sequence": "MSWCTIESDPGVFTELIQQMQVKGVQDLEDMHFSLRWKSFTLSMWALLVNCGENLYYLCRHYLQSECLEHIFVLSTFLRPVYGLIFLFKWIPGEKDERPVVRDPNPNLFFAHQVITNACATQAILSVLMNRPEIDIGPELSQLKEFTGAFTPDLKGLAISNSESIRTAHNSFARPEPFISDEQRAATKDDDVYHFISYLPFEGVLYELDGLKEGPVNLGQCDGADDLDWLRMVQPVIQERIERYSQSEIRFNLMAIIKNRKEVYSAELEELEKRREQILQEMNNASSTESLSSSLTEVISAIETVTEKVIMEEEKFKKWKKENIRRKHNYIPFLFNLLKMLAEKQQLKPLVEKAKQQKSASPSTS",
+				"gene": null,
+				"protein": "Ubiquitin carboxyl-terminal hydrolase",
+				"length": 365,
+				"diseases": [
+
+				],
+				"molecular_functions": [
+					"Hydrolase",
+					"Protease",
+					"Thiol protease"
+				],
+				"organism": "Zea mays",
+				"id": "A0A1D6HPV4"
+			},
+			"diseases": [
+
+			],
+			"knotType": [
+				"5_2"
+			],
+			"alphaknot": {
+				"category": [
+					"AF1-Knot"
+				],
+				"knotCoreLength": [
+					254
+				],
+				"knotCoreRange": [
+					"5-259"
+				],
+				"knotType": [
+					"5_2"
+				],
+				"chainLength": [
+					365
+				],
+				"pLDDT_knotCore": [
+					79.8
+				],
+				"EC": [
+					null
+				],
+				"kingdom": [
+					"Eukaryota"
+				],
+				"knotProbability": [
+					0.67
+				],
+				"version": [
+					1
+				],
+				"pLDDT_chain": [
+					82.11
+				],
+				"family": [
+					"Poaceae"
+				],
+				"geneName": [
+					null
+				],
+				"proteinName": [
+					"Ubiquitin carboxyl-terminal hydrolase"
+				],
+				"uniprotId": [
+					"A0A1D6HPV4"
+				],
+				"organism": [
+					"Maize"
+				],
+				"PFAM": [
+					"PF01088,PF18031"
+				],
+				"#FILTER: Uniprot=A0A1D6HPV4;": [
+					null
+				],
+				"InterPro": [
+					"IPR038765,IPR001578,IPR036959,IPR017390,IPR041507"
+				],
+				"PDB": [
+					null
+				],
+				"fingerprint": [
+					"K 5_2"
+				]
+			},
+			"knotCoreLength": [
+				254
+			],
+			"source": "AlphaKnot"
+		}
+	},
+	{
+		"id": "A0A0R0K2F0",
+		"data": {
+			"molecular_functions": [
+				"Hydrolase",
+				"Protease",
+				"Thiol protease"
+			],
+			"knotType": [
+				"5_2",
+				"5_2"
+			],
+			"alphaknot": {
+				"PDB": [
+					null,
+					null
+				],
+				"#FILTER: Uniprot=A0A0R0K2F0;": [
+					null,
+					null
+				],
+				"kingdom": [
+					"Eukaryota",
+					"Eukaryota"
+				],
+				"knotCoreLength": [
+					156,
+					292
+				],
+				"knotType": [
+					"5_2",
+					"5_2"
+				],
+				"organism": [
+					"Soybn",
+					"Soybn"
+				],
+				"InterPro": [
+					"IPR038765,IPR001578,IPR036959",
+					"IPR038765,IPR001578,IPR036959"
+				],
+				"pLDDT_knotCore": [
+					84.6,
+					84.6
+				],
+				"uniprotId": [
+					"A0A0R0K2F0",
+					"A0A0R0K2F0"
+				],
+				"geneName": [
+					null,
+					null
+				],
+				"chainLength": [
+					316,
+					316
+				],
+				"pLDDT_chain": [
+					82.78,
+					82.78
+				],
+				"version": [
+					1,
+					1
+				],
+				"family": [
+					"Fabaceae",
+					"Fabaceae"
+				],
+				"proteinName": [
+					"Ubiquitin carboxyl-terminal hydrolase",
+					"Ubiquitin carboxyl-terminal hydrolase"
+				],
+				"PFAM": [
+					"PF01088",
+					"PF01088"
+				],
+				"EC": [
+					null,
+					null
+				],
+				"knotProbability": [
+					0.74,
+					0.74
+				],
+				"fingerprint": [
+					"K 5_2, 3_1, 3_1",
+					"K 5_2, 3_1, 3_1"
+				],
+				"knotCoreRange": [
+					"14-170",
+					"15-307"
+				],
+				"category": [
+					"AF1-Knot",
+					"AF1-Knot"
+				]
+			},
+			"knotCoreLength": [
+				156,
+				292
+			],
+			"source": "AlphaKnot",
+			"diseases": [
+
+			],
+			"uniprot": {
+				"organism": "Glycine max",
+				"diseases": [
+
+				],
+				"sequence": "MATLDERPSAKRWLPLEANPEVMNQFLWGLGLPLDEAECCDVFGLDEELLEMVPKPVLAVLFLYPITAKSEEERLQQENEKKDYSSKVYFMKQTVGNACGTIGLLHALGNITSEVKLVEGSFFDKFFKSTASMDPLQRAVFLENDREMEVAHSVAATAGDTVASDNVDTHFICFACVDGELYELDGRKSGPISHGPSSPSTLLRAPYFWHYSSSPSPAYICLFLSFILPIKCWRVVLNPVTMTFSTRLGYLIMSEVAGFTISFIFTCFFHYLAIFNCVYLNLQQDAAKVIQSMIQKNPGSLNFNVIAISKKSKDGH",
+				"protein": "Ubiquitin carboxyl-terminal hydrolase",
+				"gene": "100527718",
+				"length": 316,
+				"id": "A0A0R0K2F0",
+				"molecular_functions": [
+					"Hydrolase",
+					"Protease",
+					"Thiol protease"
+				]
+			}
+		}
+	},
+	{
+		"id": "Q9UQC9",
+		"data": {
+			"knotCoreLength": [
+				259
+			],
+			"molecular_functions": [
+				"Hydrolase",
+				"Metalloprotease",
+				"Protease"
+			],
+			"source": "AlphaKnot",
+			"alphaknot": {
+				"proteinName": [
+					"Calcium-activated chloride channel regulator 2"
+				],
+				"fingerprint": [
+					"K 3_1, 3_1, 3_1"
+				],
+				"#FILTER: Uniprot=Q9UQC9;": [
+					null
+				],
+				"knotCoreRange": [
+					"46-305"
+				],
+				"PFAM": [
+					"PF08434"
+				],
+				"organism": [
+					"Human"
+				],
+				"PDB": [
+					null
+				],
+				"InterPro": [
+					"IPR004727,IPR013642,IPR002035,IPR036465"
+				],
+				"knotProbability": [
+					0.96
+				],
+				"chainLength": [
+					943
+				],
+				"kingdom": [
+					"Eukaryota"
+				],
+				"uniprotId": [
+					"Q9UQC9"
+				],
+				"pLDDT_knotCore": [
+					89.2
+				],
+				"knotType": [
+					"3_1"
+				],
+				"family": [
+					"Hominidae"
+				],
+				"category": [
+					"AF1-Knot"
+				],
+				"knotCoreLength": [
+					259
+				],
+				"pLDDT_chain": [
+					86.8
+				],
+				"EC": [
+					null
+				],
+				"version": [
+					1
+				],
+				"geneName": [
+					null
+				]
+			},
+			"uniprot": {
+				"sequence": "MTQRSIAGPICNLKFVTLLVALSSELPFLGAGVQLQDNGYNGLLIAINPQVPENQNLISNIKEMITEASFYLFNATKRRVFFRNIKILIPATWKANNNSKIKQESYEKANVIVTDWYGAHGDDPYTLQYRGCGKEGKYIHFTPNFLLNDNLTAGYGSRGRVFVHEWAHLRWGVFDEYNNDKPFYINGQNQIKVTRCSSDITGIFVCEKGPCPQENCIISKLFKEGCTFIYNSTQNATASIMFMQSLSSVVEFCNASTHNQEAPNLQNQMCSLRSAWDVITDSADFHHSFPMNGTELPPPPTFSLVQAGDKVVCLVLDVSSKMAEADRLLQLQQAAEFYLMQIVEIHTFVGIASFDSKGEIRAQLHQINSNDDRKLLVSYLPTTVSAKTDISICSGLKKGFEVVEKLNGKAYGSVMILVTSGDDKLLGNCLPTVLSSGSTIHSIALGSSAAPNLEELSRLTGGLKFFVPDISNSNSMIDAFSRISSGTGDIFQQHIQLESTGENVKPHHQLKNTVTVDNTVGNDTMFLVTWQASGPPEIILFDPDGRKYYTNNFITNLTFRTASLWIPGTAKPGHWTYTLNNTHHSLQALKVTVTSRASNSAVPPATVEAFVERDSLHFPHPVMIYANVKQGFYPILNATVTATVEPETGDPVTLRLLDDGAGADVIKNDGIYSRYFFSFAANGRYSLKVHVNHSPSISTPAHSIPGSHAMYVPGYTANGNIQMNAPRKSVGRNEEERKWGFSRVSSGGSFSVLGVPAGPHPDVFPPCKIIDLEAVKVEEELTLSWTAPGEDFDQGQATSYEIRMSKSLQNIQDDFNNAILVNTSKRNPQQAGIREIFTFSPQISTNGPEHQPNGETHESHRIYVAIRAMDRNSLQSAVSNIAQAPLFIPPNSDPVPARDYLILKGVLTAMGLIGIICLIIVVTHHTLSRKKRADKKENGTKLL",
+				"organism": "Homo sapiens",
+				"gene": "CLCA2",
+				"length": 943,
+				"diseases": [
+
+				],
+				"protein": "Calcium-activated chloride channel regulator 2",
+				"molecular_functions": [
+					"Hydrolase",
+					"Metalloprotease",
+					"Protease"
+				],
+				"id": "Q9UQC9"
+			},
+			"knotType": [
+				"3_1"
+			],
+			"diseases": [
+
+			]
+		}
+	},
+	{
+		"id": "Q14CN2",
+		"data": {
+			"source": "AlphaKnot",
+			"diseases": [
+
+			],
+			"molecular_functions": [
+				"Hydrolase",
+				"Metalloprotease",
+				"Protease"
+			],
+			"uniprot": {
+				"gene": "CLCA4",
+				"protein": "Calcium-activated chloride channel regulator 4",
+				"id": "Q14CN2",
+				"diseases": [
+
+				],
+				"organism": "Homo sapiens",
+				"molecular_functions": [
+					"Hydrolase",
+					"Metalloprotease",
+					"Protease"
+				],
+				"sequence": "MGLFRGFVFLLVLCLLHQSNTSFIKLNNNGFEDIVIVIDPSVPEDEKIIEQIEDMVTTASTYLFEATEKRFFFKNVSILIPENWKENPQYKRPKHENHKHADVIVAPPTLPGRDEPYTKQFTECGEKGEYIHFTPDLLLGKKQNEYGPPGKLFVHEWAHLRWGVFDEYNEDQPFYRAKSKKIEATRCSAGISGRNRVYKCQGGSCLSRACRIDSTTKLYGKDCQFFPDKVQTEKASIMFMQSIDSVVEFCNEKTHNQEAPSLQNIKCNFRSTWEVISNSEDFKNTIPMVTPPPPPVFSLLKISQRIVCLVLDKSGSMGGKDRLNRMNQAAKHFLLQTVENGSWVGMVHFDSTATIVNKLIQIKSSDERNTLMAGLPTYPLGGTSICSGIKYAFQVIGELHSQLDGSEVLLLTDGEDNTASSCIDEVKQSGAIVHFIALGRAADEAVIEMSKITGGSHFYVSDEAQNNGLIDAFGALTSGNTDLSQKSLQLESKGLTLNSNAWMNDTVIIDSTVGKDTFFLITWNSLPPSISLWDPSGTIMENFTVDATSKMAYLSIPGTAKVGTWAYNLQAKANPETLTITVTSRAANSSVPPITVNAKMNKDVNSFPSPMIVYAEILQGYVPVLGANVTAFIESQNGHTEVLELLDNGAGADSFKNDGVYSRYFTAYTENGRYSLKVRAHGGANTARLKLRPPLNRAAYIPGWVVNGEIEANPPRPEIDEDTQTTLEDFSRTASGGAFVVSQVPSLPLPDQYPPSQITDLDATVHEDKIILTWTAPGDNFDVGKVQRYIIRISASILDLRDSFDDALQVNTTDLSPKEANSKESFAFKPENISEENATHIFIAIKSIDKSNLTSKVSNIAQVTLFIPQANPDDIDPTPTPTPTPTPDKSHNSGVNISTLVLSVIGSVVIVNFILSTTI",
+				"length": 919
+			},
+			"knotType": [
+				"3_1"
+			],
+			"knotCoreLength": [
+				263
+			],
+			"alphaknot": {
+				"organism": [
+					"Human"
+				],
+				"EC": [
+					null
+				],
+				"InterPro": [
+					"IPR004727,IPR013642,IPR013783,IPR002035,IPR036465"
+				],
+				"geneName": [
+					null
+				],
+				"knotCoreLength": [
+					263
+				],
+				"uniprotId": [
+					"Q14CN2"
+				],
+				"family": [
+					"Hominidae"
+				],
+				"PFAM": [
+					"PF08434,PF00092"
+				],
+				"PDB": [
+					null
+				],
+				"knotType": [
+					"3_1"
+				],
+				"category": [
+					"AF1-Knot"
+				],
+				"pLDDT_chain": [
+					89.4
+				],
+				"pLDDT_knotCore": [
+					93
+				],
+				"chainLength": [
+					919
+				],
+				"proteinName": [
+					"Calcium-activated chloride channel regulator 4"
+				],
+				"kingdom": [
+					"Eukaryota"
+				],
+				"knotCoreRange": [
+					"37-300"
+				],
+				"fingerprint": [
+					"K 3_1, 3_1, 3_1"
+				],
+				"version": [
+					1
+				],
+				"knotProbability": [
+					0.87
+				],
+				"#FILTER: Uniprot=Q14CN2;": [
+					null
+				]
+			}
+		}
+	},
+	{
+		"id": "A8K7I4",
+		"data": {
+			"uniprot": {
+				"sequence": "MGPFKSSVFILILHLLEGALSNSLIQLNNNGYEGIVVAIDPNVPEDETLIQQIKDMVTQASLYLLEATGKRFYFKNVAILIPETWKTKADYVRPKLETYKNADVLVAESTPPGNDEPYTEQMGNCGEKGERIHLTPDFIAGKKLAEYGPQGRAFVHEWAHLRWGVFDEYNNDEKFYLSNGRIQAVRCSAGITGTNVVKKCQGGSCYTKRCTFNKVTGLYEKGCEFVLQSRQTEKASIMFAQHVDSIVEFCTEQNHNKEAPNKQNQKCNLRSTWEVIRDSEDFKKTTPMTTQPPNPTFSLLQIGQRIVCLVLDKSGSMATGNRLNRLNQAGQLFLLQTVELGSWVGMVTFDSAAHVQNELIQINSGSDRDTLAKRLPAAASGGTSICSGLRSAFTVIRKKYPTDGSEIVLLTDGEDNTISGCFNEVKQSGAIIHTVALGPSAAQELEELSKMTGGLQTYASDQVQNNGLIDAFGALSSGNGAVSQRSIQLESKGLTLQNSQWMNGTVIVDSTVGKDTLFLITWTMQPPQILLWDPSGQKQGGFVVDKNTKMAYLQIPGIAKVGTWKYSLQASSQTLTLTVTSRASNATLPPITVTSKTNKDTSKFPSPLVVYANIRQGASPILRASVTALIESVNGKTVTLELLDNGAGADATKDDGVYSRYFTTYDTNGRYSVKVRALGGVNAARRRVIPQQSGALYIPGWIENDEIQWNPPRPEINKDDVQHKQVCFSRTSSGGSFVASDVPNAPIPDLFPPGQITDLKAEIHGGSLINLTWTAPGDDYDHGTAHKYIIRISTSILDLRDKFNESLQVNTTALIPKEANSEEVFLFKPENITFENGTDLFIAIQAVDKVDLKSEISNIARVSLFIPPQTPPETPSPDETSAPCPNIHINSTIPGIHILKIMWKWIGELQLSIA",
+				"diseases": [
+
+				],
+				"length": 914,
+				"organism": "Homo sapiens",
+				"id": "A8K7I4",
+				"protein": "Calcium-activated chloride channel regulator 1",
+				"gene": "CLCA1",
+				"molecular_functions": [
+					"Hydrolase",
+					"Metalloprotease",
+					"Protease"
+				]
+			},
+			"knotType": [
+				"3_1"
+			],
+			"alphaknot": {
+				"knotProbability": [
+					0.9
+				],
+				"PFAM": [
+					"PF08434,PF13519"
+				],
+				"#FILTER: Uniprot=A8K7I4;": [
+					null
+				],
+				"proteinName": [
+					"Calcium-activated chloride channel regulator 1"
+				],
+				"InterPro": [
+					"IPR004727,IPR013642,IPR013783,IPR002035,IPR036465"
+				],
+				"category": [
+					"AF1-Knot"
+				],
+				"PDB": [
+					"6PYO_A,6PYX_A"
+				],
+				"uniprotId": [
+					"A8K7I4"
+				],
+				"pLDDT_chain": [
+					88.1
+				],
+				"family": [
+					"Hominidae"
+				],
+				"organism": [
+					"Human"
+				],
+				"kingdom": [
+					"Eukaryota"
+				],
+				"knotCoreLength": [
+					262
+				],
+				"fingerprint": [
+					"K 3_1, 3_1, 3_1"
+				],
+				"knotType": [
+					"3_1"
+				],
+				"geneName": [
+					null
+				],
+				"version": [
+					1
+				],
+				"EC": [
+					null
+				],
+				"pLDDT_knotCore": [
+					92.4
+				],
+				"knotCoreRange": [
+					"38-300"
+				],
+				"chainLength": [
+					914
+				]
+			},
+			"knotCoreLength": [
+				262
+			],
+			"diseases": [
+
+			],
+			"source": "AlphaKnot",
+			"molecular_functions": [
+				"Hydrolase",
+				"Metalloprotease",
+				"Protease"
+			]
+		}
+	},
+	{
+		"id": "Q9NYU2",
+		"data": {
+			"source": "AlphaKnot",
+			"molecular_functions": [
+				"Glycosyltransferase",
+				"Transferase"
+			],
+			"uniprot": {
+				"gene": "UGGT1",
+				"protein": "UDP-glucose:glycoprotein glucosyltransferase 1",
+				"organism": "Homo sapiens",
+				"diseases": [
+
+				],
+				"molecular_functions": [
+					"Glycosyltransferase",
+					"Transferase"
+				],
+				"length": 1555,
+				"sequence": "MGCKGDASGACAAGALPVTGVCYKMGVLVVLTVLWLFSSVKADSKAITTSLTTKWFSTPLLLEASEFLAEDSQEKFWNFVEASQNIGSSDHDGTDYSYYHAILEAAFQFLSPLQQNLFKFCLSLRSYSATIQAFQQIAADEPPPEGCNSFFSVHGKKTCESDTLEALLLTASERPKPLLFKGDHRYPSSNPESPVVIFYSEIGSEEFSNFHRQLISKSNAGKINYVFRHYIFNPRKEPVYLSGYGVELAIKSTEYKAKDDTQVKGTEVNTTVIGENDPIDEVQGFLFGKLRDLHPDLEGQLKELRKHLVESTNEMAPLKVWQLQDLSFQTAARILASPVELALVVMKDLSQNFPTKARAITKTAVSSELRTEVEENQKYFKGTLGLQPGDSALFINGLHMDLDTQDIFSLFDVLRNEARVMEGLHRLGIEGLSLHNVLKLNIQPSEADYAVDIRSPAISWVNNLEVDSRYNSWPSSLQELLRPTFPGVIRQIRKNLHNMVFIVDPAHETTAELMNTAEMFLSNHIPLRIGFIFVVNDSEDVDGMQDAGVAVLRAYNYVAQEVDDYHAFQTLTHIYNKVRTGEKVKVEHVVSVLEKKYPYVEVNSILGIDSAYDRNRKEARGYYEQTGVGPLPVVLFNGMPFEREQLDPDELETITMHKILETTTFFQRAVYLGELPHDQDVVEYIMNQPNVVPRINSRILTAERDYLDLTASNNFFVDDYARFTILDSQGKTAAVANSMNYLTKKGMSSKEIYDDSFIRPVTFWIVGDFDSPSGRQLLYDAIKHQKSSNNVRISMINNPAKEISYENTQISRAIWAALQTQTSNAAKNFITKMAKEGAAEALAAGADIAEFSVGGMDFSLFKEVFESSKMDFILSHAVYCRDVLKLKKGQRAVISNGRIIGPLEDSELFNQDDFHLLENIILKTSGQKIKSHIQQLRVEEDVASDLVMKVDALLSAQPKGDPRIEYQFFEDRHSAIKLRPKEGETYFDVVAVVDPVTREAQRLAPLLLVLAQLINMNLRVFMNCQSKLSDMPLKSFYRYVLEPEISFTSDNSFAKGPIAKFLDMPQSPLFTLNLNTPESWMVESVRTPYDLDNIYLEEVDSVVAAEYELEYLLLEGHCYDITTGQPPRGLQFTLGTSANPVIVDTIVMANLGYFQLKANPGAWILRLRKGRSEDIYRIYSHDGTDSPPDADEVVIVLNNFKSKIIKVKVQKKADMVNEDLLSDGTSENESGFWDSFKWGFTGQKTEEVKQDKDDIINIFSVASGHLYERFLRIMMLSVLKNTKTPVKFWFLKNYLSPTFKEFIPYMANEYNFQYELVQYKWPRWLHQQTEKQRIIWGYKILFLDVLFPLVVDKFLFVDADQIVRTDLKELRDFNLDGAPYGYTPFCDSRREMDGYRFWKSGYWASHLAGRKYHISALYVVDLKKFRKIAAGDRLRGQYQGLSQDPNSLSNLDQDLPNNMIHQVPIKSLPQEWLWCETWCDDASKKRAKTIDLCNNPMTKEPKLEAAVRIVPEWQDYDQEIKQLQIRFQKEKETGALYKEKTKEPSREGPQKREEL",
+				"id": "Q9NYU2"
+			},
+			"knotType": [
+				"3_1"
+			],
+			"alphaknot": {
+				"version": [
+					1
+				],
+				"knotCoreLength": [
+					1056
+				],
+				"knotCoreRange": [
+					"44-1100"
+				],
+				"family": [
+					"Hominidae"
+				],
+				"pLDDT_chain": [
+					83.8
+				],
+				"#FILTER: Uniprot=Q9NYU2;": [
+					null
+				],
+				"proteinName": [
+					"UDP-glucose:glycoprotein glucosyltransferase 1"
+				],
+				"knotType": [
+					"3_1"
+				],
+				"PFAM": [
+					"PF18404,PF18400,PF18401,PF18402,PF18403,PF06427"
+				],
+				"organism": [
+					"Human"
+				],
+				"uniprotId": [
+					"Q9NYU2"
+				],
+				"geneName": [
+					null
+				],
+				"PDB": [
+					null
+				],
+				"chainLength": [
+					1555
+				],
+				"EC": [
+					null
+				],
+				"fingerprint": [
+					"K 3_1, 3_1"
+				],
+				"category": [
+					"AF1-Knot"
+				],
+				"InterPro": [
+					"IPR040497,IPR029044,IPR009448,IPR040693,IPR040694,IPR040692,IPR040525"
+				],
+				"kingdom": [
+					"Eukaryota"
+				],
+				"pLDDT_knotCore": [
+					85.5
+				],
+				"knotProbability": [
+					0.73
+				]
+			},
+			"diseases": [
+
+			],
+			"knotCoreLength": [
+				1056
+			]
+		}
+	},
+	{
+		"id": "Q9NYU1",
+		"data": {
+			"molecular_functions": [
+				"Glycosyltransferase",
+				"Transferase"
+			],
+			"uniprot": {
+				"organism": "Homo sapiens",
+				"id": "Q9NYU1",
+				"gene": "UGGT2",
+				"diseases": [
+
+				],
+				"sequence": "MAPAKATNVVRLLLGSTALWLSQLGSGTVAASKSVTAHLAAKWPETPLLLEASEFMAEESNEKFWQFLETVQELAIYKQTESDYSYYNLILKKAGQFLDNLHINLLKFAFSIRAYSPAIQMFQQIAADEPPPDGCNAFVVIHKKHTCKINEIKKLLKKAASRTRPYLFKGDHKFPTNKENLPVVILYAEMGTRTFSAFHKVLSEKAQNEEILYVLRHYIQKPSSRKMYLSGYGVELAIKSTEYKALDDTQVKTVTNTTVEDETETNEVQGFLFGKLKEIYSDLRDNLTAFQKYLIESNKQMMPLKVWELQDLSFQAASQIMSAPVYDSIKLMKDISQNFPIKARSLTRIAVNQHMREEIKENQKDLQVRFKIQPGDARLFINGLRVDMDVYDAFSILDMLKLEGKMMNGLRNLGINGEDMSKFLKLNSHIWEYTYVLDIRHSSIMWINDLENDDLYITWPTSCQKLLKPVFPGSVPSIRRNFHNLVLFIDPAQEYTLDFIKLADVFYSHEVPLRIGFVFILNTDDEVDGANDAGVALWRAFNYIAEEFDISEAFISIVHMYQKVKKDQNILTVDNVKSVLQNTFPHANIWDILGIHSKYDEERKAGASFYKMTGLGPLPQALYNGEPFKHEEMNIKELKMAVLQRMMDASVYLQREVFLGTLNDRTNAIDFLMDRNNVVPRINTLILRTNQQYLNLISTSVTADVEDFSTFFFLDSQDKSAVIAKNMYYLTQDDESIISAVTLWIIADFDKPSGRKLLFNALKHMKTSVHSRLGIIYNPTSKINEENTAISRGILAAFLTQKNMFLRSFLGQLAKEEIATAIYSGDKIKTFLIEGMDKNAFEKKYNTVGVNIFRTHQLFCQDVLKLRPGEMGIVSNGRFLGPLDEDFYAEDFYLLEKITFSNLGEKIKGIVENMGINANNMSDFIMKVDALMSSVPKRASRYDVTFLRENHSVIKTNPQENDMFFNVIAIVDPLTREAQKMAQLLVVLGKIINMKIKLFMNCRGRLSEAPLESFYRFVLEPELMSGANDVSSLGPVAKFLDIPESPLLILNMITPEGWLVETVHSNCDLDNIHLKDTEKTVTAEYELEYLLLEGQCFDKVTEQPPRGLQFTLGTKNKPAVVDTIVMAHHGYFQLKANPGAWILRLHQGKSEDIYQIVGHEGTDSQADLEDIIVVLNSFKSKILKVKVKKETDKIKEDILTDEDEKTKGLWDSIKSFTVSLHKENKKEKDVLNIFSVASGHLYERFLRIMMLSVLRNTKTPVKFWLLKNYLSPTFKEVIPHMAKEYGFRYELVQYRWPRWLRQQTERQRIIWGYKILFLDVLFPLAVDKIIFVDADQIVRHDLKELRDFDLDGAPYGYTPFCDSRREMDGYRFWKTGYWASHLLRRKYHISALYVVDLKKFRRIGAGDRLRSQYQALSQDPNSLSNLDQDLPNNMIYQVAIKSLPQDWLWCETWCDDESKQRAKTIDLCNNPKTKESKLKAAARIVPEWVEYDAEIRQLLDHLENKKQDTILTHDEL",
+				"molecular_functions": [
+					"Glycosyltransferase",
+					"Transferase"
+				],
+				"protein": "UDP-glucose:glycoprotein glucosyltransferase 2",
+				"length": 1516
+			},
+			"alphaknot": {
+				"pLDDT_knotCore": [
+					85.8
+				],
+				"knotCoreLength": [
+					1015
+				],
+				"proteinName": [
+					"UDP-glucose:glycoprotein glucosyltransferase 2"
+				],
+				"knotCoreRange": [
+					"31-1046"
+				],
+				"InterPro": [
+					"IPR040497,IPR029044,IPR009448,IPR040693,IPR040694,IPR040692,IPR040525"
+				],
+				"knotType": [
+					"3_1"
+				],
+				"kingdom": [
+					"Eukaryota"
+				],
+				"PFAM": [
+					"PF18404,PF18400,PF18401,PF18402,PF18403,PF06427"
+				],
+				"EC": [
+					null
+				],
+				"knotProbability": [
+					0.74
+				],
+				"pLDDT_chain": [
+					85.1
+				],
+				"geneName": [
+					null
+				],
+				"PDB": [
+					null
+				],
+				"#FILTER: Uniprot=Q9NYU1;": [
+					null
+				],
+				"organism": [
+					"Human"
+				],
+				"category": [
+					"AF1-Knot"
+				],
+				"uniprotId": [
+					"Q9NYU1"
+				],
+				"version": [
+					1
+				],
+				"chainLength": [
+					1516
+				],
+				"family": [
+					"Hominidae"
+				],
+				"fingerprint": [
+					"K 3_1"
+				]
+			},
+			"knotType": [
+				"3_1"
+			],
+			"source": "AlphaKnot",
+			"knotCoreLength": [
+				1015
+			],
+			"diseases": [
+
+			]
+		}
+	},
+	{
+		"id": "Q8TE23",
+		"data": {
+			"knotCoreLength": [
+				355
+			],
+			"uniprot": {
+				"length": 839,
+				"diseases": [
+
+				],
+				"molecular_functions": [
+					"G-protein coupled receptor",
+					"Receptor",
+					"Transducer"
+				],
+				"sequence": "MGPRAKTISSLFFLLWVLAEPAENSDFYLPGDYLLGGLFSLHANMKGIVHLNFLQVPMCKEYEVKVIGYNLMQAMRFAVEEINNDSSLLPGVLLGYEIVDVCYISNNVQPVLYFLAHEDNLLPIQEDYSNYISRVVAVIGPDNSESVMTVANFLSLFLLPQITYSAISDELRDKVRFPALLRTTPSADHHIEAMVQLMLHFRWNWIIVLVSSDTYGRDNGQLLGERVARRDICIAFQETLPTLQPNQNMTSEERQRLVTIVDKLQQSTARVVVVFSPDLTLYHFFNEVLRQNFTGAVWIASESWAIDPVLHNLTELRHLGTFLGITIQSVPIPGFSEFREWGPQAGPPPLSRTSQSYTCNQECDNCLNATLSFNTILRLSGERVVYSVYSAVYAVAHALHSLLGCDKSTCTKRVVYPWQLLEEIWKVNFTLLDHQIFFDPQGDVALHLEIVQWQWDRSQNPFQSVASYYPLQRQLKNIQDISWHTINNTIPMSMCSKRCQSGQKKKPVGIHVCCFECIDCLPGTFLNHTEDEYECQACPNNEWSYQSETSCFKRQLVFLEWHEAPTIAVALLAALGFLSTLAILVIFWRHFQTPIVRSAGGPMCFLMLTLLLVAYMVVPVYVGPPKVSTCLCRQALFPLCFTICISCIAVRSFQIVCAFKMASRFPRAYSYWVRYQGPYVSMAFITVLKMVIVVIGMLATGLSPTTRTDPDDPKITIVSCNPNYRNSLLFNTSLDLLLSVVGFSFAYMGKELPTNYNEAKFITLSMTFYFTSSVSLCTFMSAYSGVLVTIVDLLVTVLNLLAISLGYFGPKCYMILFYPERNTPAYFNSMIQGYTMRRD",
+				"id": "Q8TE23",
+				"gene": "TAS1R2",
+				"organism": "Homo sapiens",
+				"protein": "Taste receptor type 1 member 2"
+			},
+			"knotType": [
+				"3_1"
+			],
+			"molecular_functions": [
+				"G-protein coupled receptor",
+				"Receptor",
+				"Transducer"
+			],
+			"source": "AlphaKnot",
+			"alphaknot": {
+				"knotType": [
+					"3_1"
+				],
+				"#FILTER: Uniprot=Q8TE23;": [
+					null
+				],
+				"family": [
+					"Hominidae"
+				],
+				"chainLength": [
+					839
+				],
+				"version": [
+					1
+				],
+				"EC": [
+					null
+				],
+				"knotCoreLength": [
+					355
+				],
+				"organism": [
+					"Human"
+				],
+				"InterPro": [
+					"IPR001828,IPR000337,IPR011500,IPR038550,IPR017978,IPR000068,IPR017979,IPR028082"
+				],
+				"uniprotId": [
+					"Q8TE23"
+				],
+				"category": [
+					"AF1-Knot"
+				],
+				"PFAM": [
+					"PF00003,PF01094,PF07562"
+				],
+				"knotCoreRange": [
+					"29-384"
+				],
+				"pLDDT_chain": [
+					85.8
+				],
+				"fingerprint": [
+					"K 3_1"
+				],
+				"kingdom": [
+					"Eukaryota"
+				],
+				"pLDDT_knotCore": [
+					87.8
+				],
+				"proteinName": [
+					"Taste receptor type 1 member 2"
+				],
+				"PDB": [
+					null
+				],
+				"knotProbability": [
+					0.88
+				],
+				"geneName": [
+					null
+				]
+			},
+			"diseases": [
+
+			]
+		}
+	},
+	{
+		"id": "Q7RTX0",
+		"data": {
+			"knotCoreLength": [
+				359
+			],
+			"molecular_functions": [
+				"G-protein coupled receptor",
+				"Receptor",
+				"Transducer"
+			],
+			"uniprot": {
+				"sequence": "MLGPAVLGLSLWALLHPGTGAPLCLSQQLRMKGDYVLGGLFPLGEAEEAGLRSRTRPSSPVCTRFSSNGLLWALAMKMAVEEINNKSDLLPGLRLGYDLFDTCSEPVVAMKPSLMFLAKAGSRDIAAYCNYTQYQPRVLAVIGPHSSELAMVTGKFFSFFLMPQVSYGASMELLSARETFPSFFRTVPSDRVQLTAAAELLQEFGWNWVAALGSDDEYGRQGLSIFSALAAARGICIAHEGLVPLPRADDSRLGKVQDVLHQVNQSSVQVVLLFASVHAAHALFNYSISSRLSPKVWVASEAWLTSDLVMGLPGMAQMGTVLGFLQRGAQLHEFPQYVKTHLALATDPAFCSALGEREQGLEEDVVGQRCPQCDCITLQNVSAGLNHHQTFSVYAAVYSVAQALHNTLQCNASGCPAQDPVKPWQLLENMYNLTFHVGGLPLRFDSSGNVDMEYDLKLWVWQGSVPRLHDVGRFNGSLRTERLKIRWHTSDNQKPVSRCSRQCQEGQVRRVKGFHSCCYDCVDCEAGSYRQNPDDIACTFCGQDEWSPERSTRCFRRRSRFLAWGEPAVLLLLLLLSLALGLVLAALGLFVHHRDSPLVQASGGPLACFGLVCLGLVCLSVLLFPGQPSPARCLAQQPLSHLPLTGCLSTLFLQAAEIFVESELPLSWADRLSGCLRGPWAWLVVLLAMLVEVALCTWYLVAFPPEVVTDWHMLPTEALVHCRTRSWVSFGLAHATNATLAFLCFLGTFLVRSQPGCYNRARGLTFAMLAYFITWVSFVPLLANVQVVLRPAVQMGALLLCVLGILAAFHLPRCYLLMRQPGLNTPEFFLGGGPGDAQGQNDGNTGNQGKHE",
+				"id": "Q7RTX0",
+				"protein": "Taste receptor type 1 member 3",
+				"organism": "Homo sapiens",
+				"gene": "TAS1R3",
+				"length": 852,
+				"molecular_functions": [
+					"G-protein coupled receptor",
+					"Receptor",
+					"Transducer"
+				],
+				"diseases": [
+
+				]
+			},
+			"knotType": [
+				"3_1"
+			],
+			"source": "AlphaKnot",
+			"diseases": [
+
+			],
+			"alphaknot": {
+				"InterPro": [
+					"IPR001828,IPR000337,IPR011500,IPR038550,IPR017978,IPR000068,IPR017979,IPR028082"
+				],
+				"uniprotId": [
+					"Q7RTX0"
+				],
+				"chainLength": [
+					852
+				],
+				"fingerprint": [
+					"K 3_1"
+				],
+				"kingdom": [
+					"Eukaryota"
+				],
+				"geneName": [
+					null
+				],
+				"organism": [
+					"Human"
+				],
+				"knotCoreLength": [
+					359
+				],
+				"EC": [
+					null
+				],
+				"PDB": [
+					null
+				],
+				"category": [
+					"AF1-Knot"
+				],
+				"#FILTER: Uniprot=Q7RTX0;": [
+					null
+				],
+				"PFAM": [
+					"PF00003,PF01094,PF07562"
+				],
+				"version": [
+					1
+				],
+				"proteinName": [
+					"Taste receptor type 1 member 3"
+				],
+				"knotProbability": [
+					0.93
+				],
+				"knotType": [
+					"3_1"
+				],
+				"pLDDT_chain": [
+					87.1
+				],
+				"pLDDT_knotCore": [
+					88.9
+				],
+				"knotCoreRange": [
+					"31-390"
+				],
+				"family": [
+					"Hominidae"
+				]
+			}
+		}
+	},
+	{
+		"id": "Q96RN1",
+		"data": {
+			"source": "AlphaKnot",
+			"alphaknot": {
+				"fingerprint": [
+					"K 3_1, 3_1, 3_1, 3_1"
+				],
+				"chainLength": [
+					970
+				],
+				"uniprotId": [
+					"Q96RN1"
+				],
+				"category": [
+					"AF1-Knot"
+				],
+				"knotCoreRange": [
+					"32-861"
+				],
+				"knotProbability": [
+					0.55
+				],
+				"pLDDT_chain": [
+					69
+				],
+				"knotType": [
+					"3_1"
+				],
+				"PFAM": [
+					null
+				],
+				"kingdom": [
+					"Eukaryota"
+				],
+				"#FILTER: Uniprot=Q96RN1;": [
+					null
+				],
+				"geneName": [
+					null
+				],
+				"proteinName": [
+					"Testis anion transporter 1"
+				],
+				"version": [
+					1
+				],
+				"InterPro": [
+					null
+				],
+				"PDB": [
+					null
+				],
+				"knotCoreLength": [
+					829
+				],
+				"pLDDT_knotCore": [
+					86.1
+				],
+				"organism": [
+					"Human"
+				],
+				"family": [
+					"Hominidae"
+				],
+				"EC": [
+					null
+				]
+			},
+			"knotType": [
+				"3_1"
+			],
+			"molecular_functions": [
+				"Developmental protein"
+			],
+			"uniprot": {
+				"length": 970,
+				"gene": "SLC26A8",
+				"diseases": [
+					{
+						"diseaseId": "Spermatogenic failure 3",
+						"xRef": {
+							"id": "606766",
+							"database": "MIM"
+						}
+					}
+				],
+				"id": "Q96RN1",
+				"protein": "Testis anion transporter 1",
+				"organism": "Homo sapiens",
+				"sequence": "MAQLERSAISGFSSKSRRNSFAYDVKREVYNEETFQQEHKRKASSSGNMNINITTFRHHVQCRCSWHRFLRCVLTIFPFLEWMCMYRLKDWLLGDLLAGISVGLVQVPQGLTLSLLARQLIPPLNIAYAAFCSSVIYVIFGSCHQMSIGSFFLVSALLINVLKVSPFNNGQLVMGSFVKNEFSAPSYLMGYNKSLSVVATTTFLTGIIQLIMGVLGLGFIATYLPESAMSAYLAAVALHIMLSQLTFIFGIMISFHAGPISFFYDIINYCVALPKANSTSILVFLTVVVALRINKCIRISFNQYPIEFPMELFLIIGFTVIANKISMATETSQTLIDMIPYSFLLPVTPDFSLLPKIILQAFSLSLVSSFLLIFLGKKIASLHNYSVNSNQDLIAIGLCNVVSSFFRSCVFTGAIARTIIQDKSGGRQQFASLVGAGVMLLLMVKMGHFFYTLPNAVLAGIILSNVIPYLETISNLPSLWRQDQYDCALWMMTFSSSIFLGLDIGLIISVVSAFFITTVRSHRAKILLLGQIPNTNIYRSINDYREIITIPGVKIFQCCSSITFVNVYYLKHKLLKEVDMVKVPLKEEEIFSLFNSSDTNLQGGKICRCFCNCDDLEPLPRILYTERFENKLDPEASSINLIHCSHFESMNTSQTASEDQVPYTVSSVSQKNQGQQYEEVEEVWLPNNSSRNSSPGLPDVAESQGRRSLIPYSDASLLPSVHTIILDFSMVHYVDSRGLVVLRQICNAFQNANILILIAGCHSSIVRAFERNDFFDAGITKTQLFLSVHDAVLFALSRKVIGSSELSIDESETVIRETYSETDKNDNSRYKMSSSFLGSQKNVSPGFIKIQQPVEEESELDLELESEQEAGLGLDLDLDRELEPEMEPKAETETKTQTEMEPQPETEPEMEPNPKSRPRAHTFPQQRYWPMYHPSMASTQSQTQTRTWSVERRRHPMDSYSPEGNSNEDV",
+				"molecular_functions": [
+					"Developmental protein"
+				]
+			},
+			"knotCoreLength": [
+				829
+			],
+			"diseases": [
+				"Spermatogenic failure 3"
+			]
+		}
+	},
+	{
+		"id": "O23482",
+		"data": {
+			"molecular_functions": [
+				"Developmental protein"
+			],
+			"diseases": [
+
+			],
+			"knotType": [
+				"5_2",
+				"5_2"
+			],
+			"uniprot": {
+				"gene": "OPT3",
+				"diseases": [
+
+				],
+				"id": "O23482",
+				"sequence": "MDAEKATDKTNVHLSSDHERCPVEEVALVVPETDDPSLPVMTFRAWFLGLTSCVLLIFLNTFFTYRTQPLTISAILMQIAVLPIGKFMARTLPTTSHNLLGWSFSLNPGPFNIKEHVIITIFANCGVAYGGGDAYSIGAITVMKAYYKQSLSFICGLFIVLTTQILGYGWAGILRRYLVDPVDMWWPSNLAQVSLFRALHEKENKSKGLTRMKFFLVALGASFIYYALPGYLFPILTFFSWVCWAWPNSITAQQVGSGYHGLGVGAFTLDWAGISAYHGSPLVAPWSSILNVGVGFIMFIYIIVPVCYWKFNTFDARKFPIFSNQLFTTSGQKYDTTKILTPQFDLDIGAYNNYGKLYLSPLFALSIGSGFARFTATLTHVALFNGRDIWKQTWSAVNTTKLDIHGKLMQSYKKVPEWWFYILLAGSVAMSLLMSFVWKESVQLPWWGMLFAFALAFIVTLPIGVIQATTNQQPGYDIIGQFIIGYILPGKPIANLIFKIYGRISTVHALSFLADLKLGHYMKIPPRCMYTAQLVGTVVAGVVNLGVAWWMLESIQDICDIEGDHPNSPWTCPKYRVTFDASVIWGLIGPRRLFGPGGMYRNLVWLFLIGAVLPVPVWALSKIFPNKKWIPLINIPVISYGFAGMPPATPTNIASWLVTGTIFNYFVFNYHKRWWQKYNYVLSAALDAGTAFMGVLLFFALQNAGHDLKWWGTEVDHCPLASCPTAPGIKAKGCPVF",
+				"length": 737,
+				"molecular_functions": [
+					"Developmental protein"
+				],
+				"protein": "Oligopeptide transporter 3",
+				"organism": "Arabidopsis thaliana"
+			},
+			"knotCoreLength": [
+				523,
+				662
+			],
+			"alphaknot": {
+				"knotProbability": [
+					0.75,
+					0.75
+				],
+				"PFAM": [
+					"PF03169",
+					"PF03169"
+				],
+				"PDB": [
+					null,
+					null
+				],
+				"knotCoreLength": [
+					523,
+					662
+				],
+				"knotType": [
+					"5_2",
+					"5_2"
+				],
+				"geneName": [
+					null,
+					null
+				],
+				"proteinName": [
+					"Oligopeptide transporter 3",
+					"Oligopeptide transporter 3"
+				],
+				"pLDDT_chain": [
+					86.61,
+					86.61
+				],
+				"InterPro": [
+					"IPR004648,IPR004813",
+					"IPR004648,IPR004813"
+				],
+				"pLDDT_knotCore": [
+					88.3,
+					88.3
+				],
+				"knotCoreRange": [
+					"119-642",
+					"23-685"
+				],
+				"chainLength": [
+					737,
+					737
+				],
+				"uniprotId": [
+					"O23482",
+					"O23482"
+				],
+				"EC": [
+					null,
+					null
+				],
+				"#FILTER: Uniprot=O23482;": [
+					null,
+					null
+				],
+				"family": [
+					"Brassicaceae",
+					"Brassicaceae"
+				],
+				"organism": [
+					"Arath",
+					"Arath"
+				],
+				"fingerprint": [
+					"K 5_2, 3_1, 5_2, 5_2, 3_1",
+					"K 5_2, 3_1, 5_2, 5_2, 3_1"
+				],
+				"category": [
+					"AF1-Knot",
+					"AF1-Knot"
+				],
+				"version": [
+					1,
+					1
+				],
+				"kingdom": [
+					"Eukaryota",
+					"Eukaryota"
+				]
+			},
+			"source": "AlphaKnot"
+		}
+	},
+	{
+		"id": "P14713",
+		"data": {
+			"knotType": [
+				"4_1"
+			],
+			"source": "AlphaKnot",
+			"knotCoreLength": [
+				295
+			],
+			"uniprot": {
+				"id": "P14713",
+				"protein": "Phytochrome B",
+				"molecular_functions": [
+					"DNA-binding",
+					"Photoreceptor protein",
+					"Receptor",
+					"Repressor"
+				],
+				"gene": "PHYB",
+				"organism": "Arabidopsis thaliana",
+				"length": 1172,
+				"diseases": [
+
+				],
+				"sequence": "MVSGVGGSGGGRGGGRGGEEEPSSSHTPNNRRGGEQAQSSGTKSLRPRSNTESMSKAIQQYTVDARLHAVFEQSGESGKSFDYSQSLKTTTYGSSVPEQQITAYLSRIQRGGYIQPFGCMIAVDESSFRIIGYSENAREMLGIMPQSVPTLEKPEILAMGTDVRSLFTSSSSILLERAFVAREITLLNPVWIHSKNTGKPFYAILHRIDVGVVIDLEPARTEDPALSIAGAVQSQKLAVRAISQLQALPGGDIKLLCDTVVESVRDLTGYDRVMVYKFHEDEHGEVVAESKRDDLEPYIGLHYPATDIPQASRFLFKQNRVRMIVDCNATPVLVVQDDRLTQSMCLVGSTLRAPHGCHSQYMANMGSIASLAMAVIINGNEDDGSNVASGRSSMRLWGLVVCHHTSSRCIPFPLRYACEFLMQAFGLQLNMELQLALQMSEKRVLRTQTLLCDMLLRDSPAGIVTQSPSIMDLVKCDGAAFLYHGKYYPLGVAPSEVQIKDVVEWLLANHADSTGLSTDSLGDAGYPGAAALGDAVCGMAVAYITKRDFLFWFRSHTAKEIKWGGAKHHPEDKDDGQRMHPRSSFQAFLEVVKSRSQPWETAEMDAIHSLQLILRDSFKESEAAMNSKVVDGVVQPCRDMAGEQGIDELGAVAREMVRLIETATVPIFAVDAGGCINGWNAKIAELTGLSVEEAMGKSLVSDLIYKENEATVNKLLSRALRGDEEKNVEVKLKTFSPELQGKAVFVVVNACSSKDYLNNIVGVCFVGQDVTSQKIVMDKFINIQGDYKAIVHSPNPLIPPIFAADENTCCLEWNMAMEKLTGWSRSEVIGKMIVGEVFGSCCMLKGPDALTKFMIVLHNAIGGQDTDKFPFPFFDRNGKFVQALLTANKRVSLEGKVIGAFCFLQIPSPELQQALAVQRRQDTECFTKAKELAYICQVIKNPLSGMRFANSLLEATDLNEDQKQLLETSVSCEKQISRIVGDMDLESIEDGSFVLKREEFFLGSVINAIVSQAMFLLRDRGLQLIRDIPEEIKSIEVFGDQIRIQQLLAEFLLSIIRYAPSQEWVEIHLSQLSKQMADGFAAIRTEFRMACPGEGLPPELVRDMFHSSRWTSPEGLGLSVCRKILKLMNGEVQYIRESERSYFLIILELPVPRKRPLSTASGSGDMMLMMPY"
+			},
+			"diseases": [
+
+			],
+			"molecular_functions": [
+				"DNA-binding",
+				"Photoreceptor protein",
+				"Receptor",
+				"Repressor"
+			],
+			"alphaknot": {
+				"category": [
+					"AF1-Knot"
+				],
+				"PFAM": [
+					"PF01590,PF02518,PF00512,PF00989,PF08446,PF00360"
+				],
+				"EC": [
+					null
+				],
+				"knotProbability": [
+					0.71
+				],
+				"pLDDT_knotCore": [
+					84.6
+				],
+				"uniprotId": [
+					"P14713"
+				],
+				"version": [
+					1
+				],
+				"fingerprint": [
+					"K 4_1, 4_1"
+				],
+				"proteinName": [
+					"Phytochrome B"
+				],
+				"knotType": [
+					"4_1"
+				],
+				"family": [
+					"Brassicaceae"
+				],
+				"kingdom": [
+					"Eukaryota"
+				],
+				"chainLength": [
+					1172
+				],
+				"PDB": [
+					"4OUR_A,7RZW_A"
+				],
+				"geneName": [
+					null
+				],
+				"organism": [
+					"Arath"
+				],
+				"knotCoreLength": [
+					295
+				],
+				"knotCoreRange": [
+					"115-410"
+				],
+				"InterPro": [
+					"IPR003018,IPR029016,IPR003594,IPR036890,IPR005467,IPR003661,IPR000014,IPR035965,IPR013654,IPR013767,IPR044767,IPR016132,IPR013516,IPR001294,IPR012129,IPR013515,IPR043150"
+				],
+				"pLDDT_chain": [
+					77.49
+				],
+				"#FILTER: Uniprot=P14713;": [
+					null
+				]
+			}
+		}
+	},
+	{
+		"id": "O95831",
+		"data": {
+			"alphaknot": {
+				"#FILTER: Uniprot=O95831;": [
+					null
+				],
+				"fingerprint": [
+					"K 3_1"
+				],
+				"EC": [
+					null
+				],
+				"version": [
+					1
+				],
+				"chainLength": [
+					613
+				],
+				"family": [
+					"Hominidae"
+				],
+				"PDB": [
+					"1M6I_A,4BUR_A,4BV6_A,4FDC_B,4LII_A,5FMH_A,5FS6_A,5FS7_A,5FS8_A,5FS9_A,5KVH_A,5KVI_A"
+				],
+				"kingdom": [
+					"Eukaryota"
+				],
+				"knotProbability": [
+					0.63
+				],
+				"knotCoreLength": [
+					128
+				],
+				"uniprotId": [
+					"O95831"
+				],
+				"geneName": [
+					null
+				],
+				"knotType": [
+					"3_1"
+				],
+				"proteinName": [
+					"Apoptosis-inducing factor 1, mitochondrial"
+				],
+				"knotCoreRange": [
+					"477-605"
+				],
+				"pLDDT_chain": [
+					85.6
+				],
+				"organism": [
+					"Human"
+				],
+				"pLDDT_knotCore": [
+					94.2
+				],
+				"PFAM": [
+					"PF14721,PF07992"
+				],
+				"InterPro": [
+					"IPR029324,IPR036188,IPR023753,IPR016156"
+				],
+				"category": [
+					"AF1-Knot"
+				]
+			},
+			"diseases": [
+				"Combined oxidative phosphorylation deficiency 6",
+				"Charcot-Marie-Tooth disease, X-linked recessive, 4, with or without cerebellar ataxia",
+				"Deafness, X-linked, 5, with peripheral neuropathy",
+				"Spondyloepimetaphyseal dysplasia, X-linked, with hypomyelinating leukodystrophy"
+			],
+			"knotType": [
+				"3_1"
+			],
+			"source": "AlphaKnot",
+			"molecular_functions": [
+				"DNA-binding",
+				"Oxidoreductase"
+			],
+			"uniprot": {
+				"diseases": [
+					{
+						"xRef": {
+							"database": "MIM",
+							"id": "300816"
+						},
+						"diseaseId": "Combined oxidative phosphorylation deficiency 6"
+					},
+					{
+						"diseaseId": "Charcot-Marie-Tooth disease, X-linked recessive, 4, with or without cerebellar ataxia",
+						"xRef": {
+							"id": "310490",
+							"database": "MIM"
+						}
+					},
+					{
+						"diseaseId": "Deafness, X-linked, 5, with peripheral neuropathy",
+						"xRef": {
+							"id": "300614",
+							"database": "MIM"
+						}
+					},
+					{
+						"diseaseId": "Spondyloepimetaphyseal dysplasia, X-linked, with hypomyelinating leukodystrophy",
+						"xRef": {
+							"id": "300232",
+							"database": "MIM"
+						}
+					}
+				],
+				"organism": "Homo sapiens",
+				"molecular_functions": [
+					"DNA-binding",
+					"Oxidoreductase"
+				],
+				"id": "O95831",
+				"protein": "Apoptosis-inducing factor 1, mitochondrial",
+				"length": 613,
+				"sequence": "MFRCGGLAAGALKQKLVPLVRTVCVRSPRQRNRLPGNLFQRWHVPLELQMTRQMASSGASGGKIDNSVLVLIVGLSTVGAGAYAYKTMKEDEKRYNERISGLGLTPEQKQKKAALSASEGEEVPQDKAPSHVPFLLIGGGTAAFAAARSIRARDPGARVLIVSEDPELPYMRPPLSKELWFSDDPNVTKTLRFKQWNGKERSIYFQPPSFYVSAQDLPHIENGGVAVLTGKKVVQLDVRDNMVKLNDGSQITYEKCLIATGGTPRSLSAIDRAGAEVKSRTTLFRKIGDFRSLEKISREVKSITIIGGGFLGSELACALGRKARALGTEVIQLFPEKGNMGKILPEYLSNWTMEKVRREGVKVMPNAIVQSVGVSSGKLLIKLKDGRKVETDHIVAAVGLEPNVELAKTGGLEIDSDFGGFRVNAELQARSNIWVAGDAACFYDIKLGRRRVEHHDHAVVSGRLAGENMTGAAKPYWHQSMFWSDLGPDVGYEAIGLVDSSLPTVGVFAKATAQDNPKSATEQSGTGIRSESETESEASEITIPPSTPAVPQAPVQGEDYGKGVIFYLRDKVVVGIVLWNIFNRMPIARKIIKDGEQHEDLNEVAKLFNIHED",
+				"gene": "AIFM1"
+			},
+			"knotCoreLength": [
+				128
+			]
+		}
+	},
+	{
+		"id": "Q9NQV8",
+		"data": {
+			"uniprot": {
+				"diseases": [
+					{
+						"xRef": {
+							"id": "616640",
+							"database": "MIM"
+						},
+						"diseaseId": "Epilepsy, progressive myoclonic 10"
+					}
+				],
+				"protein": "PR domain zinc finger protein 8",
+				"sequence": "MEDTGIQRGIWDGDAKAVQQCLTDIFTSVYTTCDIPENAIFGPCVLSHTSLYDSIAFIALKSTDKRTVPYIFRVDTSAANGSSEGLMWLRLVQSARDKEEQNLEAYIKNGQLFYRSLRRIAKDEELLVWYGKELTELLLLCPSRSHNKMNGSSPYTCLECSQRFQFEFPYVAHLRFRCPKRLHSADISPQDEQGGGVGTKDHGGGGGGGKDQQQQQQEAPLGPGPKFCKAGPLHHYPSPSPESSNPSAAAGGSSAKPSTDFHNLARELENSRGGSSCSPAQSLSSGSGSGGGGGHQEAELSPDGIATGGGKGKRKFPEEAAEGGGGAGLVGGRGRFVERPLPASKEDLVCTPQQYRASGSYFGLEENGRLFAPPSPETGEAKRSAFVEVKKAARAASLQEEGTADGAGVASEDQDAGGGGGSSTPAAASPVGAEKLLAPRPGGPLPSRLEGGSPARGSAFTSVPQLGSAGSTSGGGGTGAGAAGGAGGGQGAASDERKSAFSQPARSFSQLSPLVLGQKLGALEPCHPADGVGPTRLYPAAADPLAVKLQGAADLNGGCGSLPSGGGGLPKQSPFLYATAFWPKSSAAAAAAAAAAAAGPLQLQLPSALTLLPPSFTSLCLPAQNWCAKCNASFRMTSDLVYHMRSHHKKEYAMEPLVKRRREEKLKCPICNESFRERHHLSRHMTSHN",
+				"molecular_functions": [
+					"DNA-binding",
+					"Methyltransferase",
+					"Transferase"
+				],
+				"id": "Q9NQV8",
+				"organism": "Homo sapiens",
+				"length": 689,
+				"gene": "PRDM8"
+			},
+			"knotCoreLength": [
+				61
+			],
+			"alphaknot": {
+				"pLDDT_chain": [
+					53.8
+				],
+				"EC": [
+					null
+				],
+				"knotProbability": [
+					0.62
+				],
+				"category": [
+					"AF1-Knot"
+				],
+				"geneName": [
+					null
+				],
+				"organism": [
+					"Human"
+				],
+				"proteinName": [
+					"PR domain zinc finger protein 8"
+				],
+				"version": [
+					1
+				],
+				"InterPro": [
+					null
+				],
+				"#FILTER: Uniprot=Q9NQV8;": [
+					null
+				],
+				"chainLength": [
+					689
+				],
+				"knotCoreLength": [
+					61
+				],
+				"PFAM": [
+					null
+				],
+				"PDB": [
+					null
+				],
+				"knotCoreRange": [
+					"30-91"
+				],
+				"kingdom": [
+					"Eukaryota"
+				],
+				"knotType": [
+					"3_1"
+				],
+				"family": [
+					"Hominidae"
+				],
+				"pLDDT_knotCore": [
+					85.4
+				],
+				"uniprotId": [
+					"Q9NQV8"
+				],
+				"fingerprint": [
+					"K 3_1"
+				]
+			},
+			"diseases": [
+				"Epilepsy, progressive myoclonic 10"
+			],
+			"molecular_functions": [
+				"DNA-binding",
+				"Methyltransferase",
+				"Transferase"
+			],
+			"knotType": [
+				"3_1"
+			],
+			"source": "AlphaKnot"
+		}
+	},
+	{
+		"id": "Q9XZ61",
+		"data": {
+			"molecular_functions": [
+				"Chromatin regulator",
+				"Hydrolase",
+				"Protease",
+				"Thiol protease"
+			],
+			"knotCoreLength": [
+				154,
+				213
+			],
+			"source": "AlphaKnot",
+			"uniprot": {
+				"gene": "Uch-L5",
+				"diseases": [
+
+				],
+				"length": 324,
+				"organism": "Drosophila melanogaster",
+				"molecular_functions": [
+					"Chromatin regulator",
+					"Hydrolase",
+					"Protease",
+					"Thiol protease"
+				],
+				"id": "Q9XZ61",
+				"sequence": "MGDGAGNWCLIESDPGVFTELIREFGCDGAQVEEIWSLDSESFKNLEPIHGLIFLFKWVQEDEPAGKVVLDRENIFFAKQVINNACATQAILSLLMNLDHEDIKLGETLTNFKEFCQCFDPYNKGLTLSNASQIRTVHNSFARPTLFELDTKNQKKDDDVYHFVGYMPIGGRLYELDGLREGPIDLGEIKSEQNWIDVVRPIIEKRMQRYSDGEIHFNLMALISDRQRIYEQQIEKLLNPAPNAMDTEEDRQAEISSLRTYIEYEIQKKKRYKVENVRRKHNYLPFIVELLKILGENGQLMPIYEKAKQRALEREQAQRKKDTD",
+				"protein": "Ubiquitin carboxyl-terminal hydrolase"
+			},
+			"knotType": [
+				"5_2",
+				"5_2"
+			],
+			"diseases": [
+
+			],
+			"alphaknot": {
+				"category": [
+					"AF1-Knot",
+					"AF1-Knot"
+				],
+				"knotCoreRange": [
+					"9-163",
+					"10-223"
+				],
+				"PFAM": [
+					"PF01088,PF18031",
+					"PF01088,PF18031"
+				],
+				"PDB": [
+					null,
+					null
+				],
+				"organism": [
+					"Drome",
+					"Drome"
+				],
+				"proteinName": [
+					"Ubiquitin carboxyl-terminal hydrolase",
+					"Ubiquitin carboxyl-terminal hydrolase"
+				],
+				"EC": [
+					null,
+					null
+				],
+				"pLDDT_knotCore": [
+					89.9,
+					89.9
+				],
+				"pLDDT_chain": [
+					90.4,
+					90.4
+				],
+				"#FILTER: Uniprot=Q9XZ61;": [
+					null,
+					null
+				],
+				"geneName": [
+					null,
+					null
+				],
+				"family": [
+					"Drosophilidae",
+					"Drosophilidae"
+				],
+				"chainLength": [
+					324,
+					324
+				],
+				"kingdom": [
+					"Eukaryota",
+					"Eukaryota"
+				],
+				"uniprotId": [
+					"Q9XZ61",
+					"Q9XZ61"
+				],
+				"knotProbability": [
+					0.75,
+					0.75
+				],
+				"version": [
+					1,
+					1
+				],
+				"InterPro": [
+					"IPR038765,IPR001578,IPR036959,IPR017390,IPR041507",
+					"IPR038765,IPR001578,IPR036959,IPR017390,IPR041507"
+				],
+				"knotType": [
+					"5_2",
+					"5_2"
+				],
+				"knotCoreLength": [
+					154,
+					213
+				],
+				"fingerprint": [
+					"K 5_2, 3_1, 3_1",
+					"K 5_2, 3_1, 3_1"
+				]
+			}
+		}
+	},
+	{
+		"id": "Q9VYQ3",
+		"data": {
+			"alphaknot": {
+				"EC": [
+					null,
+					null
+				],
+				"geneName": [
+					null,
+					null
+				],
+				"category": [
+					"AF1-Knot",
+					"AF1-Knot"
+				],
+				"organism": [
+					"Drome",
+					"Drome"
+				],
+				"kingdom": [
+					"Eukaryota",
+					"Eukaryota"
+				],
+				"knotType": [
+					"5_2",
+					"5_2"
+				],
+				"knotCoreRange": [
+					"26-178",
+					"27-236"
+				],
+				"version": [
+					1,
+					1
+				],
+				"family": [
+					"Drosophilidae",
+					"Drosophilidae"
+				],
+				"knotCoreLength": [
+					152,
+					209
+				],
+				"pLDDT_knotCore": [
+					91.1,
+					91.1
+				],
+				"chainLength": [
+					340,
+					340
+				],
+				"proteinName": [
+					"Ubiquitin carboxyl-terminal hydrolase",
+					"Ubiquitin carboxyl-terminal hydrolase"
+				],
+				"uniprotId": [
+					"Q9VYQ3",
+					"Q9VYQ3"
+				],
+				"PFAM": [
+					"PF01088,PF18031",
+					"PF01088,PF18031"
+				],
+				"#FILTER: Uniprot=Q9VYQ3;": [
+					null,
+					null
+				],
+				"knotProbability": [
+					0.9,
+					0.9
+				],
+				"PDB": [
+					null,
+					null
+				],
+				"pLDDT_chain": [
+					86.64,
+					86.64
+				],
+				"fingerprint": [
+					"K 5_2, 3_1, 3_1",
+					"K 5_2, 3_1, 3_1"
+				],
+				"InterPro": [
+					"IPR038765,IPR001578,IPR036959,IPR017390,IPR041507",
+					"IPR038765,IPR001578,IPR036959,IPR017390,IPR041507"
+				]
+			},
+			"diseases": [
+
+			],
+			"source": "AlphaKnot",
+			"molecular_functions": [
+				"Chromatin regulator",
+				"Hydrolase",
+				"Protease",
+				"Thiol protease"
+			],
+			"knotCoreLength": [
+				152,
+				209
+			],
+			"uniprot": {
+				"id": "Q9VYQ3",
+				"length": 340,
+				"sequence": "MDTENPGAATVEELTTKEATAANNWCLIESDPGVFTEMISGFGCTGAEVEEIWSIKADAFRHLEPIHGLIFLFKWLDDKPAGRVVTDRSDIFFARQVIPNACATQALLCLLLNLQHEDIDLGQTLTDLRNLCQDLDPECRGHRLANEEKIRKVHNSFARPELFVVEESTDFIEDDCYHFVGFMPIKGKLFELDGMHEGPIELADIDQQQNWLDVVRPIIEARMERYSVGEIHFNLMALVSDRQRCYERKIQMLVNLPSQLSHADRQAEIANLRSHVRHEKEKKRRYRKENIRRRHNYLPFIVELLKQLGETGQLMAICDKAKDRSYLCKPSKDTRDQQPQ",
+				"protein": "Ubiquitin carboxyl-terminal hydrolase",
+				"molecular_functions": [
+					"Chromatin regulator",
+					"Hydrolase",
+					"Protease",
+					"Thiol protease"
+				],
+				"organism": "Drosophila melanogaster",
+				"gene": "Uch-L5R",
+				"diseases": [
+
+				]
+			},
+			"knotType": [
+				"5_2",
+				"5_2"
+			]
+		}
+	},
+	{
+		"id": "Q99PU7",
+		"data": {
+			"molecular_functions": [
+				"Chromatin regulator",
+				"Hydrolase",
+				"Protease",
+				"Thiol protease"
+			],
+			"uniprot": {
+				"length": 728,
+				"diseases": [
+
+				],
+				"id": "Q99PU7",
+				"organism": "Mus musculus",
+				"gene": "Bap1",
+				"molecular_functions": [
+					"Chromatin regulator",
+					"Hydrolase",
+					"Protease",
+					"Thiol protease"
+				],
+				"sequence": "MNKGWLELESDPGLFTLLVEDFGVKGVQVEEIYDLQSKCQGPVYGFIFLFKWIEERRSRRKVSTLVDDTSVIDDDIVNNMFFAHQLIPNSCATHALLSVLLNCSNVDLGPTLSRMKDFTKGFSPESKGYAIGNAPELAKAHNSHARPEPRHLPEKQNGLSAVRTMEAFHFVSYVPITGRLFELDGLKVYPIDHGPWGEDEEWTDKARRVIMERIGLATAGEPYHDIRFNLMAVVPDRRIKYETRLHVLKVNRQTVLEALQQLIRVTQPELIQTHKSQESQLPEESKPASSKSPLGLEAGRTPVASECTQTDGAEEVAGSCPQTTTHSPPSKCKLVVKPPGSSLNGVPPNPAPIVQRLPAFLDNHNYAKSPMQEEEDLAAGVGRSRVPVRAPQQYSEDEDDYEDEDEDVQNTNPAIRYKRKGTGKPGSLSNSSDGQLSVLQPNTINVLTEKLQESQKDLSVPLSIKTSSGAGSPAVAVPTHSQPSPTPSNESTDTASEIGSAFNSPLRSPIRSANPTRPSSPVTSHISKVLFGEDDSLLRVDCIRYNRAVRDLGPVISTGLLHLAEDGVLSPLALTEGGKGSSPSTRSSQGSQGSSGLEEKEVVEVTESRDKPGLNRSSEPLSGEKYSPKELLALLKCVEAEIANYEACLKEEVEKRKKFKIDDQRRTHNYDEFICTFISMLAQEGMLANLVEQNISVRRRQGVSIGRLHKQRKPDRRKRSRPYKAKRQ",
+				"protein": "Ubiquitin carboxyl-terminal hydrolase BAP1"
+			},
+			"knotCoreLength": [
+				182,
+				226
+			],
+			"source": "AlphaKnot",
+			"diseases": [
+
+			],
+			"alphaknot": {
+				"knotProbability": [
+					0.64,
+					0.64
+				],
+				"knotCoreLength": [
+					182,
+					226
+				],
+				"PDB": [
+					null,
+					null
+				],
+				"category": [
+					"AF1-Knot",
+					"AF1-Knot"
+				],
+				"knotType": [
+					"5_2",
+					"5_2"
+				],
+				"chainLength": [
+					728,
+					728
+				],
+				"fingerprint": [
+					"K 5_2, 3_1",
+					"K 5_2, 3_1"
+				],
+				"proteinName": [
+					"Ubiquitin carboxyl-terminal hydrolase BAP1",
+					"Ubiquitin carboxyl-terminal hydrolase BAP1"
+				],
+				"#FILTER: Uniprot=Q99PU7;": [
+					null,
+					null
+				],
+				"knotCoreRange": [
+					"7-189",
+					"8-234"
+				],
+				"version": [
+					1,
+					1
+				],
+				"InterPro": [
+					null,
+					null
+				],
+				"EC": [
+					null,
+					null
+				],
+				"kingdom": [
+					"Eukaryota",
+					"Eukaryota"
+				],
+				"pLDDT_knotCore": [
+					85.5,
+					85.5
+				],
+				"organism": [
+					"Mouse",
+					"Mouse"
+				],
+				"geneName": [
+					null,
+					null
+				],
+				"pLDDT_chain": [
+					64.21,
+					64.21
+				],
+				"PFAM": [
+					null,
+					null
+				],
+				"family": [
+					"Muridae",
+					"Muridae"
+				],
+				"uniprotId": [
+					"Q99PU7",
+					"Q99PU7"
+				]
+			},
+			"knotType": [
+				"5_2",
+				"5_2"
+			]
+		}
+	},
+	{
+		"id": "Q92560",
+		"data": {
+			"molecular_functions": [
+				"Chromatin regulator",
+				"Hydrolase",
+				"Protease",
+				"Thiol protease"
+			],
+			"diseases": [
+				"Mesothelioma, malignant",
+				"Tumor predisposition syndrome 1",
+				"Melanoma, uveal, 2",
+				"Kury-Isidor syndrome"
+			],
+			"knotType": [
+				"5_2"
+			],
+			"knotCoreLength": [
+				226
+			],
+			"alphaknot": {
+				"family": [
+					"Hominidae"
+				],
+				"uniprotId": [
+					"Q92560"
+				],
+				"pLDDT_chain": [
+					63.1
+				],
+				"knotProbability": [
+					0.78
+				],
+				"knotType": [
+					"5_2"
+				],
+				"category": [
+					"AF1-Knot"
+				],
+				"PFAM": [
+					null
+				],
+				"knotCoreLength": [
+					226
+				],
+				"kingdom": [
+					"Eukaryota"
+				],
+				"chainLength": [
+					729
+				],
+				"organism": [
+					"Human"
+				],
+				"version": [
+					1
+				],
+				"fingerprint": [
+					"K 5_2"
+				],
+				"pLDDT_knotCore": [
+					84.6
+				],
+				"PDB": [
+					null
+				],
+				"knotCoreRange": [
+					"8-234"
+				],
+				"proteinName": [
+					"Ubiquitin carboxyl-terminal hydrolase BAP1"
+				],
+				"#FILTER: Uniprot=Q92560;": [
+					null
+				],
+				"geneName": [
+					null
+				],
+				"EC": [
+					null
+				],
+				"InterPro": [
+					null
+				]
+			},
+			"source": "AlphaKnot",
+			"uniprot": {
+				"organism": "Homo sapiens",
+				"diseases": [
+					{
+						"xRef": {
+							"database": "MIM",
+							"id": "156240"
+						},
+						"diseaseId": "Mesothelioma, malignant"
+					},
+					{
+						"xRef": {
+							"database": "MIM",
+							"id": "614327"
+						},
+						"diseaseId": "Tumor predisposition syndrome 1"
+					},
+					{
+						"diseaseId": "Melanoma, uveal, 2",
+						"xRef": {
+							"database": "MIM",
+							"id": "606661"
+						}
+					},
+					{
+						"xRef": {
+							"database": "MIM",
+							"id": "619762"
+						},
+						"diseaseId": "Kury-Isidor syndrome"
+					}
+				],
+				"molecular_functions": [
+					"Chromatin regulator",
+					"Hydrolase",
+					"Protease",
+					"Thiol protease"
+				],
+				"sequence": "MNKGWLELESDPGLFTLLVEDFGVKGVQVEEIYDLQSKCQGPVYGFIFLFKWIEERRSRRKVSTLVDDTSVIDDDIVNNMFFAHQLIPNSCATHALLSVLLNCSSVDLGPTLSRMKDFTKGFSPESKGYAIGNAPELAKAHNSHARPEPRHLPEKQNGLSAVRTMEAFHFVSYVPITGRLFELDGLKVYPIDHGPWGEDEEWTDKARRVIMERIGLATAGEPYHDIRFNLMAVVPDRRIKYEARLHVLKVNRQTVLEALQQLIRVTQPELIQTHKSQESQLPEESKSASNKSPLVLEANRAPAASEGNHTDGAEEAAGSCAQAPSHSPPNKPKLVVKPPGSSLNGVHPNPTPIVQRLPAFLDNHNYAKSPMQEEEDLAAGVGRSRVPVRPPQQYSDDEDDYEDDEEDDVQNTNSALRYKGKGTGKPGALSGSADGQLSVLQPNTINVLAEKLKESQKDLSIPLSIKTSSGAGSPAVAVPTHSQPSPTPSNESTDTASEIGSAFNSPLRSPIRSANPTRPSSPVTSHISKVLFGEDDSLLRVDCIRYNRAVRDLGPVISTGLLHLAEDGVLSPLALTEGGKGSSPSIRPIQGSQGSSSPVEKEVVEATDSREKTGMVRPGEPLSGEKYSPKELLALLKCVEAEIANYEACLKEEVEKRKKFKIDDQRRTHNYDEFICTFISMLAQEGMLANLVEQNISVRRRQGVSIGRLHKQRKPDRRKRSRPYKAKRQ",
+				"length": 729,
+				"id": "Q92560",
+				"gene": "BAP1",
+				"protein": "Ubiquitin carboxyl-terminal hydrolase BAP1"
+			}
+		}
+	},
+	{
+		"id": "Q7K5N4",
+		"data": {
+			"knotType": [
+				"5_2",
+				"5_2"
+			],
+			"uniprot": {
+				"molecular_functions": [
+					"Chromatin regulator",
+					"Hydrolase",
+					"Protease",
+					"Thiol protease"
+				],
+				"diseases": [
+
+				],
+				"organism": "Drosophila melanogaster",
+				"length": 471,
+				"gene": "caly",
+				"sequence": "MNAAGGGSGAQAAAVAAGNNSLSHNALLSTASGATTMPMAQLADGWLELESDPGLFTLLLKDFGCHDVQVEEVYDLQKPIESPYGFIFLFRWIEERRARRKIVETTAEIFVKDEEAISSIFFAQQVVPNSCATHALLSVLLNCNENNLQLGDTLSRLKTHTKGMSPENKGLAIGNTPELACAHNSHAMPQARRRLERTGAGVSSCRFTGEAFHFVSFVPINGQLFELDGLKPYPMNHGGWEDSEDWTDKFRRVMAERLGIATGEQDIRFNLMAVVPDRRIAITHKLKMLRTNQAIVSGTLQKLLKADEQGESGNGDSQRPDTPTTLLEPSAFTARDLQSLLKNLDTEIAINEQHLADENDRRHMFKVDASRRTHNYDKFICTFLSMLAHQGVLGELVSQHLLPSKKVSGQGAANRISKQSTTASAGGSTAAGTASTPKTQQQQAAAAKNGKSPSKTPGRRRKGRNKCRKRK",
+				"id": "Q7K5N4",
+				"protein": "Ubiquitin carboxyl-terminal hydrolase calypso"
+			},
+			"molecular_functions": [
+				"Chromatin regulator",
+				"Hydrolase",
+				"Protease",
+				"Thiol protease"
+			],
+			"alphaknot": {
+				"proteinName": [
+					"Ubiquitin carboxyl-terminal hydrolase calypso",
+					"Ubiquitin carboxyl-terminal hydrolase calypso"
+				],
+				"PFAM": [
+					"PF01088,PF18031",
+					"PF01088,PF18031"
+				],
+				"pLDDT_chain": [
+					76.8,
+					76.8
+				],
+				"kingdom": [
+					"Eukaryota",
+					"Eukaryota"
+				],
+				"InterPro": [
+					"IPR038765,IPR001578,IPR036959,IPR041507",
+					"IPR038765,IPR001578,IPR036959,IPR041507"
+				],
+				"#FILTER: Uniprot=Q7K5N4;": [
+					null,
+					null
+				],
+				"knotCoreLength": [
+					165,
+					223
+				],
+				"pLDDT_knotCore": [
+					86.2,
+					86.2
+				],
+				"family": [
+					"Drosophilidae",
+					"Drosophilidae"
+				],
+				"version": [
+					1,
+					1
+				],
+				"PDB": [
+					"6CGA_A,6HGC_A,6HGC_A,6HGC_B",
+					"6CGA_A,6HGC_A,6HGC_A,6HGC_B"
+				],
+				"knotType": [
+					"5_2",
+					"5_2"
+				],
+				"knotCoreRange": [
+					"48-213",
+					"49-272"
+				],
+				"knotProbability": [
+					0.9,
+					0.9
+				],
+				"chainLength": [
+					471,
+					471
+				],
+				"EC": [
+					null,
+					null
+				],
+				"geneName": [
+					null,
+					null
+				],
+				"organism": [
+					"Drome",
+					"Drome"
+				],
+				"category": [
+					"AF1-Knot",
+					"AF1-Knot"
+				],
+				"uniprotId": [
+					"Q7K5N4",
+					"Q7K5N4"
+				],
+				"fingerprint": [
+					"K 5_2, 3_1",
+					"K 5_2, 3_1"
+				]
+			},
+			"source": "AlphaKnot",
+			"knotCoreLength": [
+				165,
+				223
+			],
+			"diseases": [
+
+			]
+		}
+	},
+	{
+		"id": "D3ZHS6",
+		"data": {
+			"knotType": [
+				"5_2",
+				"5_2"
+			],
+			"source": "AlphaKnot",
+			"diseases": [
+
+			],
+			"alphaknot": {
+				"EC": [
+					null,
+					null
+				],
+				"InterPro": [
+					null,
+					null
+				],
+				"pLDDT_chain": [
+					62.85,
+					62.85
+				],
+				"geneName": [
+					null,
+					null
+				],
+				"PFAM": [
+					null,
+					null
+				],
+				"uniprotId": [
+					"D3ZHS6",
+					"D3ZHS6"
+				],
+				"kingdom": [
+					"Eukaryota",
+					"Eukaryota"
+				],
+				"category": [
+					"AF1-Knot",
+					"AF1-Knot"
+				],
+				"knotCoreLength": [
+					182,
+					225
+				],
+				"fingerprint": [
+					"K 5_2, 3_1",
+					"K 5_2, 3_1"
+				],
+				"knotProbability": [
+					0.7,
+					0.7
+				],
+				"knotType": [
+					"5_2",
+					"5_2"
+				],
+				"organism": [
+					"Rat",
+					"Rat"
+				],
+				"proteinName": [
+					"Ubiquitin carboxyl-terminal hydrolase BAP1",
+					"Ubiquitin carboxyl-terminal hydrolase BAP1"
+				],
+				"chainLength": [
+					727,
+					727
+				],
+				"family": [
+					"Muridae",
+					"Muridae"
+				],
+				"version": [
+					1,
+					1
+				],
+				"pLDDT_knotCore": [
+					87.4,
+					87.4
+				],
+				"knotCoreRange": [
+					"7-189",
+					"8-233"
+				],
+				"PDB": [
+					null,
+					null
+				],
+				"#FILTER: Uniprot=D3ZHS6;": [
+					null,
+					null
+				]
+			},
+			"uniprot": {
+				"organism": "Rattus norvegicus",
+				"id": "D3ZHS6",
+				"length": 727,
+				"molecular_functions": [
+					"Chromatin regulator",
+					"Hydrolase",
+					"Protease",
+					"Thiol protease"
+				],
+				"protein": "Ubiquitin carboxyl-terminal hydrolase BAP1",
+				"sequence": "MNKGWLELESDPGLFTLLVEDFGVKGVQVEEIYDLQSKCQGPVYGFIFLFKWIEERRSRRKVSTLVDDTSVIDDDIVNSMFFAHQLIPNSCATHALLSVLLNCSNVDLGPTLSRMKDFTKGFSPESKGYAIGNAPELAKAHNSHARPEPRHLPEKQNGLSAVRTMEAFHFVSYVPITGRLFELDGLKVYPIDHGPWGEDEEWTDKARRVIMERIGLATAGEPYHDIRFNLMAVVPDRRVKYEARLHVLKGNRQTVLEALQQLIRVTQPELIQTHKSQESQLPEESKPASSKSPFGLEAGRTPAASECTHTDGAEEVAGSCPQTTTHSPPSKSKLVVKPSGSSLNGVPPTPTPIVQRLPAFLDNHNYAKSPMQEEEDLAAGVGRSRVPVRPQQYSDDEEDYEDEEEDVQNTSSAIRYKRKGTGKPGSLSNSSDGQLSVLQPNTINVLTEKLQESQKDLSIPLSIKTSSGAGSPAVAVPTHSQPSPTPSNESTDTASEIGSAFNSPLRSPIRSANPTRPSSPVTSHISKVLFGEDDSLLRVDCIRYNRAVRDLGPVISTGLLHLAEDGVLSPLALTEGGKGSSPSTRSSQGSQGSSSLEEKEVVEVTDSRDKSGLNRSSEPLSGEKYSPKELLALLKCVEAEIANYEACLKEEVEKRKKFKIDDQRRTHNYDEFICTFISMLAQEGMLANLVEQNISVRRRQGVSIGRLHKQRKPDRRKRSRPYKAKRQ",
+				"diseases": [
+
+				],
+				"gene": "Bap1"
+			},
+			"knotCoreLength": [
+				182,
+				225
+			],
+			"molecular_functions": [
+				"Chromatin regulator",
+				"Hydrolase",
+				"Protease",
+				"Thiol protease"
+			]
+		}
+	},
+	{
+		"id": "A1L2G3",
+		"data": {
+			"knotCoreLength": [
+				182,
+				225
+			],
+			"diseases": [
+
+			],
+			"uniprot": {
+				"gene": "bap1",
+				"organism": "Danio rerio",
+				"id": "A1L2G3",
+				"diseases": [
+
+				],
+				"length": 755,
+				"protein": "Ubiquitin carboxyl-terminal hydrolase BAP1",
+				"molecular_functions": [
+					"Chromatin regulator",
+					"Hydrolase",
+					"Protease",
+					"Thiol protease"
+				],
+				"sequence": "MNKGWLELESDPGLFTLLVEDFGVKGVQVEEIYDLQSKCQSPVYGFIFLFKWIEERRSRRKVSTLVDETSVIDDDIVNDMFFAHQLIPNSCATHALLSVLLNCSGVELGMTLSRMKAFTKGFNPESKGYAIGNAPELAKAHNSHARPEPRHLPEKQNGISAVRTMEAFHFVSYVPIKDRLFELDGLKAYPIDHGPWGEDEEWTDKARRVIMERIGLATAGEPYHDIRFNLMAVVPDRRIKYESKLDILKRNRQIILEGLQQIREKKVIRMTQQESGQDRKQQDSSSSEDTPPVVKKEEVQETPIPSGAEQATPTEAQEGAASLPSPAGKVRSMAKPALPAGGAPPPAPLPAPSTNTIVQRLPAFLDNHNYAKSPMQEEEDLAAGVGRSRPPQPPYSDDEDDYDDEEEECSTAGVTNSRVRRKLGLRTRTMSRTAVGGVAAMEGQLALSVLAEKLKKEVQRKDALATTGSTPLNVRTEGRTGGISITSACQPSPTPSNESTDTASEIGSAFNSPLRSPARSQATTRPSSPVASHVGRVLFGEEEGLPRLDARHNRAVRDLGVLVSSTQLQLQEDGVIFALPPTEALEGLKKVGGVDKKKKEEASGPGGEEEVKEGPSVEMKAEDVKESVDVKPEKENLPTTDVENSTKPPGEKYTPKELLALLKYVEADIANYEVYLKEEVEKRKKYKIDDQRRTHNYDEFICTFISMLAQEGMLASLVEQNISVRRRQGVSIGRLHKQRKPDRRKRSRPYKAKRQ"
+			},
+			"knotType": [
+				"5_2",
+				"5_2"
+			],
+			"alphaknot": {
+				"pLDDT_knotCore": [
+					83.5,
+					83.5
+				],
+				"organism": [
+					"Danre",
+					"Danre"
+				],
+				"EC": [
+					null,
+					null
+				],
+				"proteinName": [
+					"Ubiquitin carboxyl-terminal hydrolase BAP1",
+					"Ubiquitin carboxyl-terminal hydrolase BAP1"
+				],
+				"version": [
+					1,
+					1
+				],
+				"knotType": [
+					"5_2",
+					"5_2"
+				],
+				"#FILTER: Uniprot=A1L2G3;": [
+					null,
+					null
+				],
+				"pLDDT_chain": [
+					62.3,
+					62.3
+				],
+				"geneName": [
+					null,
+					null
+				],
+				"knotProbability": [
+					0.65,
+					0.65
+				],
+				"PFAM": [
+					null,
+					null
+				],
+				"fingerprint": [
+					"K 5_2, 3_1",
+					"K 5_2, 3_1"
+				],
+				"PDB": [
+					null,
+					null
+				],
+				"knotCoreRange": [
+					"7-189",
+					"8-233"
+				],
+				"InterPro": [
+					null,
+					null
+				],
+				"kingdom": [
+					"Eukaryota",
+					"Eukaryota"
+				],
+				"chainLength": [
+					755,
+					755
+				],
+				"uniprotId": [
+					"A1L2G3",
+					"A1L2G3"
+				],
+				"family": [
+					"Danionidae",
+					"Danionidae"
+				],
+				"category": [
+					"AF1-Knot",
+					"AF1-Knot"
+				],
+				"knotCoreLength": [
+					182,
+					225
+				]
+			},
+			"source": "AlphaKnot",
+			"molecular_functions": [
+				"Chromatin regulator",
+				"Hydrolase",
+				"Protease",
+				"Thiol protease"
+			]
+		}
+	},
+	{
+		"id": "Q9UPR5",
+		"data": {
+			"alphaknot": {
+				"knotCoreRange": [
+					"92-811"
+				],
+				"version": [
+					1
+				],
+				"fingerprint": [
+					"K 3_1"
+				],
+				"chainLength": [
+					921
+				],
+				"family": [
+					"Hominidae"
+				],
+				"PFAM": [
+					"PF03160,PF01699,PF16494"
+				],
+				"uniprotId": [
+					"Q9UPR5"
+				],
+				"kingdom": [
+					"Eukaryota"
+				],
+				"geneName": [
+					null
+				],
+				"#FILTER: Uniprot=Q9UPR5;": [
+					null
+				],
+				"pLDDT_knotCore": [
+					77.2
+				],
+				"knotProbability": [
+					0.63
+				],
+				"pLDDT_chain": [
+					76.3
+				],
+				"InterPro": [
+					"IPR038081,IPR003644,IPR004836,IPR032452,IPR004837,IPR044880"
+				],
+				"category": [
+					"AF1-Knot"
+				],
+				"knotType": [
+					"3_1"
+				],
+				"PDB": [
+					null
+				],
+				"knotCoreLength": [
+					719
+				],
+				"EC": [
+					null
+				],
+				"organism": [
+					"Human"
+				],
+				"proteinName": [
+					"Sodium/calcium exchanger 2"
+				]
+			},
+			"uniprot": {
+				"sequence": "MAPLALVGVTLLLAAPPCSGAATPTPSLPPPPANDSDTSTGGCQGSYRCQPGVLLPVWEPDDPSLGDKAARAVVYFVAMVYMFLGVSIIADRFMAAIEVITSKEKEITITKANGETSVGTVRIWNETVSNLTLMALGSSAPEILLSVIEVCGHNFQAGELGPGTIVGSAAFNMFVVIAVCIYVIPAGESRKIKHLRVFFVTASWSIFAYVWLYLILAVFSPGVVQVWEALLTLVFFPVCVVFAWMADKRLLFYKYVYKRYRTDPRSGIIIGAEGDPPKSIELDGTFVGAEAPGELGGLGPGPAEARELDASRREVIQILKDLKQKHPDKDLEQLVGIANYYALLHQQKSRAFYRIQATRLMTGAGNVLRRHAADASRRAAPAEGAGEDEDDGASRIFFEPSLYHCLENCGSVLLSVTCQGGEGNSTFYVDYRTEDGSAKAGSDYEYSEGTLVFKPGETQKELRIGIIDDDIFEEDEHFFVRLLNLRVGDAQGMFEPDGGGRPKGRLVAPLLATVTILDDDHAGIFSFQDRLLHVSECMGTVDVRVVRSSGARGTVRLPYRTVDGTARGGGVHYEDACGELEFGDDETMKTLQVKIVDDEEYEKKDNFFIELGQPQWLKRGISALLLNQGDGDRKLTAEEEEARRIAEMGKPVLGENCRLEVIIEESYDFKNTVDKLIKKTNLALVIGTHSWREQFLEAITVSAGDEEEEEDGSREERLPSCFDYVMHFLTVFWKVLFACVPPTEYCHGWACFGVSILVIGLLTALIGDLASHFGCTVGLKDSVNAVVFVALGTSIPDTFASKVAALQDQCADASIGNVTGSNAVNVFLGLGVAWSVAAVYWAVQGRPFEVRTGTLAFSVTLFTVFAFVGIAVLLYRRRPHIGGELGGPRGPKLATTALFLGLWLLYILFASLEAYCHIRGF",
+				"protein": "Sodium/calcium exchanger 2",
+				"organism": "Homo sapiens",
+				"gene": "SLC8A2",
+				"id": "Q9UPR5",
+				"length": 921,
+				"molecular_functions": [
+					"Calmodulin-binding"
+				],
+				"diseases": [
+
+				]
+			},
+			"source": "AlphaKnot",
+			"knotType": [
+				"3_1"
+			],
+			"diseases": [
+
+			],
+			"molecular_functions": [
+				"Calmodulin-binding"
+			],
+			"knotCoreLength": [
+				719
+			]
+		}
+	},
+	{
+		"id": "P57103",
+		"data": {
+			"alphaknot": {
+				"pLDDT_knotCore": [
+					76.8
+				],
+				"kingdom": [
+					"Eukaryota"
+				],
+				"pLDDT_chain": [
+					76.4
+				],
+				"chainLength": [
+					927
+				],
+				"PDB": [
+					null
+				],
+				"organism": [
+					"Human"
+				],
+				"fingerprint": [
+					"K 3_1"
+				],
+				"EC": [
+					null
+				],
+				"uniprotId": [
+					"P57103"
+				],
+				"proteinName": [
+					"Sodium/calcium exchanger 3"
+				],
+				"InterPro": [
+					"IPR038081,IPR003644,IPR004836,IPR032452,IPR004837,IPR044880"
+				],
+				"knotCoreLength": [
+					719
+				],
+				"knotType": [
+					"3_1"
+				],
+				"knotProbability": [
+					0.65
+				],
+				"category": [
+					"AF1-Knot"
+				],
+				"#FILTER: Uniprot=P57103;": [
+					null
+				],
+				"geneName": [
+					null
+				],
+				"PFAM": [
+					"PF03160,PF01699,PF16494"
+				],
+				"knotCoreRange": [
+					"97-816"
+				],
+				"family": [
+					"Hominidae"
+				],
+				"version": [
+					1
+				]
+			},
+			"uniprot": {
+				"sequence": "MAWLRLQPLTSAFLHFGLVTFVLFLNGLRAEAGGSGDVPSTGQNNESCSGSSDCKEGVILPIWYPENPSLGDKIARVIVYFVALIYMFLGVSIIADRFMASIEVITSQEREVTIKKPNGETSTTTIRVWNETVSNLTLMALGSSAPEILLSLIEVCGHGFIAGDLGPSTIVGSAAFNMFIIIGICVYVIPDGETRKIKHLRVFFITAAWSIFAYIWLYMILAVFSPGVVQVWEGLLTLFFFPVCVLLAWVADKRLLFYKYMHKKYRTDKHRGIIIETEGDHPKGIEMDGKMMNSHFLDGNLVPLEGKEVDESRREMIRILKDLKQKHPEKDLDQLVEMANYYALSHQQKSRAFYRIQATRMMTGAGNILKKHAAEQAKKASSMSEVHTDEPEDFISKVFFDPCSYQCLENCGAVLLTVVRKGGDMSKTMYVDYKTEDGSANAGADYEFTEGTVVLKPGETQKEFSVGIIDDDIFEEDEHFFVRLSNVRIEEEQPEEGMPPAIFNSLPLPRAVLASPCVATVTILDDDHAGIFTFECDTIHVSESIGVMEVKVLRTSGARGTVIVPFRTVEGTAKGGGEDFEDTYGELEFKNDETVKTIRVKIVDEEEYERQENFFIALGEPKWMERGISALLLSPDVTDRKLTMEEEEAKRIAEMGKPVLGEHPKLEVIIEESYEFKTTVDKLIKKTNLALVVGTHSWRDQFMEAITVSAAGDEDEDESGEERLPSCFDYVMHFLTVFWKVLFACVPPTEYCHGWACFAVSILIIGMLTAIIGDLASHFGCTIGLKDSVTAVVFVAFGTSVPDTFASKAAALQDVYADASIGNVTGSNAVNVFLGIGLAWSVAAIYWALQGQEFHVSAGTLAFSVTLFTIFAFVCISVLLYRRRPHLGGELGGPRGCKLATTWLFVSLWLLYILFATLEAYCYIKGF",
+				"organism": "Homo sapiens",
+				"molecular_functions": [
+					"Calmodulin-binding"
+				],
+				"protein": "Sodium/calcium exchanger 3",
+				"id": "P57103",
+				"length": 927,
+				"diseases": [
+
+				],
+				"gene": "SLC8A3"
+			},
+			"diseases": [
+
+			],
+			"source": "AlphaKnot",
+			"knotType": [
+				"3_1"
+			],
+			"knotCoreLength": [
+				719
+			],
+			"molecular_functions": [
+				"Calmodulin-binding"
+			]
+		}
+	},
+	{
+		"id": "P32418",
+		"data": {
+			"molecular_functions": [
+				"Calmodulin-binding"
+			],
+			"diseases": [
+
+			],
+			"source": "AlphaKnot",
+			"knotCoreLength": [
+				765
+			],
+			"uniprot": {
+				"protein": "Sodium/calcium exchanger 1",
+				"gene": "SLC8A1",
+				"organism": "Homo sapiens",
+				"molecular_functions": [
+					"Calmodulin-binding"
+				],
+				"id": "P32418",
+				"sequence": "MYNMRRLSLSPTFSMGFHLLVTVSLLFSHVDHVIAETEMEGEGNETGECTGSYYCKKGVILPIWEPQDPSFGDKIARATVYFVAMVYMFLGVSIIADRFMSSIEVITSQEKEITIKKPNGETTKTTVRIWNETVSNLTLMALGSSAPEILLSVIEVCGHNFTAGDLGPSTIVGSAAFNMFIIIALCVYVVPDGETRKIKHLRVFFVTAAWSIFAYTWLYIILSVISPGVVEVWEGLLTFFFFPICVVFAWVADRRLLFYKYVYKRYRAGKQRGMIIEHEGDRPSSKTEIEMDGKVVNSHVENFLDGALVLEVDERDQDDEEARREMARILKELKQKHPDKEIEQLIELANYQVLSQQQKSRAFYRIQATRLMTGAGNILKRHAADQARKAVSMHEVNTEVTENDPVSKIFFEQGTYQCLENCGTVALTIIRRGGDLTNTVFVDFRTEDGTANAGSDYEFTEGTVVFKPGDTQKEIRVGIIDDDIFEEDENFLVHLSNVKVSSEASEDGILEANHVSTLACLGSPSTATVTIFDDDHAGIFTFEEPVTHVSESIGIMEVKVLRTSGARGNVIVPYKTIEGTARGGGEDFEDTCGELEFQNDEIVKTISVKVIDDEEYEKNKTFFLEIGEPRLVEMSEKKALLLNELGGFTITGKYLFGQPVFRKVHAREHPILSTVITIADEYDDKQPLTSKEEEERRIAEMGRPILGEHTKLEVIIEESYEFKSTVDKLIKKTNLALVVGTNSWREQFIEAITVSAGEDDDDDECGEEKLPSCFDYVMHFLTVFWKVLFAFVPPTEYWNGWACFIVSILMIGLLTAFIGDLASHFGCTIGLKDSVTAVVFVALGTSVPDTFASKVAATQDQYADASIGNVTGSNAVNVFLGIGVAWSIAAIYHAANGEQFKVSPGTLAFSVTLFTIFAFINVGVLLYRRRPEIGGELGGPRTAKLLTSCLFVLLWLLYIFFSSLEAYCHIKGF",
+				"diseases": [
+
+				],
+				"length": 973
+			},
+			"alphaknot": {
+				"knotProbability": [
+					0.73
+				],
+				"proteinName": [
+					"Sodium/calcium exchanger 1"
+				],
+				"PFAM": [
+					"PF03160,PF01699,PF16494"
+				],
+				"EC": [
+					null
+				],
+				"family": [
+					"Hominidae"
+				],
+				"kingdom": [
+					"Eukaryota"
+				],
+				"knotCoreRange": [
+					"98-863"
+				],
+				"pLDDT_chain": [
+					75.2
+				],
+				"InterPro": [
+					"IPR038081,IPR003644,IPR001623,IPR004836,IPR032452,IPR002987,IPR004837,IPR044880"
+				],
+				"geneName": [
+					null
+				],
+				"knotCoreLength": [
+					765
+				],
+				"PDB": [
+					null
+				],
+				"category": [
+					"AF1-Knot"
+				],
+				"pLDDT_knotCore": [
+					75.3
+				],
+				"version": [
+					1
+				],
+				"knotType": [
+					"3_1"
+				],
+				"organism": [
+					"Human"
+				],
+				"uniprotId": [
+					"P32418"
+				],
+				"#FILTER: Uniprot=P32418;": [
+					null
+				],
+				"chainLength": [
+					973
+				],
+				"fingerprint": [
+					"K 3_1"
+				]
+			},
+			"knotType": [
+				"3_1"
+			]
+		}
+	},
+	{
+		"id": "Q8NDH3",
+		"data": {
+			"uniprot": {
+				"organism": "Homo sapiens",
+				"molecular_functions": [
+					"Aminopeptidase",
+					"Hydrolase",
+					"Protease"
+				],
+				"sequence": "MANVGLQFQASAGDSDPQSRPLLLLGQLHHLHRVPWSHVRGKLQPRVTEELWQAALSTLNPNPTDSCPLYLNYATVAALPCRVSRHNSPSAAHFITRLVRTCLPPGAHRCIVMVCEQPEVFASACALARAFPLFTHRSGASRRLEKKTVTVEFFLVGQDNGPVEVSTLQCLANATDGVRLAARIVDTPCNEMNTDTFLEEINKVGKELGIIPTIIRDEELKTRGFGGIYGVGKAALHPPALAVLSHTPDGATQTIAWVGKGIVYDTGGLSIKGKTTMPGMKRDCGGAAAVLGAFRAAIKQGFKDNLHAVFCLAENSVGPNATRPDDIHLLYSGKTVEINNTDAEGRLVLADGVSYACKDLGADIILDMATLTGAQGIATGKYHAAVLTNSAEWEAACVKAGRKCGDLVHPLVYCPELHFSEFTSAVADMKNSVADRDNSPSSCAGLFIASHIGFDWPGVWVHLDIAAPVHAGERATGFGVALLLALFGRASEDPLLNLVSPLGCEVDVEEGDLGRDSKRRRLV",
+				"gene": "NPEPL1",
+				"protein": "Probable aminopeptidase NPEPL1",
+				"diseases": [
+
+				],
+				"length": 523,
+				"id": "Q8NDH3"
+			},
+			"molecular_functions": [
+				"Aminopeptidase",
+				"Hydrolase",
+				"Protease"
+			],
+			"alphaknot": {
+				"EC": [
+
+				],
+				"proteinName": [
+
+				],
+				"category": [
+
+				],
+				"InterPro": [
+
+				],
+				"PFAM": [
+
+				],
+				"kingdom": [
+
+				],
+				"knotCoreLength": [
+
+				],
+				"knotCoreRange": [
+
+				],
+				"family": [
+
+				],
+				"pLDDT_chain": [
+
+				],
+				"#FILTER: Uniprot=Q8NDH3;": [
+
+				],
+				"knotType": [
+
+				],
+				"PDB": [
+
+				],
+				"chainLength": [
+
+				],
+				"uniprotId": [
+
+				],
+				"pLDDT_knotCore": [
+
+				],
+				"version": [
+
+				],
+				"organism": [
+
+				],
+				"knotProbability": [
+
+				],
+				"fingerprint": [
+
+				],
+				"geneName": [
+
+				]
+			},
+			"knotCoreLength": [
+
+			],
+			"knotType": [
+
+			],
+			"source": "AlphaKnot",
+			"diseases": [
+
+			]
+		}
+	},
+	{
+		"id": "P9WIK7",
+		"data": {
+			"molecular_functions": [
+				"Acyltransferase",
+				"Transferase"
+			],
+			"knotCoreLength": [
+				143
+			],
+			"alphaknot": {
+				"family": [
+					"Mycobacteriaceae"
+				],
+				"pLDDT_knotCore": [
+					98.4
+				],
+				"uniprotId": [
+					"P9WIK7"
+				],
+				"knotProbability": [
+					0.7
+				],
+				"PDB": [
+					null
+				],
+				"pLDDT_chain": [
+					96.43
+				],
+				"fingerprint": [
+					"K 3_1"
+				],
+				"PFAM": [
+					"PF00668"
+				],
+				"InterPro": [
+					"IPR023213,IPR001242"
+				],
+				"proteinName": [
+					"Trehalose-2-sulfate acyltransferase PapA2"
+				],
+				"chainLength": [
+					468
+				],
+				"geneName": [
+					null
+				],
+				"knotType": [
+					"3_1"
+				],
+				"EC": [
+					null
+				],
+				"knotCoreRange": [
+					"20-163"
+				],
+				"#FILTER: Uniprot=P9WIK7;": [
+					null
+				],
+				"knotCoreLength": [
+					143
+				],
+				"category": [
+					"AF1-Knot"
+				],
+				"version": [
+					1
+				],
+				"organism": [
+					"Myctu"
+				],
+				"kingdom": [
+					"Bacteria"
+				]
+			},
+			"knotType": [
+				"3_1"
+			],
+			"source": "AlphaKnot",
+			"diseases": [
+
+			],
+			"uniprot": {
+				"organism": "Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)",
+				"molecular_functions": [
+					"Acyltransferase",
+					"Transferase"
+				],
+				"diseases": [
+
+				],
+				"id": "P9WIK7",
+				"length": 468,
+				"gene": "papA2",
+				"sequence": "MFSITTLRDWTPDPGSIICWHASPTAKAKARQAPISEVPPSYQQAQHLRRYRDHVARGLDMSRLMIFTWDLPGRCNIRAMNYAINAHLRRHDTYHSWFEFDNAEHIVRHTIADPADIEVVQAEHQNMTSAELRHHIATPQPLQWDCFLFGIIQSDDHFTFYASIAHLCVDPMIVGVLFIEIHMMYSALVGGDPPIELPPAGRYDDHCVRQYADTAALTLDSARVRRWVEFAANNDGTLPHFPLPLGDLSVPHTGKLLTETLMDEQQGERFEAACVAAGARFSGGVFACAALAERELTNCETFDVVTTTDTRRTPTELRTTGWFTGLVPITVPVASGLFDSAARVAQISFDSGKDLATVPFDRVLELARPETGLRPPRPGNFVMSFLDASIAPLSTVANSDLNFRIYDEGRVSHQVSMWVNRYQHQTTVTVLFPDNPIASESVANYIAAMKSIYIRTADGTLATLKPGT",
+				"protein": "Trehalose-2-sulfate acyltransferase PapA2"
+			}
+		}
+	},
+	{
+		"id": "Q7RTV0",
+		"data": {
+			"alphaknot": {
+				"pLDDT_knotCore": [
+					93.6
+				],
+				"InterPro": [
+					"IPR005345"
+				],
+				"knotCoreLength": [
+					47
+				],
+				"knotProbability": [
+					0.75
+				],
+				"kingdom": [
+					"Eukaryota"
+				],
+				"PDB": [
+					"5IFE_D,5O9Z_y,5SYB_A,5Z56_6,5Z57_6,5Z58_6,5ZYA_D,6AH0_6,6AHD_6,6EN4_D,6FF4_y,6FF7_y,6QX9_B,6Y50_y,6Y5Q_y,7ABG_y,7ABH_y,7ABI_y,7DVQ_6,7B0I_D,7B91_D,7B92_D,7B9C_D,7EVN_D,7EVO_6,7OMF_D,7ONB_D,7OPI_D,7Q3L_G,7Q4O_G,7Q4P_G"
+				],
+				"chainLength": [
+					110
+				],
+				"#FILTER: Uniprot=Q7RTV0;": [
+					null
+				],
+				"EC": [
+					null
+				],
+				"knotCoreRange": [
+					"21-68"
+				],
+				"geneName": [
+					null
+				],
+				"category": [
+					"AF1-Knot"
+				],
+				"family": [
+					"Hominidae"
+				],
+				"version": [
+					1
+				],
+				"fingerprint": [
+					"K 3_1"
+				],
+				"organism": [
+					"Human"
+				],
+				"pLDDT_chain": [
+					89.2
+				],
+				"knotType": [
+					"3_1"
+				],
+				"uniprotId": [
+					"Q7RTV0"
+				],
+				"proteinName": [
+					"PHD finger-like domain-containing protein 5A"
+				],
+				"PFAM": [
+					"PF03660"
+				]
+			},
+			"uniprot": {
+				"diseases": [
+
+				],
+				"length": 110,
+				"organism": "Homo sapiens",
+				"protein": "PHD finger-like domain-containing protein 5A",
+				"gene": "PHF5A",
+				"molecular_functions": [
+					"Activator",
+					"DNA-binding",
+					"RNA-binding"
+				],
+				"id": "Q7RTV0",
+				"sequence": "MAKHHPDLIFCRKQAGVAIGRLCEKCDGKCVICDSYVRPCTLVRICDECNYGSYQGRCVICGGPGVSDAYYCKECTIQEKDRDGCPKIVNLGSSKTDLFYERKKYGFKKR"
+			},
+			"diseases": [
+
+			],
+			"source": "AlphaKnot",
+			"molecular_functions": [
+				"Activator",
+				"DNA-binding",
+				"RNA-binding"
+			],
+			"knotCoreLength": [
+				47
+			],
+			"knotType": [
+				"3_1"
+			]
+		}
+	},
+	{
+		"id": "Q9NVC6",
+		"data": {
+			"knotType": [
+				"3_1"
+			],
+			"knotCoreLength": [
+				109
+			],
+			"molecular_functions": [
+				"Activator"
+			],
+			"diseases": [
+				"Microcephaly, postnatal progressive, with seizures and brain atrophy"
+			],
+			"uniprot": {
+				"organism": "Homo sapiens",
+				"sequence": "MSGVRAVRISIESACEKQVHEVGLDGTETYLPPLSMSQNLARLAQRIDFSQGSGSEEEEAAGTEGDAQEWPGAGSSADQDDEEGVVKFQPSLWPWDSVRNNLRSALTEMCVLYDVLSIVRDKKFMTLDPVSQDALPPKQNPQTLQLISKKKSLAGAAQILLKGAERLTKSVTENQENKLQRDFNSELLRLRQHWKLRKVGDKILGDLSYRSAGSLFPHHGTFEVIKNTDLDLDKKIPEDYCPLDVQIPSDLEGSAYIKVSIQKQAPDIGDLGTVNLFKRPLPKSKPGSPHWQTKLEAAQNVLLCKEIFAQLSREAVQIKSQVPHIVVKNQIISQPFPSLQLSISLCHSSNDKKSQKFATEKQCPEDHLYVLEHNLHLLIREFHKQTLSSIMMPHPASAPFGHKRMRLSGPQAFDKNEINSLQSSEGLLEKIIKQAKHIFLRSRAAATIDSLASRIEDPQIQAHWSNINDVYESSVKVLITSQGYEQICKSIQLQLNIGVEQIRVVHRDGRVITLSYQEQELQDFLLSQMSQHQVHAVQQLAKVMGWQVLSFSNHVGLGPIESIGNASAITVASPSGDYAISVRNGPESGSKIMVQFPRNQCKDLPKSDVLQDNKWSHLRGPFKEVQWNKMEGRNFVYKMELLMSALSPCLL",
+				"diseases": [
+					{
+						"diseaseId": "Microcephaly, postnatal progressive, with seizures and brain atrophy",
+						"xRef": {
+							"id": "613668",
+							"database": "MIM"
+						}
+					}
+				],
+				"gene": "MED17",
+				"molecular_functions": [
+					"Activator"
+				],
+				"protein": "Mediator of RNA polymerase II transcription subunit 17",
+				"id": "Q9NVC6",
+				"length": 651
+			},
+			"alphaknot": {
+				"kingdom": [
+					"Eukaryota"
+				],
+				"family": [
+					"Hominidae"
+				],
+				"#FILTER: Uniprot=Q9NVC6;": [
+					null
+				],
+				"proteinName": [
+					"Mediator of RNA polymerase II transcription subunit 17"
+				],
+				"version": [
+					1
+				],
+				"fingerprint": [
+					"K 3_1"
+				],
+				"category": [
+					"AF1-Knot"
+				],
+				"EC": [
+					null
+				],
+				"uniprotId": [
+					"Q9NVC6"
+				],
+				"knotType": [
+					"3_1"
+				],
+				"organism": [
+					"Human"
+				],
+				"knotCoreLength": [
+					109
+				],
+				"PFAM": [
+					"PF10156"
+				],
+				"knotProbability": [
+					0.97
+				],
+				"pLDDT_knotCore": [
+					73.2
+				],
+				"knotCoreRange": [
+					"257-366"
+				],
+				"chainLength": [
+					651
+				],
+				"InterPro": [
+					"IPR019313"
+				],
+				"pLDDT_chain": [
+					77.3
+				],
+				"geneName": [
+					null
+				],
+				"PDB": [
+					"7EMF_Q,7ENA_q,7ENC_q,7ENJ_Q,7LBM_j,7NVR_d"
+				]
+			},
+			"source": "AlphaKnot"
+		}
+	},
+	{
+		"id": "O95905",
+		"data": {
+			"source": "AlphaKnot",
+			"diseases": [
+
+			],
+			"knotType": [
+				"3_1"
+			],
+			"uniprot": {
+				"sequence": "MEETMKLATMEDTVEYCLFLIPDESRDSDKHKEILQKYIERIITRFAPMLVPYIWQNQPFNLKYKPGKGGVPAHMFGVTKFGDNIEDEWFIVYVIKQITKEFPELVARIEDNDGEFLLIEAADFLPKWLDPENSTNRVFFCHGELCIIPAPRKSGAESWLPTTPPTIPQALNIITAHSEKILASESIRAAVNRRIRGYPEKIQASLHRAHCFLPAGIVAVLKQRPRLVAAAVQAFYLRDPIDLRACRVFKTFLPETRIMTSVTFTKCLYAQLVQQRFVPDRRSGYRLPPPSDPQYRAHELGMKLAHGFEILCSKCSPHFSDCKKSLVTASPLWASFLESLKKNDYFKGLIEGSAQYRERLEMAENYFQLSVDWPESSLAMSPGEEILTLLQTIPFDIEDLKKEAANLPPEDDDQWLDLSPDQLDQLLQEAVGKKESESVSKEEKEQNYDLTEVSESMKAFISKVSTHKGAELPREPSEAPITFDADSFLNYFDKILGPRPNESDSDDLDDEDFECLDSDDDLDFETHEPGEEASLKGTLDNLKSYMAQMDQELAHTCISKSFTTRNQVEPVSQTTDNNSDEEDSGTGESVMAPVDVDLNLVSNILESYSSQAGLAGPASNLLQSMGVQLPDNTDHRPTSKPTKN",
+				"organism": "Homo sapiens",
+				"gene": "ECD",
+				"diseases": [
+
+				],
+				"length": 644,
+				"id": "O95905",
+				"protein": "Protein ecdysoneless homolog",
+				"molecular_functions": [
+					"Activator"
+				]
+			},
+			"knotCoreLength": [
+				89
+			],
+			"molecular_functions": [
+				"Activator"
+			],
+			"alphaknot": {
+				"pLDDT_chain": [
+					76.3
+				],
+				"kingdom": [
+					"Eukaryota"
+				],
+				"uniprotId": [
+					"O95905"
+				],
+				"PDB": [
+					null
+				],
+				"knotType": [
+					"3_1"
+				],
+				"fingerprint": [
+					"K 3_1"
+				],
+				"knotCoreRange": [
+					"215-304"
+				],
+				"InterPro": [
+					"IPR010770"
+				],
+				"knotProbability": [
+					0.86
+				],
+				"PFAM": [
+					"PF07093"
+				],
+				"geneName": [
+					null
+				],
+				"pLDDT_knotCore": [
+					93
+				],
+				"version": [
+					1
+				],
+				"category": [
+					"AF1-Knot"
+				],
+				"#FILTER: Uniprot=O95905;": [
+					null
+				],
+				"proteinName": [
+					"Protein ecdysoneless homolog"
+				],
+				"chainLength": [
+					644
+				],
+				"EC": [
+					null
+				],
+				"family": [
+					"Hominidae"
+				],
+				"knotCoreLength": [
+					89
+				],
+				"organism": [
+					"Human"
+				]
+			}
+		}
+	},
+	{
+		"id": "Q9UI40",
+		"data": {
+			"source": "AlphaKnot",
+			"knotCoreLength": [
+				402
+			],
+			"uniprot": {
+				"diseases": [
+
+				],
+				"protein": "Sodium/potassium/calcium exchanger 2",
+				"length": 661,
+				"id": "Q9UI40",
+				"sequence": "MDLQQSTTITSLEKWCLDESLSGCRRHYSVKKKLKLIRVLGLFMGLVAISTVSFSISAFSETDTQSTGEASVVSGPRVAQGYHQRTLLDLNDKILDYTPQPPLSKEGESENSTDHAQGDYPKDIFSLEERRKGAIILHVIGMIYMFIALAIVCDEFFVPSLTVITEKLGISDDVAGATFMAAGGSAPELFTSLIGVFIAHSNVGIGTIVGSAVFNILFVIGMCALFSREILNLTWWPLFRDVSFYIVDLIMLIIFFLDNVIMWWESLLLLTAYFCYVVFMKFNVQVEKWVKQMINRNKVVKVTAPEAQAKPSAARDKDEPTLPAKPRLQRGGSSASLHNSLMRNSIFQLMIHTLDPLAEELGSYGKLKYYDTMTEEGRFREKASILHKIAKKKCHVDENERQNGAANHVEKIELPNSTSTDVEMTPSSDASEPVQNGNLSHNIEGAEAQTADEEEDQPLSLAWPSETRKQVTFLIVFPIVFPLWITLPDVRKPSSRKFFPITFFGSITWIAVFSYLMVWWAHQVGETIGISEEIMGLTILAAGTSIPDLITSVIVARKGLGDMAVSSSVGSNIFDITVGLPLPWLLYTVIHRFQPVAVSSNGLFCAIVLLFIMLLFVILSIALCKWRMNKILGFIMFGLYFVFLVVSVLLEDRILTCPVSI",
+				"molecular_functions": [
+
+				],
+				"organism": "Homo sapiens",
+				"gene": "SLC24A2"
+			},
+			"molecular_functions": [
+
+			],
+			"diseases": [
+
+			],
+			"knotType": [
+				"3_1"
+			],
+			"alphaknot": {
+				"fingerprint": [
+					"K 3_1"
+				],
+				"PFAM": [
+					null
+				],
+				"geneName": [
+					null
+				],
+				"category": [
+					"AF1-Knot"
+				],
+				"chainLength": [
+					661
+				],
+				"PDB": [
+					null
+				],
+				"kingdom": [
+					"Eukaryota"
+				],
+				"knotCoreRange": [
+					"158-560"
+				],
+				"family": [
+					"Hominidae"
+				],
+				"InterPro": [
+					null
+				],
+				"organism": [
+					"Human"
+				],
+				"knotType": [
+					"3_1"
+				],
+				"#FILTER: Uniprot=Q9UI40;": [
+					null
+				],
+				"knotCoreLength": [
+					402
+				],
+				"EC": [
+					null
+				],
+				"uniprotId": [
+					"Q9UI40"
+				],
+				"pLDDT_knotCore": [
+					69.1
+				],
+				"version": [
+					1
+				],
+				"proteinName": [
+					"Sodium/potassium/calcium exchanger 2"
+				],
+				"knotProbability": [
+					0.74
+				],
+				"pLDDT_chain": [
+					66.8
+				]
+			}
+		}
+	},
+	{
+		"id": "Q9T095",
+		"data": {
+			"source": "AlphaKnot",
+			"diseases": [
+
+			],
+			"knotCoreLength": [
+				519,
+				657
+			],
+			"uniprot": {
+				"molecular_functions": [
+
+				],
+				"organism": "Arabidopsis thaliana",
+				"protein": "Oligopeptide transporter 6",
+				"gene": "OPT6",
+				"sequence": "MGEIATEFTPVMDDDDDRCVVPEVELTVPKTDDSTLPVLTFRMWVLGIGACIVLSFINQFFWYRTMPLSITGISAQIAVVPLGHLMARVLPTKRFLEGTRFQFTLNPGAFNVKEHVLITIFANSGAGSVYATHILSAIKLYYKRSLPFLPAFLVMITTQILGFGWAGLFRKHLVEPGEMWWPSNLVQVSLFGALHEKEKKSRGGMSRTQFFLIVLVASFAYYIFPGYLFTMLTSISWVCWLNPKSILVNQLGSGEHGLGIGSIGFDWVTISAYLGSPLASPLFASVNVAIGFVLVMYIVTPVCYWLNIYDAKTFPIFSSQLFMGNGSRYDVLSIIDSKFHLDRVVYSRTGSINMSTFFAVTYGLGFATLSATIVHVLVFNGSDLWKQTRGAFQKNKKMDIHTRIMKKNYREVPLWWFLVILLLNIALIMFISVHYNATVQLPWWGVLLACAIAISFTPLIGVIAATTNQAPGLNIITEYVIGYIYPERPVANMCFKVYGYISMTQALTFISDFKLGHYMKIPPRSMFMAQVAGTLVAVVVYTGTAWWLMEEIPHLCDTSLLPSDSQWTCPMDRVFFDASVIWGLVGPRRVFGDLGEYSNVNWFFLVGAIAPLLVWLATKMFPAQTWIAKIHIPVLVGATAMMPPATAVNFTSWLIVAFIFGHFIFKYRRVWWTKYNYVLSGGLDAGSAFMTILLFLALGRKGIEVQWWGNSGDRDTCPLASCPTAKGVVVKGCPVF",
+				"diseases": [
+
+				],
+				"length": 736,
+				"id": "Q9T095"
+			},
+			"alphaknot": {
+				"fingerprint": [
+					"K 5_2, 3_1, 5_2, 5_2, 3_1",
+					"K 5_2, 3_1, 5_2, 5_2, 3_1"
+				],
+				"geneName": [
+					null,
+					null
+				],
+				"InterPro": [
+					"IPR004648,IPR004813",
+					"IPR004648,IPR004813"
+				],
+				"knotProbability": [
+					0.75,
+					0.75
+				],
+				"PDB": [
+					null,
+					null
+				],
+				"knotCoreLength": [
+					519,
+					657
+				],
+				"family": [
+					"Brassicaceae",
+					"Brassicaceae"
+				],
+				"proteinName": [
+					"Oligopeptide transporter 6",
+					"Oligopeptide transporter 6"
+				],
+				"EC": [
+					null,
+					null
+				],
+				"uniprotId": [
+					"Q9T095",
+					"Q9T095"
+				],
+				"pLDDT_knotCore": [
+					90.5,
+					90.5
+				],
+				"knotType": [
+					"5_2",
+					"5_2"
+				],
+				"category": [
+					"AF1-Knot",
+					"AF1-Knot"
+				],
+				"knotCoreRange": [
+					"120-639",
+					"25-682"
+				],
+				"kingdom": [
+					"Eukaryota",
+					"Eukaryota"
+				],
+				"version": [
+					1,
+					1
+				],
+				"pLDDT_chain": [
+					88.51,
+					88.51
+				],
+				"#FILTER: Uniprot=Q9T095;": [
+					null,
+					null
+				],
+				"chainLength": [
+					736,
+					736
+				],
+				"PFAM": [
+					"PF03169",
+					"PF03169"
+				],
+				"organism": [
+					"Arath",
+					"Arath"
+				]
+			},
+			"molecular_functions": [
+
+			],
+			"knotType": [
+				"5_2",
+				"5_2"
+			]
+		}
+	},
+	{
+		"id": "Q9SUA4",
+		"data": {
+			"uniprot": {
+				"length": 753,
+				"id": "Q9SUA4",
+				"protein": "Oligopeptide transporter 5",
+				"diseases": [
+
+				],
+				"organism": "Arabidopsis thaliana",
+				"molecular_functions": [
+
+				],
+				"gene": "OPT5",
+				"sequence": "MVGSLEVSKPPEHKVESKIVIADEEEEDENDSPIEEVRLTVPITDDPSLPVLTFRTWFLGMVSCVVLAFVNNFFGYRSNPLTVSSVVAQIITLPLGKLMATTLPTTKLRLPGTNWSCSLNPGPFNMKEHVLITIFANTGAGGAYATSILTIVKAFYHRNLNPAAAMLLVQTTQLLGYGWAGMFRKYLVDSPYMWWPANLVQVSLFRALHEKEEKREGKQTKLRFFLIVFFLSFTYYIVPGYLFPSISYLSFVCWIWTRSVTAQQIGSGLHGLGIGSFGLDWSTVAGFLGSPLAVPFFAIANSFGGFIIFFYIILPIFYWSNAYEAKKFPFYTSHPFDHTGQRYNTTRILNQKTFNIDLPAYESYSKLYLSILFALIYGLSFGTLTATISHVALFDGKFIWELWKKATLTTKDKFGDVHTRLMKKNYKEVPQWWFVAVLAASFVLALYACEGFGKQLQLPWWGLLLACAIAFTFTLPIGVILATTNQRMGLNVISELIIGFLYPGKPLANVAFKTYGSVSIAQALYFVGDFKLGHYMKIPPRSMFIVQLVATIVASTVSFGTTWWLLSSVENICNTDMLPKSSPWTCPGDVVFYNASIIWGIIGPGRMFTSKGIYPGMNWFFLIGFLAPVPVWFFARKFPEKKWIHQIHIPLIFSGANVMPMAKAVHYWSWFAVGIVFNYYIFRRYKGWWARHNYILSAALDAGTAVMGVLIYFALQNNNISLPDWWGNENTDHCPLANCPTEKGIVAKGCPVF"
+			},
+			"diseases": [
+
+			],
+			"source": "AlphaKnot",
+			"alphaknot": {
+				"knotType": [
+					"5_2",
+					"5_2"
+				],
+				"knotCoreRange": [
+					"132-657",
+					"72-700"
+				],
+				"PFAM": [
+					"PF03169",
+					"PF03169"
+				],
+				"#FILTER: Uniprot=Q9SUA4;": [
+					null,
+					null
+				],
+				"category": [
+					"AF1-Knot",
+					"AF1-Knot"
+				],
+				"proteinName": [
+					"Oligopeptide transporter 5",
+					"Oligopeptide transporter 5"
+				],
+				"geneName": [
+					null,
+					null
+				],
+				"fingerprint": [
+					"K 5_2, 3_1, 5_2, 3_1",
+					"K 5_2, 3_1, 5_2, 3_1"
+				],
+				"version": [
+					1,
+					1
+				],
+				"uniprotId": [
+					"Q9SUA4",
+					"Q9SUA4"
+				],
+				"chainLength": [
+					753,
+					753
+				],
+				"pLDDT_chain": [
+					87.04,
+					87.04
+				],
+				"family": [
+					"Brassicaceae",
+					"Brassicaceae"
+				],
+				"kingdom": [
+					"Eukaryota",
+					"Eukaryota"
+				],
+				"PDB": [
+					null,
+					null
+				],
+				"EC": [
+					null,
+					null
+				],
+				"InterPro": [
+					"IPR004648,IPR004813",
+					"IPR004648,IPR004813"
+				],
+				"knotCoreLength": [
+					525,
+					628
+				],
+				"organism": [
+					"Arath",
+					"Arath"
+				],
+				"knotProbability": [
+					0.75,
+					0.75
+				],
+				"pLDDT_knotCore": [
+					90,
+					90
+				]
+			},
+			"molecular_functions": [
+
+			],
+			"knotCoreLength": [
+				525,
+				628
+			],
+			"knotType": [
+				"5_2",
+				"5_2"
+			]
+		}
+	},
+	{
+		"id": "Q9SHY2",
+		"data": {
+			"diseases": [
+
+			],
+			"knotCoreLength": [
+				489,
+				575
+			],
+			"uniprot": {
+				"molecular_functions": [
+
+				],
+				"organism": "Arabidopsis thaliana",
+				"id": "Q9SHY2",
+				"sequence": "MEVERSKKDDDLNNGSKSNEEEEISVERIFEESNEIPPPWQKQLTFRALIVSFILAILFTFVVMKLNLTTGIIPSLNISAGLLGFFFVKSWTKILNKAGFLKQPFTRQENTVIQTCVVASSGIAFSGGFGSYLFGMSDVVAKQSAEANTPLNIKNPHLGWMIGFLFVVSFLGLFSVVPLRKIMIVDFKLTYPSGTATAHLINSFHTPQGAKLAKKQVRALGKFFSFSFLWGFFQWFFATGDGCGFANFPTFGLKAYENKFYFDFSATYVGVGMICPYLINVSLLIGAILSWGVMWPLIGAQKGKWYAADLSSTSLHGLQGYRVFIAIAMILGDGLYNFIKVLGRTVFGLYKQFKNKDVLPINDHTSTAPVTISYDDKRRTELFLKDRIPSWFAVTGYVVLAIVSIITVPHIFHQLKWYHILIMYIIAPVLAFCNAYGCGLTDWSLASTYGKLAIFTIGAWAGASNGGVLAGLAACGVMMNIVSTASDLMQDFKTGYMTLASPRSMFLSQAIGTAMGCVISPCVFWLFYKAFPDFGQPGTAYPAPYALVYRNMSILGVEGFSALPKHCLMLCYIFFAAAVIVNGIRDALGPKWARFIPLPMAMAIPFYLGGYFTIDMCLGSLILFIWRKLNKPKADAYSSAVASGLICGEGIWTLPSSILALAGVKAPICMKFLSMASNNKVDAFLNPS",
+				"protein": "Probable metal-nicotianamine transporter YSL7",
+				"diseases": [
+
+				],
+				"gene": "YSL7",
+				"length": 688
+			},
+			"knotType": [
+				"5_2",
+				"5_2"
+			],
+			"alphaknot": {
+				"pLDDT_chain": [
+					86.29,
+					86.29
+				],
+				"kingdom": [
+					"Eukaryota",
+					"Eukaryota"
+				],
+				"#FILTER: Uniprot=Q9SHY2;": [
+					null,
+					null
+				],
+				"category": [
+					"AF1-Knot",
+					"AF1-Knot"
+				],
+				"knotCoreLength": [
+					489,
+					575
+				],
+				"pLDDT_knotCore": [
+					88.3,
+					88.3
+				],
+				"family": [
+					"Brassicaceae",
+					"Brassicaceae"
+				],
+				"version": [
+					1,
+					1
+				],
+				"PDB": [
+					null,
+					null
+				],
+				"fingerprint": [
+					"K 5_2, 3_1, 5_2, 3_1",
+					"K 5_2, 3_1, 5_2, 3_1"
+				],
+				"chainLength": [
+					688,
+					688
+				],
+				"proteinName": [
+					"Probable metal-nicotianamine transporter YSL7",
+					"Probable metal-nicotianamine transporter YSL7"
+				],
+				"knotCoreRange": [
+					"118-607",
+					"70-645"
+				],
+				"PFAM": [
+					"PF03169",
+					"PF03169"
+				],
+				"geneName": [
+					null,
+					null
+				],
+				"uniprotId": [
+					"Q9SHY2",
+					"Q9SHY2"
+				],
+				"knotType": [
+					"5_2",
+					"5_2"
+				],
+				"InterPro": [
+					"IPR004813,IPR045035",
+					"IPR004813,IPR045035"
+				],
+				"organism": [
+					"Arath",
+					"Arath"
+				],
+				"knotProbability": [
+					0.84,
+					0.84
+				],
+				"EC": [
+					null,
+					null
+				]
+			},
+			"molecular_functions": [
+
+			],
+			"source": "AlphaKnot"
+		}
+	},
+	{
+		"id": "Q9NS85",
+		"data": {
+			"uniprot": {
+				"protein": "Carbonic anhydrase-related protein 10",
+				"molecular_functions": [
+
+				],
+				"sequence": "MEIVWEVLFLLQANFIVCISAQQNSPKIHEGWWAYKEVVQGSFVPVPSFWGLVNSAWNLCSVGKRQSPVNIETSHMIFDPFLTPLRINTGGRKVSGTMYNTGRHVSLRLDKEHLVNISGGPMTYSHRLEEIRLHFGSEDSQGSEHLLNGQAFSGEVQLIHYNHELYTNVTEAAKSPNGLVVVSIFIKVSDSSNPFLNRMLNRDTITRITYKNDAYLLQGLNIEELYPETSSFITYDGSMTIPPCYETASWIIMNKPVYITRMQMHSLRLLSQNQPSQIFLSMSDNFRPVQPLNNRCIRTNINFSLQGKDCPNNRAQKLQYRVNEWLLK",
+				"length": 328,
+				"diseases": [
+
+				],
+				"id": "Q9NS85",
+				"gene": "CA10",
+				"organism": "Homo sapiens"
+			},
+			"source": "AlphaKnot",
+			"alphaknot": {
+				"knotType": [
+					"3_1"
+				],
+				"InterPro": [
+					"IPR041878,IPR018423,IPR001148,IPR036398,IPR023561"
+				],
+				"geneName": [
+					null
+				],
+				"category": [
+					"AF1-Knot"
+				],
+				"pLDDT_knotCore": [
+					95.4
+				],
+				"family": [
+					"Hominidae"
+				],
+				"PDB": [
+					null
+				],
+				"knotCoreRange": [
+					"68-298"
+				],
+				"organism": [
+					"Human"
+				],
+				"fingerprint": [
+					"K 3_1"
+				],
+				"proteinName": [
+					"Carbonic anhydrase-related protein 10"
+				],
+				"knotProbability": [
+					0.84
+				],
+				"EC": [
+					null
+				],
+				"#FILTER: Uniprot=Q9NS85;": [
+					null
+				],
+				"chainLength": [
+					328
+				],
+				"version": [
+					1
+				],
+				"knotCoreLength": [
+					230
+				],
+				"kingdom": [
+					"Eukaryota"
+				],
+				"uniprotId": [
+					"Q9NS85"
+				],
+				"pLDDT_chain": [
+					86.1
+				],
+				"PFAM": [
+					"PF00194"
+				]
+			},
+			"knotType": [
+				"3_1"
+			],
+			"diseases": [
+
+			],
+			"knotCoreLength": [
+				230
+			],
+			"molecular_functions": [
+
+			]
+		}
+	}
+]
